@@ -1,0 +1,1814 @@
+Plant_code,Supplier,Material_user_country,Item_weight_kg,One_Year_forecast_qty,12_month_forecast_spend,Price_per_unit_in_JPY
+7876 - TSA,AB Linde Maskiner,7876 - TSA,0.357,485,160579.0916,315.6248768
+7876 - TSA,Gnotec AB,7876 - TSA,0.013,1539,12879.92714,8.015452742
+7876 - TSA,Gnotec AB,7876 - TSA,0.052,0,0,27.06857811
+7876 - TSA,Gnotec AB,7876 - TSA,0.19,9859,767615.6575,73.97868678
+7876 - TSA,Gnotec AB,7876 - TSA,0.034,0,0,14.8482977
+7876 - TSA,Gnotec AB,7876 - TSA,0.033,329,6439.963568,18.9217245
+7876 - TSA,Gnotec AB,7876 - TSA,0.055,1341,35699.79804,25.75456947
+7876 - TSA,Gnotec AB,7876 - TSA,0.055,332,8819.950104,26.54297465
+7876 - TSA,Gnotec AB,7876 - TSA,0.031,1357,25199.85744,18.39612105
+7876 - TSA,Gnotec AB,7876 - TSA,0.04,12437,271178.4659,20.76133661
+7876 - TSA,Gnotec AB,7876 - TSA,0.059,808,24779.85982,29.43379367
+7876 - TSA,Gnotec AB,7876 - TSA,0.059,0,0,25.6231686
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.013,0,0,8.015452742
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.052,24945,710075.983,27.06857811
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.05,588,16099.90892,26.41157379
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.078,3950,207198.8278,50.06372942
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.039,29650,692856.0804,22.20674612
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.138,128,14839.91605,111.0337306
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.125,141,16799.90496,114.7129548
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.19,0,0,58.21058303
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.034,0,0,14.8482977
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.033,6351,125719.2888,18.9217245
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.055,4420,118999.3268,25.75456947
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.055,0,0,26.41157379
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.031,4013,77139.56361,18.39612105
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.026,8305,166039.0607,19.05312537
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.04,0,0,20.76133661
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.059,0,0,29.43379367
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.06,9683,303378.2837,29.82799627
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.059,0,0,25.6231686
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.054,4061,617256.5081,144.5409511
+8417 - TMBP,Gnotec AB,8417 - TMBP,0.07,453,18199.89704,39.42025939
+8431 - UDS(P) LTD,Gnotec AB,8431 - UDS(P) LTD,0.055,0,0,21.41834093
+8431 - UDS(P) LTD,Gnotec AB,8431 - UDS(P) LTD,0.19,0,0,73.97868678
+7876 - TSA,Shiloh Industries AB,7876 - TSA,0.006,4642,27159.84635,5.650237179
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.02,423,3919.977824,8.915348935
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.475,1092,582396.7053,506.8059971
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.116,0,0,48.26222357
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.034,54,5739.967528,103.0530097
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,9.135,598,2222487.427,3530.302679
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.026,0,0,67.74261199
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.49,0,0,199.8231555
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,10.16,576,3689679.127,6084.164051
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.249,0,0,156.4047042
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.086,0,0,225.7619069
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.313,0,0,163.2140651
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.301,0,0,135.5905234
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.304,235,79939.54777,324.9188389
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.267,1180,322838.1737,260.2299095
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.301,211,47599.73072,215.1266678
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.256,1204,216438.7756,171.3572185
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.529,708,135799.2318,182.273256
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.204,0,0,381.6752139
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.49,793,178778.9886,214.4948714
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.192,1546,623696.4717,383.219605
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.16,633,67619.61747,101.9298162
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,0.28,781,142519.1937,173.357907
+8417 - TMBP,Volvo Lastvagnar AB,8417 - TMBP,1.391,1444,564056.809,371.180374
+7876 - TSA,Profilgruppen Extrusions AB,7876 - TSA,0.29,0,0,1944.732796
+7876 - TSA,Profilgruppen Extrusions AB,7876 - TSA,0.16,0,0,1971.012969
+7876 - TSA,Profilgruppen Extrusions AB,7876 - TSA,0.29,0,0,1944.732796
+7876 - TSA,Beslag & Metall AB,7876 - TSA,0.064,7126,1821389.696,242.8287978
+8431 - UDS(P) LTD,Beslag & Metall AB,8431 - UDS(P) LTD,0.064,0,0,242.8287978
+8431 - UDS(P) LTD,"Sönnergrens Verkstäder, AB",8431 - UDS(P) LTD,0.032,0,0,122.2028041
+8417 - TMBP,Press Kogyo Sweden AB,8417 - TMBP,6.45,0,0,1950.383034
+8431 - UDS(P) LTD,Press Kogyo Sweden AB,8431 - UDS(P) LTD,6.45,0,0,1853.934799
+8431 - UDS(P) LTD,Press Kogyo Sweden AB,8431 - UDS(P) LTD,6.45,0,0,1950.383034
+8417 - TMBP,UD Trucks Corporation,8417 - TMBP,0.34,0,0,76.8534749
+8417 - TMBP,UD Trucks Corporation,8417 - TMBP,0.43,0,0,265.6934418
+8417 - TMBP,UD Trucks Corporation,8417 - TMBP,0.45,0,0,362.3092388
+8417 - TMBP,UD Trucks Corporation,8417 - TMBP,0.496,0,0,261.3018146
+8417 - TMBP,Abotechno Co Ltd,8417 - TMBP,0.115,0,0,61.19
+8417 - TMBP,Abotechno Co Ltd,8417 - TMBP,0.115,0,0,61.19
+8431 - UDS(P) LTD,Abotechno Co Ltd,8431 - UDS(P) LTD,3.2,0,0,14913.96576
+8417 - TMBP,Alpha Corporation,8417 - TMBP,0.019,3139,156939.1122,47.20999172
+8417 - TMBP,Alpha Corporation,8417 - TMBP,0.018,3146,157079.1114,47.20999172
+7876 - TSA,Malmar BVBA,7876 - TSA,1.236,0,0,1733.809558
+8431 - UDS(P) LTD,Malmar BVBA,8431 - UDS(P) LTD,1.236,0,0,1751.094469
+8417 - TMBP,Hitachi High-Technologies Corp.,8417 - TMBP,0.34,0,0,310
+8417 - TMBP,Muro Corporation,8417 - TMBP,0.068,0,0,42.81836458
+8417 - TMBP,Muro Corporation,8417 - TMBP,0.233,0,0,170.1755516
+8417 - TMBP,Muro Corporation,8417 - TMBP,0.071,0,0,93.32207666
+8417 - TMBP,HI-LEX Corporation,8417 - TMBP,0.018,213,8259.953272,37.51
+8417 - TMBP,Ohkuma Co Ltd,8417 - TMBP,0.12,0,0,132.09
+7876 - TSA,Tazm Technology Co Ltd,7876 - TSA,0.045,0,0,5407
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.05,725,59359.66419,78.29
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.168,3017,315698.2141,100
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.155,0,0,97.51
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.076,0,0,93.76
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.076,0,0,93.76
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.155,0,0,121.62
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.053,0,0,37.78
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.053,0,0,37.78
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.11,0,0,79.1
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.11,0,0,79.1
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.155,0,0,97.51
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.13,0,0,189.03
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.12,0,0,151.96
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.09,0,0,97.57
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.14,3067,346918.0374,108.1
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.14,3104,351258.0129,108.1
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.014,1115,129639.2666,111.27
+8417 - TMBP,Tazm Technology Co Ltd,8417 - TMBP,0.065,0,0,109.98
+8431 - UDS(P) LTD,ZF Steering Gear (India) Limited,8431 - UDS(P) LTD,10,0,0,1720.419931
+8431 - UDS(P) LTD,ZF Steering Gear (India) Limited,8431 - UDS(P) LTD,10,0,0,4581.565011
+7876 - TSA,JBM Auto Limited,7876 - TSA,0.21,544,86239.51213,150.4132294
+7876 - TSA,JBM Auto Limited,7876 - TSA,7.661,507,1728570.221,3236.6292
+7876 - TSA,JBM Auto Limited,7876 - TSA,0.035,702,43679.7529,59.28696635
+8417 - TMBP,JBM Auto Limited,8417 - TMBP,1.628,416,503717.1504,1145.116776
+8417 - TMBP,JBM Auto Limited,8417 - TMBP,0.475,1590,407397.6953,243.7353061
+8417 - TMBP,JBM Auto Limited,8417 - TMBP,0.205,533,66359.62459,118.5739327
+8417 - TMBP,JBM Auto Limited,8417 - TMBP,0.345,0,0,129.5530005
+8417 - TMBP,JBM Auto Limited,8417 - TMBP,0.624,419,94499.4654,216.2876365
+8417 - TMBP,JBM Auto Limited,8417 - TMBP,0.17,676,76439.56757,107.5948649
+8417 - TMBP,JBM Auto Limited,8417 - TMBP,0.192,0,0,309.7987937
+8417 - TMBP,JBM Auto Limited,8417 - TMBP,0.115,1190,343418.0572,273.3787893
+8431 - UDS(P) LTD,JBM Auto Limited,8431 - UDS(P) LTD,0.155,0,0,230.5604247
+8431 - UDS(P) LTD,JBM Auto Limited,8431 - UDS(P) LTD,1.628,0,0,1145.116776
+8431 - UDS(P) LTD,JBM Auto Limited,8431 - UDS(P) LTD,0.475,0,0,243.7353061
+8431 - UDS(P) LTD,JBM Auto Limited,8431 - UDS(P) LTD,0.205,0,0,118.5739327
+8431 - UDS(P) LTD,JBM Auto Limited,8431 - UDS(P) LTD,0.345,0,0,129.5530005
+8431 - UDS(P) LTD,JBM Auto Limited,8431 - UDS(P) LTD,0.624,0,0,216.2876365
+8431 - UDS(P) LTD,JBM Auto Limited,8431 - UDS(P) LTD,0.21,0,0,150.4132294
+8431 - UDS(P) LTD,JBM Auto Limited,8431 - UDS(P) LTD,0.17,0,0,107.5948649
+8431 - UDS(P) LTD,JBM Auto Limited,8431 - UDS(P) LTD,0.115,0,0,273.3787893
+8431 - UDS(P) LTD,JBM Auto Limited,8431 - UDS(P) LTD,0.035,0,0,59.28696635
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.771,0,0,236.2918466
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.339,0,0,92.76876864
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.31,0,0,48.99931934
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,4.176,0,0,1093.393837
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.54,0,0,252.7185525
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.043,0,0,34.39780298
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.082,0,0,77.2195577
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,2.546,0,0,813.0166432
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.776,0,0,236.2918466
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,2.735,0,0,733.796397
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.32,0,0,84.41501649
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.576,0,0,140.715094
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.387,0,0,90.34688251
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.11,0,0,70.19959791
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,2.546,0,0,813.0166432
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.117,0,0,1590.722889
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.239,0,0,2031.400865
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.183,0,0,179.0089747
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.21,0,0,1587.914905
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,1.126,0,0,15868.26811
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.206,0,0,1234.810927
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.438,0,0,930.8466683
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.155,0,0,126.3592762
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,1.285,0,0,494.2051693
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,1.567,0,0,533.9732415
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.27,0,0,184.1686451
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,1.36,0,0,456.2973864
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.15,0,0,72.97248203
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.922,0,0,270.268452
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.062,0,0,81.78253157
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.108,0,0,27.09704479
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,2.391,0,0,877.6353731
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.44,0,0,116.7419313
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.45,0,0,233.4838627
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.29,0,0,166.2326479
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.11,0,0,63.56573591
+8417 - TMBP,"Thai-Swedish Assembly Co., Ltd",8417 - TMBP,0.086,0,0,52.12320145
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.346,0,0,519.6904196
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.413,0,0,519.6904196
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.22,0,0,0.109790678
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.635,0,0,1279.056016
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.174,0,0,2017.952669
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.652,0,0,949.239846
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.652,0,0,949.239846
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.595,0,0,610.8826196
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.195,0,0,327.9765581
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.775,0,0,5203.474239
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.3,0,0,236.5215563
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.436,0,0,9896.193317
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.561,0,0,1182.607782
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.561,0,0,1814.777341
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.663,0,0,8225.037121
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.286,0,0,636.7859349
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.13,0,0,3781.190965
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.336,0,0,8608.687095
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.121,0,0,570.9115278
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,0.074,0,0,1523.894617
+8417 - TMBP,Volvo Group India Private Limited (Formerly Volvo India Private Ltd),8417 - TMBP,1.158,0,0,1813.331932
+8417 - TMBP,Volvo Group India Private Ltd Formerly Volvo India Private Ltd,8417 - TMBP,0.771,0,0,202.0148483
+8417 - TMBP,Volvo Group India Private Ltd Formerly Volvo India Private Ltd,8417 - TMBP,0.71,0,0,186.6441533
+8417 - TMBP,Volvo Group India Private Ltd Formerly Volvo India Private Ltd,8417 - TMBP,0.73,0,0,186.6441533
+8417 - TMBP,Volvo Group India Private Ltd Formerly Volvo India Private Ltd,8417 - TMBP,0.082,0,0,21.95813568
+8417 - TMBP,Volvo Group India Private Ltd Formerly Volvo India Private Ltd,8417 - TMBP,0.34,0,0,105.3990513
+8417 - TMBP,Volvo Group India Private Ltd Formerly Volvo India Private Ltd,8417 - TMBP,0.776,0,0,202.0148483
+8417 - TMBP,Volvo Group India Private Ltd Formerly Volvo India Private Ltd,8417 - TMBP,0.987,0,0,505.0371207
+8417 - TMBP,Volvo Group India Private Ltd Formerly Volvo India Private Ltd,8417 - TMBP,0.456,0,0,120.7697463
+8417 - TMBP,Volvo Group India Private Ltd Formerly Volvo India Private Ltd,8417 - TMBP,0.289,0,0,5997.864762
+8417 - TMBP,Volvo Group India Private Ltd Formerly Volvo India Private Ltd,8417 - TMBP,0.39,0,0,585.184316
+8417 - TMBP,Volvo Group India Private Ltd Formerly Volvo India Private Ltd,8417 - TMBP,1.567,0,0,396.3443491
+8417 - TMBP,Volvo Group India Private Ltd Formerly Volvo India Private Ltd,8417 - TMBP,0.27,0,0,115.2802123
+8417 - TMBP,Volvo Group India Private Ltd Formerly Volvo India Private Ltd,8417 - TMBP,0.45,0,0,131.7488141
+8417 - TMBP,Dongfeng Neng  DI (HANGZHOU) Motar,8417 - TMBP,4,0,0,4043.590686
+8417 - TMBP,Dongfeng Neng  DI (HANGZHOU) Motar,8417 - TMBP,0.771,0,0,444.6522476
+8417 - TMBP,Dongfeng Neng  DI (HANGZHOU) Motar,8417 - TMBP,6.14,0,0,3170.754793
+8417 - TMBP,Dongfeng Neng  DI (HANGZHOU) Motar,8417 - TMBP,6.14,0,0,3170.754793
+8417 - TMBP,Dongfeng Neng  DI (HANGZHOU) Motar,8417 - TMBP,0.73,0,0,746.5766133
+8417 - TMBP,Dongfeng Neng  DI (HANGZHOU) Motar,8417 - TMBP,3.312,0,0,1701.755516
+8417 - TMBP,Dongfeng Neng  DI (HANGZHOU) Motar,8417 - TMBP,0.06,0,0,30.74138996
+8417 - TMBP,Dongfeng Neng  DI (HANGZHOU) Motar,8417 - TMBP,0.15,0,0,71.36394097
+8417 - TMBP,Dongfeng Neng  DI (HANGZHOU) Motar,8417 - TMBP,0.776,0,0,423.7920187
+8417 - TMBP,Dongfeng Neng  DI (HANGZHOU) Motar,8417 - TMBP,0.095,0,0,48.30789851
+8417 - TMBP,Dongfeng Neng  DI (HANGZHOU) Motar,8417 - TMBP,1.567,0,0,1045.207259
+8417 - TMBP,Dongfeng Neng  DI (HANGZHOU) Motar,8417 - TMBP,0.27,0,0,394.1485355
+7876 - TSA,TMBP Limited,7876 - TSA,0.082,0,0,59.66965823
+7876 - TSA,TMBP Limited,7876 - TSA,0.456,0,0,164.9690551
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.37,0,0,142.7556253
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.216,0,0,221.5509704
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.096,0,0,48.37521188
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.298,0,0,145.3806368
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.366,0,0,263.3411534
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.075,0,0,42.13518455
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.247,0,0,113.0254951
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.05,0,0,33.22514553
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.081,0,0,52.51523002
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.608,0,0,468.0470501
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.728,0,0,414.7818167
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.601,0,0,506.7472196
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.728,0,0,588.3775771
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.35,0,0,355.4115567
+8431 - UDS(P) LTD,VE Commercial Vehicles Ltd Eicher Trucks & Buses,8431 - UDS(P) LTD,0.054,0,0,30.0901318
+7876 - TSA,UD TRUCKS INDIA PRIVATE LIMITED,7876 - TSA,0.495,0,0,15.0000657
+7876 - TSA,UD TRUCKS INDIA PRIVATE LIMITED,7876 - TSA,1.4,0,0,15.0000657
+8417 - TMBP,UD TRUCKS INDIA PRIVATE LIMITED,8417 - TMBP,0.64,0,0,15.0000657
+8417 - TMBP,UD TRUCKS INDIA PRIVATE LIMITED,8417 - TMBP,0.35,0,0,15.0000657
+8417 - TMBP,UD TRUCKS INDIA PRIVATE LIMITED,8417 - TMBP,0.085,0,0,15.0000657
+8417 - TMBP,UD TRUCKS INDIA PRIVATE LIMITED,8417 - TMBP,0.225,0,0,15.0000657
+8417 - TMBP,UD TRUCKS INDIA PRIVATE LIMITED,8417 - TMBP,0.445,0,0,15.0000657
+8417 - TMBP,UD TRUCKS INDIA PRIVATE LIMITED,8417 - TMBP,0.8,0,0,15.0000657
+8417 - TMBP,UD TRUCKS INDIA PRIVATE LIMITED,8417 - TMBP,0.19,0,0,15.0000657
+8417 - TMBP,Tim Hapert B.V.,8417 - TMBP,0.122,7377,433717.5464,55.84355939
+8431 - UDS(P) LTD,Tim Hapert B.V.,8431 - UDS(P) LTD,0.122,0,0,27.92177969
+8431 - UDS(P) LTD,"Mitsubishi Electric Thai Auto-Parts Co., Ltd",8431 - UDS(P) LTD,0.45,0,0,3293.720353
+8431 - UDS(P) LTD,"Mitsubishi Electric Thai Auto-Parts Co., Ltd",8431 - UDS(P) LTD,0.45,0,0,13943.41616
+8431 - UDS(P) LTD,"Anhui Zhongding Rubber-Plastic Products Co.,Ltd.",8431 - UDS(P) LTD,0.544,0,0,335.4068434
+8431 - UDS(P) LTD,"Anhui Zhongding Rubber-Plastic Products Co.,Ltd.",8431 - UDS(P) LTD,0.436,0,0,382.6858468
+7876 - TSA,"Kongsberg Automotive Morse Shaghai Co,. LTD.",7876 - TSA,0.01,3043,339498.0794,106.0351563
+8417 - TMBP,"Kongsberg Automotive Morse Shaghai Co,. LTD.",8417 - TMBP,0.01,2795,311498.2378,106.0351563
+8431 - UDS(P) LTD,"Kongsberg Automotive Morse Shaghai Co,. LTD.",8431 - UDS(P) LTD,0.01,0,0,102.7804423
+7876 - TSA,"Alliance Metal (Changzhou) Co., Ltd",7876 - TSA,1.548,1765,1630850.774,876.545872
+7876 - TSA,"Alliance Metal (Changzhou) Co., Ltd",7876 - TSA,0.794,723,223998.7328,294.4659672
+7876 - TSA,"Alliance Metal (Changzhou) Co., Ltd",7876 - TSA,7.317,26,97159.45036,3552.263386
+7876 - TSA,"Alliance Metal (Changzhou) Co., Ltd",7876 - TSA,3.236,63,69299.60796,1057.782052
+8417 - TMBP,"Alliance Metal (Changzhou) Co., Ltd",8417 - TMBP,1.43,1710,1543911.266,852.7350696
+8417 - TMBP,"Alliance Metal (Changzhou) Co., Ltd",8417 - TMBP,0.235,8695,1801229.81,195.7967426
+8417 - TMBP,"Alliance Metal (Changzhou) Co., Ltd",8417 - TMBP,4.3,0,0,1868.205839
+8417 - TMBP,"Alliance Metal (Changzhou) Co., Ltd",8417 - TMBP,4.427,1400,2753504.423,1868.205839
+8431 - UDS(P) LTD,"Alliance Metal (Changzhou) Co., Ltd",8431 - UDS(P) LTD,0.794,0,0,260.2039079
+8431 - UDS(P) LTD,"Alliance Metal (Changzhou) Co., Ltd",8431 - UDS(P) LTD,0.235,0,0,185.5462465
+8431 - UDS(P) LTD,"Alliance Metal (Changzhou) Co., Ltd",8431 - UDS(P) LTD,1.548,0,0,786.1012575
+8431 - UDS(P) LTD,"Alliance Metal (Changzhou) Co., Ltd",8431 - UDS(P) LTD,1.43,0,0,766.3389354
+8431 - UDS(P) LTD,"Alliance Metal (Changzhou) Co., Ltd",8431 - UDS(P) LTD,4.3,0,0,1381.166735
+8431 - UDS(P) LTD,"Alliance Metal (Changzhou) Co., Ltd",8431 - UDS(P) LTD,4.427,0,0,1353.719065
+8431 - UDS(P) LTD,"Alliance Metal (Changzhou) Co., Ltd",8431 - UDS(P) LTD,3.236,0,0,792.6886982
+7876 - TSA,"Nelson (Changzhou) Tubing Co., Ltd",7876 - TSA,0.235,1322,1042294.104,746.5286125
+7876 - TSA,"Nelson (Changzhou) Tubing Co., Ltd",7876 - TSA,0.214,1316,1036274.138,745.6721089
+8417 - TMBP,"Nelson (Changzhou) Tubing Co., Ltd",8417 - TMBP,0.051,0,0,90.02835631
+8417 - TMBP,"Nelson (Changzhou) Tubing Co., Ltd",8417 - TMBP,0.17,4924,610956.5437,117.5123057
+8417 - TMBP,"Nelson (Changzhou) Tubing Co., Ltd",8417 - TMBP,3.724,320,866875.096,2573.793576
+8431 - UDS(P) LTD,"Nelson (Changzhou) Tubing Co., Ltd",8431 - UDS(P) LTD,0.17,0,0,117.5123057
+8431 - UDS(P) LTD,"Nelson (Changzhou) Tubing Co., Ltd",8431 - UDS(P) LTD,3.724,0,0,2573.793576
+8431 - UDS(P) LTD,"Nelson (Changzhou) Tubing Co., Ltd",8431 - UDS(P) LTD,0.762,0,0,452.3375951
+8431 - UDS(P) LTD,"Nelson (Changzhou) Tubing Co., Ltd",8431 - UDS(P) LTD,0.708,0,0,421.5962051
+8431 - UDS(P) LTD,"Nelson (Changzhou) Tubing Co., Ltd",8431 - UDS(P) LTD,0.718,0,0,452.3375951
+8431 - UDS(P) LTD,"Nelson (Changzhou) Tubing Co., Ltd",8431 - UDS(P) LTD,0.664,0,0,336.6059485
+8431 - UDS(P) LTD,"Nelson (Changzhou) Tubing Co., Ltd",8431 - UDS(P) LTD,0.051,0,0,575.3031549
+7876 - TSA,AQ LASERTOOL OU,7876 - TSA,0.442,0,0,276.4674192
+7876 - TSA,AQ LASERTOOL OU,7876 - TSA,0.44,191,57679.6737,287.1954483
+8417 - TMBP,AQ LASERTOOL OU,8417 - TMBP,0.44,0,0,287.1954483
+7876 - TSA,Gnotec AB,7876 - TSA,0.6,465,88199.50104,179.4971552
+8431 - UDS(P) LTD,"CVG Vehicle Components (Shanghai) Co.,Ltd",8431 - UDS(P) LTD,0.2,0,0,548.1623589
+8431 - UDS(P) LTD,"CVG Vehicle Components (Shanghai) Co.,Ltd",8431 - UDS(P) LTD,0.01,0,0,119.910516
+8431 - UDS(P) LTD,"CVG Vehicle Components (Shanghai) Co.,Ltd",8431 - UDS(P) LTD,0.5,0,0,940.0984455
+8431 - UDS(P) LTD,"CVG Vehicle Components (Shanghai) Co.,Ltd",8431 - UDS(P) LTD,0.12,0,0,1141.548112
+8431 - UDS(P) LTD,"CVG Vehicle Components (Shanghai) Co.,Ltd",8431 - UDS(P) LTD,0.35,0,0,654.7114174
+8431 - UDS(P) LTD,"CVG Vehicle Components (Shanghai) Co.,Ltd",8431 - UDS(P) LTD,0.12,0,0,176.2684585
+8431 - UDS(P) LTD,"CVG Vehicle Components (Shanghai) Co.,Ltd",8431 - UDS(P) LTD,0.35,0,0,688.2863619
+8431 - UDS(P) LTD,"CVG Vehicle Components (Shanghai) Co.,Ltd",8431 - UDS(P) LTD,0.12,0,0,172.8424438
+8431 - UDS(P) LTD,"CVG Vehicle Components (Shanghai) Co.,Ltd",8431 - UDS(P) LTD,0.15,0,0,114.2575917
+8431 - UDS(P) LTD,"CVG Vehicle Components (Shanghai) Co.,Ltd",8431 - UDS(P) LTD,0.07,0,0,310.5682365
+8431 - UDS(P) LTD,"CVG Vehicle Components (Shanghai) Co.,Ltd",8431 - UDS(P) LTD,0.07,0,0,302.1745003
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.039,4546,76859.56519,16.033749
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.817,1674,324938.1618,184.3024631
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,2.426,2,1539.991288,778.4076797
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.24,4708,362037.9519,73.26532528
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.148,263,14699.91684,56.08386135
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.264,0,0,85.85592946
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.274,0,0,72.11761034
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.124,233,15959.90971,66.39616572
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.1,4446,177378.9965,37.77181254
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.1,4419,389477.7967,83.56049959
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.11,203,8679.950896,41.21495736
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,1.859,0,0,693.6994652
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.05,746,19459.88991,26.3289233
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.126,314,24919.85902,76.69134003
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.457,0,0,198.0407822
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.065,5955,165479.0639,26.3289233
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.319,2995,483137.2668,153.3998101
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.653,1687,472777.3254,265.5675328
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.04,1673,55299.68716,32.05036792
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.11,2208,144059.185,61.82243604
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.11,280,35279.80042,122.4800271
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.562,102,29959.83051,279.3058519
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.219,1563,148119.1621,90.42965915
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.05,2625,104439.4092,37.77181254
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.203,2223,171919.0274,73.26532528
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,1.392,0,0,336.5545583
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.044,1663,109619.3799,62.95302091
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.064,1638,90579.48758,52.6578466
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.879,4436,1699310.387,361.7357667
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.876,4437,1699730.384,361.7357667
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.15,8888,721275.9196,76.69134003
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.148,3229,233658.6782,68.6915956
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.057,3002,191938.9142,60.6747211
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.209,2064,324238.1657,148.8089504
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.045,2998,765235.671,241.5340394
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.285,3794,496157.1932,123.627742
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.235,3768,424477.5987,106.4634081
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.11,8830,598216.6158,64.10073584
+7876 - TSA,Fuzhou Fushiang Motor Industrial Co Ltd,7876 - TSA,0.086,8905,560416.8296,59.52700616
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.039,22875,387937.8054,16.033749
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,4.176,1224,1867589.435,1442.352207
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.173,4195,222458.7415,50.36241672
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,3.841,0,0,2014.70223
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.011,1769,39899.77428,21.75519362
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.373,5999,1451651.788,228.9434352
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.212,0,0,107.6111231
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.148,35647,1898949.257,50.36241672
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.652,0,0,212.9939161
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,1.912,0,0,445.7501544
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.361,1503,246398.6061,155.6781099
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.284,584,67899.61588,111.0371378
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.18,0,0,84.53882239
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.635,2444,925114.7665,358.2926218
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.176,18912,1739910.157,87.0036444
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.167,751,36819.79171,46.93640198
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.047,3555,119419.3244,32.05036792
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.154,773,55299.68716,68.6915956
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.154,764,54739.69033,68.6915956
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.291,4330,371977.8957,81.28219978
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.11,231,10779.93902,44.6409721
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.05,0,0,26.3289233
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.295,2226,437917.5226,186.5807629
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.305,2990,407677.6937,129.3491866
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.305,2986,407537.6945,129.3491866
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.125,773,44939.74577,56.08386135
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.16,0,0,71.36394097
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.207,5306,410477.6779,73.26532528
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.237,3003,304638.2766,96.15110377
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.239,2123,243598.6219,108.7417079
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.13,2233,131879.2539,56.08386135
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,3.62,0,0,2593.255824
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,3.62,0,0,2145.199131
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.39,0,0,121.867653
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,3.005,874,695936.063,752.0787564
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,3.318,0,0,626.9047738
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,1.36,0,0,302.2087605
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,1.36,0,0,302.2087605
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.186,213,11339.93585,51.51013166
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.5,0,0,104.1679783
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.11,0,0,122.4800271
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.269,2558,79659.54935,29.75493804
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.065,568,20859.88199,36.6240976
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.484,4444,988954.4053,210.6313864
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.346,3489,614456.5239,167.1209992
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.21,8793,713015.9664,76.69134003
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.14,24,1259.992872,53.80556154
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.22,95,8539.951688,87.87727816
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.055,1742,113679.3569,61.82243604
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.245,2979,385417.8196,122.4800271
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.27,726,121939.3102,160.2689697
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,3.048,2221,1535371.314,653.6322228
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.533,2938,873315.0595,281.6012818
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,4.166,2243,4785452.928,2014.70223
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.038,910,52219.70459,54.95327648
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.4,1838,234918.671,121.3323121
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.078,0,0,32.05036792
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.134,0,0,61.82243604
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.135,0,0,61.82243604
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.078,0,0,32.05036792
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.055,1821,126559.284,66.39616572
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.089,10949,502877.1552,43.49325716
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.06,1072,84979.51926,75.54362509
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.012,972,28699.83764,28.62435318
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.06,8702,326198.1547,35.49351274
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.024,2978,96739.45273,30.90265298
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.035,0,0,54.95327648
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.055,985,90999.4852,88.15135934
+8417 - TMBP,Fuzhou Fushiang Motor Industrial Co Ltd,8417 - TMBP,0.35,1840,411597.6715,211.7791013
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.284,0,0,100.8961342
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.08,0,0,63.89517496
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.13,0,0,51.56152188
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.295,0,0,178.6666689
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.457,0,0,177.8101652
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,1.36,0,0,271.6829691
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,1.36,0,0,271.6829691
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.05,0,0,24.49600541
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,4.176,0,0,1426.421238
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.126,0,0,68.34899413
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.264,0,0,81.19654941
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.124,0,0,76.0575273
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.148,0,0,69.71940002
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.653,0,0,246.33046
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.037,0,0,46.76510124
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.052,0,0,36.14445554
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.04,0,0,29.80632827
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,1.5,0,0,306.7996203
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.055,0,0,60.98306243
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.06,0,0,68.17769339
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.186,0,0,47.79290567
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.167,0,0,43.3390865
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.4,0,0,110.4889755
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.274,0,0,66.29338528
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.176,0,0,79.65484278
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,1.751,0,0,417.4598965
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.105,0,0,43.68168798
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.149,0,0,62.6960698
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.154,0,0,62.18216759
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.154,0,0,86.84947374
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.173,0,0,46.59380051
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.145,0,0,50.19111599
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.817,0,0,186.0326006
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.237,0,0,88.0485789
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.047,0,0,29.12112532
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.148,0,0,47.10770272
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.39,0,0,116.3132005
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.11,0,0,57.38574695
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.5,0,0,95.75711207
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.562,0,0,267.4004507
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.065,0,0,33.91754596
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,1.859,0,0,758.1770627
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.635,0,0,327.0131072
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.35,0,0,190.1438182
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.207,0,0,66.46468602
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.11,0,0,38.20006439
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.11,0,0,111.5167799
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.11,0,0,40.76957544
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.18,0,0,80.34004573
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.269,0,0,26.38031352
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.305,0,0,117.5123057
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.305,0,0,154.6845657
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.125,0,0,51.04761967
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.16,0,0,69.03419708
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.652,0,0,206.0747868
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.2,0,0,79.65484278
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.239,0,0,100.8961342
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.484,0,0,234.1681077
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.219,0,0,93.70150323
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.346,0,0,152.6289568
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.14,0,0,67.3211897
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.203,0,0,68.00639265
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,1.392,0,0,399.8159205
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.044,0,0,61.3256639
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.064,0,0,51.21892041
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.245,0,0,117.341005
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.27,0,0,153.4854605
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,3.048,0,0,755.7788523
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.108,0,0,56.700544
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.533,0,0,267.0578492
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,4.166,0,0,1969.958477
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.72,0,0,71.77500887
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.038,0,0,54.30233368
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.024,0,0,38.88526734
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.11,0,0,75.20102361
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.086,0,0,70.23330224
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,2.426,0,0,768.9690091
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,3.005,0,0,690.6845722
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,3.318,0,0,606.4046095
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.361,0,0,184.6621947
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,1.912,0,0,431.1639554
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,3.841,0,0,2059.206161
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,3.62,0,0,2467.75842
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,3.62,0,0,1957.796125
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.076,0,0,217.8945377
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.209,0,0,146.633431
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.21,0,0,256.779805
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.212,0,0,100.382232
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.089,0,0,54.81623589
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.148,0,0,83.59475973
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.15,0,0,102.0952393
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.285,0,0,111.5167799
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.235,0,0,96.27101428
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.06,0,0,36.48705701
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.876,0,0,451.7200439
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.879,0,0,450.6922395
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.055,0,0,80.85394794
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.24,0,0,72.28891108
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.319,0,0,138.0683942
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,1.93,0,0,410.4365662
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.057,0,0,55.3301381
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.045,0,0,220.4640487
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.065,0,0,31.86193711
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.035,0,0,50.53371746
+8431 - UDS(P) LTD,Fuzhou Fushiang Motor Industrial Co Ltd,8431 - UDS(P) LTD,0.012,0,0,26.20901279
+7876 - TSA,Shiloh Industries AB,7876 - TSA,0.083,1561,90019.49075,55.319764
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,22.69,0,0,33581.28261
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,87.73,0,0,71582.80944
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,66.91,0,0,74894.05269
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,2.46,0,0,1764.911495
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.01,0,0,234.3394084
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,3.92,0,0,4810.638602
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.79,0,0,437.330782
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,1.71,0,0,515.4439181
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,21.5,0,0,6669.422901
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.49,0,0,1171.525741
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,1.13,0,0,499.855551
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.34,0,0,54.81623589
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,87.18,0,0,74972.16583
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.49,0,0,296.6928768
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,1.07,0,0,390.5656807
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.14,0,0,202.9913735
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,66.91,0,0,74894.05269
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.1,0,0,249.9277755
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,7.53,0,0,4529.534092
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.09,0,0,65.60818233
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.02,0,0,107.7481637
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.01,0,0,153.142859
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.02,0,0,107.7481637
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.41,0,0,281.1045097
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.25,0,0,140.6379052
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.05,0,0,265.5161426
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.59,0,0,1155.766074
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.46,0,0,1015.299469
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,93.42,0,0,46857.60364
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.45,0,0,1093.412605
+8431 - UDS(P) LTD,"Shaanxi Fast Gear Co., Ltd",8431 - UDS(P) LTD,0.45,0,0,515.4439181
+8431 - UDS(P) LTD,"Shanghai Mekra Lang Vehicle Mirror Co., Ltd",8431 - UDS(P) LTD,0.222,0,0,262.2614286
+8431 - UDS(P) LTD,"Shanghai Mekra Lang Vehicle Mirror Co., Ltd",8431 - UDS(P) LTD,0.222,0,0,262.2614286
+8431 - UDS(P) LTD,"Shanghai Mekra Lang Vehicle Mirror Co., Ltd",8431 - UDS(P) LTD,0.082,0,0,86.33557153
+8431 - UDS(P) LTD,"Shanghai Mekra Lang Vehicle Mirror Co., Ltd",8431 - UDS(P) LTD,0.082,0,0,86.33557153
+8431 - UDS(P) LTD,"Shanghai Mekra Lang Vehicle Mirror Co., Ltd",8431 - UDS(P) LTD,0.186,0,0,262.2614286
+8431 - UDS(P) LTD,"Shanghai Mekra Lang Vehicle Mirror Co., Ltd",8431 - UDS(P) LTD,0.186,0,0,262.2614286
+7876 - TSA,Dalian KWD Innovation Automotive Parts Limited Liability Company,7876 - TSA,0.408,2249,974814.4853,409.4087618
+8417 - TMBP,Dalian KWD Innovation Automotive Parts Limited Liability Company,8417 - TMBP,0.09,2395,265578.4976,105.6925548
+8417 - TMBP,Dalian KWD Innovation Automotive Parts Limited Liability Company,8417 - TMBP,1.462,34,37939.78537,1062.773767
+8417 - TMBP,Dalian KWD Innovation Automotive Parts Limited Liability Company,8417 - TMBP,0.48,0,0,721.3247572
+8417 - TMBP,Dalian KWD Innovation Automotive Parts Limited Liability Company,8417 - TMBP,0.485,0,0,1051.794699
+8417 - TMBP,Dalian KWD Innovation Automotive Parts Limited Liability Company,8417 - TMBP,0.485,0,0,1051.794699
+8417 - TMBP,Dalian KWD Innovation Automotive Parts Limited Liability Company,8417 - TMBP,0.464,584,663036.2491,1078.509441
+8417 - TMBP,Dalian KWD Innovation Automotive Parts Limited Liability Company,8417 - TMBP,0.464,636,722115.9149,1078.509441
+8431 - UDS(P) LTD,Dalian KWD Innovation Automotive Parts Limited Liability Company,8431 - UDS(P) LTD,0.09,0,0,93.18760101
+8431 - UDS(P) LTD,Dalian KWD Innovation Automotive Parts Limited Liability Company,8431 - UDS(P) LTD,0.485,0,0,3664.63667
+8431 - UDS(P) LTD,Dalian KWD Innovation Automotive Parts Limited Liability Company,8431 - UDS(P) LTD,0.485,0,0,3664.63667
+8431 - UDS(P) LTD,Dalian KWD Innovation Automotive Parts Limited Liability Company,8431 - UDS(P) LTD,0.464,0,0,1111.913085
+8431 - UDS(P) LTD,Dalian KWD Innovation Automotive Parts Limited Liability Company,8431 - UDS(P) LTD,0.464,0,0,1111.913085
+8431 - UDS(P) LTD,Dalian KWD Innovation Automotive Parts Limited Liability Company,8431 - UDS(P) LTD,1.462,0,0,1027.804423
+8431 - UDS(P) LTD,Dalian KWD Innovation Automotive Parts Limited Liability Company,8431 - UDS(P) LTD,0.48,0,0,697.5366017
+7876 - TSA,Suzhou Daxiong Auto Fittings Co LTD,7876 - TSA,0.274,0,0,62.5806867
+7876 - TSA,Suzhou Daxiong Auto Fittings Co LTD,7876 - TSA,0.11,0,0,32.93720353
+7876 - TSA,Suzhou Daxiong Auto Fittings Co LTD,7876 - TSA,0.124,0,0,32.93720353
+7876 - TSA,Suzhou Daxiong Auto Fittings Co LTD,7876 - TSA,0.11,0,0,93.32207666
+7876 - TSA,Suzhou Daxiong Auto Fittings Co LTD,7876 - TSA,0.562,0,0,80.14719525
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.024,0,0,6.587440705
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.461,0,0,109.7906784
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,2.359,0,0,580.7926889
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.222,0,0,80.14719525
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.515,0,0,154.8048566
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.284,0,0,72.46184776
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.18,0,0,77.95138168
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.635,0,0,238.2457722
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.176,0,0,45.01417815
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.167,0,0,35.1330171
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.047,0,0,19.76232212
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.6,0,0,301.9243657
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.154,0,0,46.11208494
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.154,0,0,46.11208494
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.11,0,0,36.23092388
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.05,0,0,17.56650855
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.305,0,0,68.07022062
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.305,0,0,68.07022062
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.125,0,0,32.93720353
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.16,0,0,51.60161886
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.207,0,0,51.60161886
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.237,0,0,77.95138168
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.995,0,0,328.2741285
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.2,0,0,118.5739327
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.39,0,0,93.32207666
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.186,0,0,41.7204578
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.11,0,0,93.32207666
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.921,0,0,385.3652813
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.4,0,0,125.1613734
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.055,0,0,61.48277992
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.089,0,0,19.76232212
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.383,0,0,181.1546194
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.527,0,0,239.343679
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.202,0,0,87.83254274
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.167,0,0,81.24510203
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.06,0,0,73.55975454
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.012,0,0,9.881161058
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.035,0,0,27.44766961
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.055,0,0,41.7204578
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.075,0,0,31.83929674
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.049,0,0,27.44766961
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.046,0,0,30.74138996
+8417 - TMBP,Suzhou Daxiong Auto Fittings Co LTD,8417 - TMBP,0.031,0,0,21.95813568
+8431 - UDS(P) LTD,Suzhou Daxiong Auto Fittings Co LTD,8431 - UDS(P) LTD,0.114,0,0,37.00095923
+8431 - UDS(P) LTD,Suzhou Daxiong Auto Fittings Co LTD,8431 - UDS(P) LTD,0.565,0,0,239.6497313
+8431 - UDS(P) LTD,Suzhou Daxiong Auto Fittings Co LTD,8431 - UDS(P) LTD,0.565,0,0,239.6497313
+8431 - UDS(P) LTD,Suzhou Daxiong Auto Fittings Co LTD,8431 - UDS(P) LTD,0.57,0,0,242.5618438
+8431 - UDS(P) LTD,Suzhou Daxiong Auto Fittings Co LTD,8431 - UDS(P) LTD,0.11,0,0,87.19207521
+8431 - UDS(P) LTD,Suzhou Daxiong Auto Fittings Co LTD,8431 - UDS(P) LTD,0.086,0,0,71.26110666
+8431 - UDS(P) LTD,Suzhou Daxiong Auto Fittings Co LTD,8431 - UDS(P) LTD,0.31,0,0,67.3211897
+8431 - UDS(P) LTD,PT Gemala Kempa Daya,8431 - UDS(P) LTD,4.408,0,0,2535.066765
+8431 - UDS(P) LTD,PT Gemala Kempa Daya,8431 - UDS(P) LTD,4.413,0,0,2535.066765
+8431 - UDS(P) LTD,Chongqing Hi-Lex Cable System Group Co Ltd,8431 - UDS(P) LTD,0.225,0,0,564.6072297
+8431 - UDS(P) LTD,Chongqing Hi-Lex Cable System Group Co Ltd,8431 - UDS(P) LTD,0.225,0,0,564.6072297
+8417 - TMBP,Guangdong Fuwa Heavy Industries Co. Ltd,8417 - TMBP,0.3,1334,161979.0837,114.1823056
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.02,0,0,125.2208389
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.02,0,0,125.2208389
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.02,0,0,30.66283195
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.02,0,0,126.5912448
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.006,0,0,25.3525091
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.01,0,0,25.3525091
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.02,0,0,37.3435607
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.03,0,0,37.3435607
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.02,0,0,2.226909583
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.02,0,0,21.58389288
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.016,0,0,21.58389288
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.008,0,0,11.47714939
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.005,0,0,11.47714939
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.03,0,0,47.62160493
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.03,0,0,47.62160493
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.04,0,0,37.00095923
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.04,0,0,88.0485789
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.05,0,0,88.0485789
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.05,0,0,88.0485789
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.3,0,0,122.1374256
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.6,0,0,104.8360511
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.05,0,0,189.1160138
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.02,0,0,146.633431
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.02,0,0,146.633431
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.02,0,0,146.633431
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.02,0,0,146.633431
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.02,0,0,146.633431
+8431 - UDS(P) LTD,Guangdong Fuwa Heavy Industries Co. Ltd,8431 - UDS(P) LTD,0.02,0,0,146.633431
+8431 - UDS(P) LTD,APM Auto Parts Marketing (Malaysia) Sdn Bhd,8431 - UDS(P) LTD,4.044,0,0,867.3463595
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.55,270,81619.53827,289.292543
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.8,213,543756.9239,2438.839331
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.745,228,147839.1637,623.3373297
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.001,0,0,1442.04014
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.87,1817,1304092.623,684.726878
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.022,1689,372397.8933,210.8795921
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.096,178,51799.70696,277.0076134
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.514,217,158759.1019,700.5919872
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.366,1720,712735.968,395.6800336
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.267,205,61879.64994,288.9064452
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.139,89,23799.86536,256.8954286
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,2.6,81,132019.2531,1552.183309
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.074,0,0,272.4095397
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.35,445,210838.8073,453.4543027
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,8.495,209,441557.502,2017.255646
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,1.233,102,53479.69746,500.0317359
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.857,41,31779.82022,746.5025242
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,3.613,29,33739.80913,1107.539056
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,3.613,663,666536.2293,959.9444017
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,3.613,200,218398.7645,1040.217642
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.94,6,3359.980992,557.9464042
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,4.8,4539,11116917.11,2335.014126
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.433,48,29819.8313,601.1542567
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.438,9,5599.96832,600.8383585
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,1.4,7,10079.94298,1382.581081
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,2.2,0,0,2105.60184
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.31,0,0,426.1115593
+7876 - TSA,Ohkuma Ind. (Thailand) Co. Ltd.,7876 - TSA,0.65,248,127959.2761,492.5905786
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.082,1555,180458.9791,111.3365623
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.29,0,0,262.6166958
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.29,0,0,267.1445699
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.992,0,0,564.8961644
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,3.84,2030,3735878.866,1753.831654
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.732,0,0,604.769536
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,4.36,886,2194347.586,2363.374763
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.798,805,340338.0747,403.8933866
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.65,93,44099.75052,454.3317977
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.75,6900,3148302.19,435.1673075
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.6,0,0,2191.421941
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.05,0,0,1124.773058
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.145,337,117179.3371,332.1493975
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.66,0,0,537.2375228
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.117,1665,376597.8695,216.0743624
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.234,2480,943454.6627,363.0723204
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.162,1864,635316.4059,325.2347371
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.199,0,0,348.7867022
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,3.3,0,0,1548.848829
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.058,0,0,238.2574353
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.206,0,0,315.5822924
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.438,0,0,413.6862305
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.977,2486,1406012.046,539.5541096
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.977,2499,1399852.081,534.3593393
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,3.1,4809,12334210.22,2445.402993
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,2.706,1854,3311541.266,1703.568742
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,2.706,1846,3295021.36,1702.515748
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,2.6,0,0,1559.06287
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.78,72,35559.79883,472.6538928
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,1.556,0,0,1237.689111
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,2.923,0,0,1610.835074
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.35,0,0,483.8156288
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.22,400,75879.57074,182.0626572
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.055,1219,185358.9514,145.9800639
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.64,37,37659.78695,986.4798497
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.35,42,24079.86378,557.3497076
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.059,1289,330818.1285,245.6985927
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.489,42,18619.89466,430.9904314
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,1.4,0,0,1382.581081
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.31,2,839.995248,426.1115593
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.052,2212,231278.6916,99.82382823
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.059,557,157779.1074,269.8472544
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.075,3187,279998.416,84.0289187
+8417 - TMBP,Ohkuma Ind. (Thailand) Co. Ltd.,8417 - TMBP,0.061,3466,369317.9107,101.7543172
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.87,0,0,684.726878
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.206,0,0,315.5822924
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.85,0,0,235.344152
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.55,0,0,313.5114043
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.162,0,0,325.2347371
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.199,0,0,348.7867022
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.052,0,0,99.82382823
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.145,0,0,332.1493975
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.267,0,0,288.9064452
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.798,0,0,403.8933866
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,4.36,0,0,2363.374763
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.082,0,0,111.3365623
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.234,0,0,363.0723204
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.66,0,0,537.2375228
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.8,0,0,2438.839331
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.745,0,0,623.3373297
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.117,0,0,216.0743624
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.022,0,0,210.8795921
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.096,0,0,277.0076134
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.514,0,0,700.5919872
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.366,0,0,395.6800336
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.058,0,0,238.2574353
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.438,0,0,413.6862305
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.977,0,0,539.5541096
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.977,0,0,534.3593393
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.28,0,0,164.7935561
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.139,0,0,256.9305284
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,3.1,0,0,2121.712647
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0,0,0,3588.673645
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,2.706,0,0,1703.568742
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,2.706,0,0,1702.515748
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,2.6,0,0,1559.06287
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.275,0,0,416.564414
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.195,0,0,331.4825013
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.174,0,0,320.4611645
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.074,0,0,272.4095397
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,1.556,0,0,1237.689111
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,2.923,0,0,1493.320947
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.22,0,0,180.7288648
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.857,0,0,752.820488
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.055,0,0,148.0860518
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.94,0,0,557.9464042
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,4.8,0,0,1798.127601
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.059,0,0,269.8472544
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.061,0,0,101.7543172
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.732,0,0,604.769536
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.992,0,0,564.8961644
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.75,0,0,435.1673075
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,3.84,0,0,1382.79168
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,4.885,0,0,1751.05877
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,3.3,0,0,1548.848829
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,0.65,0,0,492.5905786
+8431 - UDS(P) LTD,Ohkuma Ind. (Thailand) Co. Ltd.,8431 - UDS(P) LTD,28.621,0,0,12467.44859
+8431 - UDS(P) LTD,"Aptiv Electrical Centers(Shanghai) Co.,Ltd",8431 - UDS(P) LTD,0.1,0,0,219.2649436
+8431 - UDS(P) LTD,Tirsan Kardan Sanayi Ve Ticaret A.S.,8431 - UDS(P) LTD,0.13,0,0,11827.74979
+8431 - UDS(P) LTD,Tirsan Kardan Sanayi Ve Ticaret A.S.,8431 - UDS(P) LTD,0.13,0,0,281.0641368
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,2.49,2023,1294712.676,610.5961027
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,3.37,1998,2299906.989,1098.553508
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,4.662,582,1243472.965,2036.244637
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,0.99,0,0,417.26641
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,0.346,0,0,485.535519
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,1.14,171,183958.9593,1027.300916
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,1,104,76999.5644,706.2781546
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,0.644,0,0,452.4013088
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,0.644,2,839.995248,452.4013088
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,2.134,1,1399.99208,1379.386999
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,1.248,0,0,924.1426067
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,4.672,2665,4807992.8,1723.680927
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,1.29,919,1143233.533,1187.110301
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,0.334,108,31079.82418,278.4818049
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,0.918,1748,769575.6464,419.8286953
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,0.394,456,235618.6671,494.8720655
+7876 - TSA,"CH. Auto Parts Co.,Ltd.",7876 - TSA,3.415,290,447997.4656,1474.542554
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,2.49,0,0,518.2485316
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.41,0,0,75.85066555
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.425,0,0,74.65727238
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,1.372,0,0,193.2945929
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.2,0,0,74.65727238
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.135,0,0,45.24364086
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.525,0,0,88.10049538
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.345,0,0,89.18858915
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.55,0,0,725.8638424
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.461,0,0,285.9229623
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.573,0,0,204.8775265
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.515,254,95479.45986,360.7557337
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.995,825,348738.0271,404.2092848
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,1.126,0,0,364.1253144
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.99,2458,1074353.922,417.26641
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.346,4026,2047908.415,485.535519
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.413,205,80359.54539,377.5334376
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,1.162,0,0,568.0551463
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.68,286,181998.9704,607.6126197
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.334,354,102619.4195,278.4818049
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,11.257,610,3690099.125,5800.382177
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,11.094,98,491537.2193,4797.65112
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.779,16,9799.94456,585.1838482
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,3.005,1424,2449986.14,1639.932807
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.98,0,0,416.739913
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,1.175,283,209158.8168,706.3132544
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.258,128,37239.78933,282.5182818
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,1.657,128,113119.3601,848.50254
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.556,3094,555796.8558,171.6380169
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.457,1460,398297.7468,260.4054085
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,1.36,0,0,336.0454752
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,1.08,0,0,216.0392626
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.922,0,0,192.3117985
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.381,0,0,173.3930068
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.209,0,0,130.1851543
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.587,0,0,132.8878388
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.348,0,0,136.3276191
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.242,0,0,107.4404846
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.205,0,0,428.6738447
+8417 - TMBP,"CH. Auto Parts Co.,Ltd.",8417 - TMBP,0.203,0,0,393.2932473
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.138,0,0,91.32967689
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,1.126,0,0,364.1253144
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.115,0,0,298.3482911
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,2.49,0,0,837.1302051
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,4.662,0,0,1723.084231
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.2,0,0,76.16656374
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,1.372,0,0,197.2257703
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.41,0,0,77.3950567
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.55,0,0,740.605758
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.515,0,0,305.2629515
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.99,0,0,671.2134554
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.346,0,0,821.5458944
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,1.14,0,0,1338.320234
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.413,0,0,708.4192423
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,1,0,0,1016.06898
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.644,0,0,496.7323548
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.644,0,0,365.3538073
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,2.134,0,0,1309.187401
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,1.248,0,0,806.1019828
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.695,0,0,377.8844356
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,4.672,0,0,1745.9342
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,1.29,0,0,1495.462034
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,1.162,0,0,568.0551463
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.68,0,0,568.0551463
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.334,0,0,257.1411272
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,11.257,0,0,4679.399898
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,11.094,0,0,4621.450129
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.918,0,0,312.4233105
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.779,0,0,510.1053782
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.394,0,0,485.535519
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.98,0,0,416.739913
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,3.416,0,0,1309.047002
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,3.415,0,0,1309.047002
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,1.175,0,0,633.4811716
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.556,0,0,291.3283313
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.205,0,0,1032.390387
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.203,0,0,997.0097894
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,3.36,0,0,1228.317464
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.461,0,0,267.5306676
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.573,0,0,492.0289818
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,3.37,0,0,1228.317464
+8431 - UDS(P) LTD,"CH. Auto Parts Co.,Ltd.",8431 - UDS(P) LTD,0.995,0,0,660.5782164
+8431 - UDS(P) LTD,"Sanden (Shanghai) Automotive Air-Conditioning Co., Ltd",8431 - UDS(P) LTD,0.088,0,0,695.1383914
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,231.7698974
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,236.3950173
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,234.3394084
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,236.3950173
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,236.3950173
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,236.3950173
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,236.3950173
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,236.3950173
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,238.4506261
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,240.506235
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,238.4506261
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,240.506235
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,240.506235
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,240.506235
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,240.506235
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,240.506235
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,234.8533106
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,232.2837996
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,234.8533106
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,232.2837996
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,234.8533106
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,234.8533106
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,234.8533106
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,234.8533106
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,240.506235
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,240.506235
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,237.4228217
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,240.506235
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,240.506235
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,240.506235
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,240.506235
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,246.1591593
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,243.5896482
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,246.1591593
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,243.5896482
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,246.1591593
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,246.1591593
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,246.1591593
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,252.3259858
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,249.2425726
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,252.3259858
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,252.3259858
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,252.1546851
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,252.3259858
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,252.1546851
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,249.2425726
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,226.6308753
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,228.1725819
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,226.6308753
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,228.1725819
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,229.7142885
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,228.1725819
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,229.7142885
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,229.2003863
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,231.7698974
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,231.7698974
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,231.7698974
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.026,0,0,255.4093991
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.051,0,0,337.1198507
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.002,0,0,301.1466959
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.004,0,0,354.5925259
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,408.0383559
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.002,0,0,301.1466959
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.004,0,0,354.5925259
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,408.0383559
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.123,0,0,441.4419997
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.028,0,0,339.1754596
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.006,0,0,324.7861977
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.027,0,0,339.1754596
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.008,0,0,378.7459299
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,324.7861977
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.043,0,0,282.6462163
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.085,0,0,379.7737343
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.004,0,0,291.8964561
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.006,0,0,342.2588728
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.021,0,0,282.6462163
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.004,0,0,291.8964561
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.006,0,0,342.2588728
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.021,0,0,282.6462163
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.008,0,0,378.7459299
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,22.4,0,0,16765.03184
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,206.0747868
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.025,0,0,297.0354782
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.051,0,0,267.22915
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.008,0,0,338.6615574
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.102,0,0,373.0930055
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.005,0,0,301.1466959
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.025,0,0,262.0901279
+8431 - UDS(P) LTD,Changshu AAM Automotive Driveline High Technology Manufacturing Co.,8431 - UDS(P) LTD,0.008,0,0,354.5925259
+7876 - TSA,"Thai Tazm Trading Co., Ltd",7876 - TSA,0.052,0,0,25.27185525
+7876 - TSA,"Thai Tazm Trading Co., Ltd",7876 - TSA,3.95,0,0,917.0524473
+7876 - TSA,"Thai Tazm Trading Co., Ltd",7876 - TSA,1.285,0,0,482.903034
+7876 - TSA,"Thai Tazm Trading Co., Ltd",7876 - TSA,0.965,0,0,1142.498456
+7876 - TSA,"Thai Tazm Trading Co., Ltd",7876 - TSA,1.046,0,0,882.4089458
+8417 - TMBP,"Thai Tazm Trading Co., Ltd",8417 - TMBP,0.18,0,0,219.5141427
+8417 - TMBP,"Thai Tazm Trading Co., Ltd",8417 - TMBP,0.283,0,0,329.2361142
+8417 - TMBP,"Thai Tazm Trading Co., Ltd",8417 - TMBP,0.277,0,0,363.2829192
+8417 - TMBP,"Thai Tazm Trading Co., Ltd",8417 - TMBP,0.965,0,0,1142.498456
+8417 - TMBP,"Thai Tazm Trading Co., Ltd",8417 - TMBP,1.046,0,0,882.4089458
+8417 - TMBP,"Thai Tazm Trading Co., Ltd",8417 - TMBP,0.29,0,0,162.4418696
+8417 - TMBP,"Thai Tazm Trading Co., Ltd",8417 - TMBP,0.01,0,0,15.37371194
+8431 - UDS(P) LTD,"Dinex Emission System (Changzhou) Co., Ltd",8431 - UDS(P) LTD,0.95,0,0,3357.494448
+8417 - TMBP,Mahindra Composites Limited,8417 - TMBP,0.062,0,0,77.51221897
+8417 - TMBP,"Summit Auto Seats Industry Co.,Ltd.",8417 - TMBP,0.018,4760,72379.59054,14.67171596
+8431 - UDS(P) LTD,"Summit Auto Seats Industry Co.,Ltd.",8431 - UDS(P) LTD,0.018,0,0,15.54921094
+8417 - TMBP,Meritor HVS (India) Ltd,8417 - TMBP,3.5,0,0,3208.083624
+8431 - UDS(P) LTD,Meritor HVS (India) Ltd,8431 - UDS(P) LTD,3.5,0,0,1364.698133
+8431 - UDS(P) LTD,Meritor HVS (India) Ltd,8431 - UDS(P) LTD,3.5,0,0,1352.621158
+8431 - UDS(P) LTD,Meritor HVS (India) Ltd,8431 - UDS(P) LTD,0.65,0,0,220.6792636
+8431 - UDS(P) LTD,Meritor HVS (India) Ltd,8431 - UDS(P) LTD,3.5,0,0,3019.243657
+8431 - UDS(P) LTD,Meritor HVS (India) Ltd,8431 - UDS(P) LTD,0.01,0,0,320.588781
+8417 - TMBP,Meritor Heavy Vehicle Systems (Singapore) Private Limited,8417 - TMBP,3.5,0,0,5379.743243
+8431 - UDS(P) LTD,Talbros Automotive Components Ltd,8431 - UDS(P) LTD,0.298,0,0,689.4854605
+8431 - UDS(P) LTD,Sigma Moulds And Stampings Pvt Ltd,8431 - UDS(P) LTD,0.216,0,0,153.7069498
+8431 - UDS(P) LTD,Sigma Moulds And Stampings Pvt Ltd,8431 - UDS(P) LTD,0.096,0,0,36.23092388
+8431 - UDS(P) LTD,Sigma Moulds And Stampings Pvt Ltd,8431 - UDS(P) LTD,0.366,0,0,177.860899
+8431 - UDS(P) LTD,Sigma Moulds And Stampings Pvt Ltd,8431 - UDS(P) LTD,0.247,0,0,114.1823056
+8417 - TMBP,"Summit Auto Tech Industry Co., Ltd",8417 - TMBP,2.338,4956,3015022.944,581.0771717
+8417 - TMBP,"Summit Auto Tech Industry Co., Ltd",8417 - TMBP,0.167,2078,235898.6655,108.6338778
+8417 - TMBP,"Summit Auto Tech Industry Co., Ltd",8417 - TMBP,0.167,1227,140699.204,110.2835683
+8417 - TMBP,"Summit Auto Tech Industry Co., Ltd",8417 - TMBP,4.139,0,0,1208.240379
+8417 - TMBP,"Summit Auto Tech Industry Co., Ltd",8417 - TMBP,0.31,2745,542916.9286,188.8720182
+8417 - TMBP,"Summit Auto Tech Industry Co., Ltd",8417 - TMBP,0.05,6543,291898.3487,42.57605613
+8431 - UDS(P) LTD,"Summit Auto Tech Industry Co., Ltd",8431 - UDS(P) LTD,0.31,0,0,276.6215156
+8431 - UDS(P) LTD,"Summit Auto Tech Industry Co., Ltd",8431 - UDS(P) LTD,0.167,0,0,110.2835683
+8431 - UDS(P) LTD,"Summit Auto Tech Industry Co., Ltd",8431 - UDS(P) LTD,0.167,0,0,108.6338778
+8417 - TMBP,M.D. Industries,8417 - TMBP,0.012,0,0,19.76232212
+8417 - TMBP,M.D. Industries,8417 - TMBP,0.022,0,0,28.54557639
+8417 - TMBP,M.D. Industries,8417 - TMBP,0.045,0,0,42.81836458
+8417 - TMBP,M.D. Industries,8417 - TMBP,0.021,0,0,28.54557639
+8417 - TMBP,M.D. Industries,8417 - TMBP,0.04,0,0,42.81836458
+8431 - UDS(P) LTD,M.D. Industries,8431 - UDS(P) LTD,0.022,0,0,28.54557639
+8431 - UDS(P) LTD,M.D. Industries,8431 - UDS(P) LTD,0.012,0,0,19.76232212
+8431 - UDS(P) LTD,M.D. Industries,8431 - UDS(P) LTD,0.045,0,0,42.81836458
+8431 - UDS(P) LTD,M.D. Industries,8431 - UDS(P) LTD,0.021,0,0,28.54557639
+8417 - TMBP,Omax Autos Limited,8417 - TMBP,0.1,0,0,32.93720353
+8417 - TMBP,Omax Autos Limited,8417 - TMBP,0.043,0,0,36.23092388
+8417 - TMBP,Omax Autos Limited,8417 - TMBP,0.678,0,0,146.0216023
+8417 - TMBP,Omax Autos Limited,8417 - TMBP,0.074,0,0,52.69952564
+8417 - TMBP,Omax Autos Limited,8417 - TMBP,0.074,0,0,52.69952564
+8417 - TMBP,Omax Autos Limited,8417 - TMBP,0.387,0,0,85.63672917
+8417 - TMBP,Omax Autos Limited,8417 - TMBP,0.134,0,0,82.34300882
+8431 - UDS(P) LTD,Omax Autos Limited,8431 - UDS(P) LTD,0.045,0,0,25.25185604
+8431 - UDS(P) LTD,Omax Autos Limited,8431 - UDS(P) LTD,0.074,0,0,52.69952564
+8431 - UDS(P) LTD,Omax Autos Limited,8431 - UDS(P) LTD,0.074,0,0,52.69952564
+8431 - UDS(P) LTD,Omax Autos Limited,8431 - UDS(P) LTD,0.387,0,0,85.63672917
+8431 - UDS(P) LTD,Omax Autos Limited,8431 - UDS(P) LTD,0.1,0,0,32.93720353
+8431 - UDS(P) LTD,Omax Autos Limited,8431 - UDS(P) LTD,0.134,0,0,82.34300882
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,1.47,3221,1485671.595,434.7710866
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.26,2166,210978.8065,92.22416988
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.274,2167,209018.8176,91.12626309
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.37,2176,298478.3115,129.5530005
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.778,820,205658.8366,238.2457722
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.773,4359,1101093.771,238.2457722
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.455,2187,307998.2576,132.8467209
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.082,3,0,47.20999172
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,2.546,2119,1602290.936,716.9331301
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.394,230,27159.84635,113.0843988
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.254,4465,534516.9762,113.0843988
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,4.39,8901,12077871.67,1276.86559
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.776,0,0,236.0499586
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.544,0,0,155.9027634
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.394,39,4619.973864,115.2802123
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.163,414,41439.76557,96.61579701
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,2.546,2202,1672430.539,716.9331301
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.456,131,18479.89546,133.9446277
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.33,2001,286858.3772,136.1404412
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.159,0,0,60.38487313
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.47,4461,747175.7731,158.0985769
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.228,1143,141539.1993,116.3781191
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.182,188,20299.88516,104.3011445
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.35,5035,697756.0527,130.6509073
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.538,169,26459.85031,148.2174159
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.541,844,131319.2571,147.1195091
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,3.613,550,574836.7481,991.4098262
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,3.613,1874,2333646.798,1172.564446
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,3.613,143,217838.7677,1445.943235
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,2.49,1142,797155.4904,657.6461638
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,2.584,1041,725755.8943,658.7440705
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,2.61,1213,855815.1585,666.429418
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.13,4453,565736.7995,119.6718395
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,3.613,1705,654076.2998,362.3092388
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.245,3772,364557.9376,91.12626309
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.304,0,0,108.6927716
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.088,2187,104439.4092,45.01417815
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.099,2170,110459.3751,48.30789851
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.14,2188,218538.7637,94.41998344
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.498,349,56419.68083,153.7069498
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.309,8902,1038234.127,109.7906784
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.338,8888,1088353.843,115.2802123
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,3.463,1230,1155973.46,890.402402
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.64,1171,257038.5459,206.4064754
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.64,637,137899.2199,206.4064754
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.44,796,120119.3205,142.7278819
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.44,167,24359.86219,142.7278819
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.33,646,86519.51055,128.4550938
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.31,1103,141679.1985,121.867653
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.155,1329,269078.4778,192.1336872
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,2.391,4449,4545214.287,961.766343
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.343,4485,762995.6836,160.2943905
+7876 - TSA,BELRISE INDUSTRIES LIMITED,7876 - TSA,0.343,4449,756975.7177,160.2943905
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,1.456,0,0,412.8129509
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.644,0,0,258.0080943
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.771,4402,1138473.559,243.7353061
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.54,3459,572176.7631,155.9027634
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.136,0,0,54.89533921
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.71,1267,244298.618,183.350433
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.73,2163,419577.6264,183.350433
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.778,0,0,204.2106619
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,3.312,3152,2652424.995,795.9824186
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.761,5355,1113553.7,196.5253144
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.773,0,0,204.2106619
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.484,0,0,233.854145
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,1.322,1285,547536.9025,404.0296966
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.543,514,127819.2769,237.1478654
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.082,37735,1891109.302,47.20999172
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.07,0,0,43.91627137
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.34,8796,1127553.621,120.7697463
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.53,4385,1222893.082,262.3997214
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.254,0,0,99.90951736
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.776,4481,1121673.655,236.0499586
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.386,3425,494337.2035,136.1404412
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.386,897,128099.2753,136.1404412
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.544,0,0,133.9446277
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.116,739,38219.78379,49.40580529
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,2.157,0,0,462.2187562
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.987,63,35979.79646,544.561765
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.11,372,20019.88674,52.69952564
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.786,0,0,259.1060011
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.456,6904,978174.4663,133.9446277
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.289,0,0,104.3011445
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.311,1526,219238.7597,136.1404412
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,2.501,0,0,682.8980198
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,1.699,3739,2139887.894,539.0722311
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,1.12,1237,393957.7713,301.9243657
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.39,0,0,574.2052482
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.1,2047,164359.0702,75.75556811
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.114,5319,295818.3265,52.69952564
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.222,906,95199.46144,99.90951736
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.565,2273,554536.8629,231.6583315
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.563,2335,569516.7782,231.6583315
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.178,4469,291058.3534,61.48277992
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.219,4494,319478.1927,66.97231384
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.115,9384,426157.5892,42.81836458
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.393,2153,373937.8846,163.5881108
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,6.398,0,0,1732.496906
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.304,1928,222318.7423,108.6927716
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.078,2082,130199.2634,59.28696635
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.068,2064,126139.2864,58.18905956
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.37,4433,1211833.144,258.0080943
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.114,415,32059.81863,73.55975454
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.259,2164,332498.119,144.9236955
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.155,2531,205798.8358,76.8534749
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.159,4415,436097.5329,93.32207666
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,1.149,0,0,331.5678488
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.368,0,0,136.1404412
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,3.98,9000,9432726.638,985.9202922
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.663,0,0,452.3375951
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.798,4416,2451806.13,523.7015361
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,1.606,922,1085133.861,1109.983759
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,1.456,1585,687956.1081,412.8129509
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,1.1,97,53339.69825,528.0931632
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.685,1498,870935.073,548.9533921
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.284,0,0,209.7001958
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,1.567,0,0,391.952722
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.27,2943,391297.7864,126.2592802
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.052,8640,532556.9872,58.18905956
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.45,4298,670876.2048,147.1195091
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.109,4425,294138.336,62.5806867
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.227,2666,348038.0311,122.9655598
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.448,4232,829635.3066,185.5462465
+8417 - TMBP,BELRISE INDUSTRIES LIMITED,8417 - TMBP,0.138,95,8399.95248,82.34300882
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.773,0,0,238.2457722
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.14,0,0,73.55975454
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,4.39,0,0,1276.86559
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.53,0,0,262.3997214
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.456,0,0,133.9446277
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,2.201,0,0,671.9189519
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,1.699,0,0,539.0722311
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.39,0,0,552.2471125
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,2.501,0,0,815.7447407
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.394,0,0,115.2802123
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.163,0,0,96.61579701
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.136,0,0,61.48277992
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,3.463,0,0,819.038461
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,3.356,0,0,899.1856563
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.576,0,0,218.4834501
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.37,0,0,129.5530005
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.26,0,0,92.22416988
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.274,0,0,91.12626309
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.544,0,0,155.9027634
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.455,0,0,132.8467209
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.041,0,0,91.12626309
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.54,0,0,155.9027634
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,1.567,0,0,433.6731798
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.786,0,0,308.5118064
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.254,0,0,113.0843988
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.11,0,0,52.69952564
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.33,0,0,136.1404412
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.1,0,0,75.75556811
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,2.157,0,0,462.2187562
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.543,0,0,237.1478654
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,1.322,0,0,404.0296966
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.082,0,0,47.20999172
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.73,0,0,183.350433
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.71,0,0,183.350433
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.761,0,0,196.5253144
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.27,0,0,126.2592802
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.987,0,0,544.561765
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,1.12,0,0,301.9243657
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.159,0,0,60.38487313
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.47,0,0,158.0985769
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.114,0,0,52.69952564
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.222,0,0,99.90951736
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.228,0,0,116.3781191
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.182,0,0,104.3011445
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.565,0,0,231.6583315
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.563,0,0,231.6583315
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.35,0,0,130.6509073
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.219,0,0,66.97231384
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.322,0,0,104.3011445
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.115,0,0,42.81836458
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.538,0,0,148.2174159
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.541,0,0,147.1195091
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.393,0,0,163.5881108
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,3.613,0,0,1445.943235
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.13,0,0,119.6718395
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,3.613,0,0,362.3092388
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,6.398,0,0,1732.496906
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.245,0,0,91.12626309
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.304,0,0,108.6927716
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.078,0,0,59.28696635
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.068,0,0,58.18905956
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.37,0,0,258.0080943
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.114,0,0,73.55975454
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.14,0,0,94.41998344
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.259,0,0,144.9236955
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.155,0,0,76.8534749
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.498,0,0,153.7069498
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.159,0,0,93.32207666
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,1.149,0,0,386.463188
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.368,0,0,152.609043
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.309,0,0,109.7906784
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.338,0,0,115.2802123
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,3.463,0,0,890.402402
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.64,0,0,206.4064754
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.64,0,0,206.4064754
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.44,0,0,142.7278819
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.44,0,0,142.7278819
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.33,0,0,128.4550938
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.663,0,0,452.3375951
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,1.606,0,0,1109.983759
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.109,0,0,62.5806867
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.227,0,0,122.9655598
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.448,0,0,185.5462465
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.138,0,0,82.34300882
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,3.312,0,0,795.9824186
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,1.456,0,0,412.8129509
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.644,0,0,285.4557639
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,1.47,0,0,434.7710866
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.771,0,0,243.7353061
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.776,0,0,236.0499586
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,2.391,0,0,961.766343
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.45,0,0,147.1195091
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.116,0,0,49.40580529
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.16,0,0,54.89533921
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,2.546,0,0,716.9331301
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,2.546,0,0,716.9331301
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.386,0,0,136.1404412
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.386,0,0,136.1404412
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.343,0,0,160.2943905
+8431 - UDS(P) LTD,BELRISE INDUSTRIES LIMITED,8431 - UDS(P) LTD,0.343,0,0,160.2943905
+7876 - TSA,Tianjin Yuao Luqiao Industrial Technology And R And D Co Ltd,7876 - TSA,0.09,6619,502457.1575,71.36394097
+7876 - TSA,Tianjin Yuao Luqiao Industrial Technology And R And D Co Ltd,7876 - TSA,0.44,1031,124039.2983,114.1823056
+7876 - TSA,Tianjin Yuao Luqiao Industrial Technology And R And D Co Ltd,7876 - TSA,0.45,1005,120539.3181,114.1823056
+8431 - UDS(P) LTD,Tianjin Yuao Luqiao Industrial Technology And R And D Co Ltd,8431 - UDS(P) LTD,0.45,0,0,117.341005
+8431 - UDS(P) LTD,Tianjin Yuao Luqiao Industrial Technology And R And D Co Ltd,8431 - UDS(P) LTD,0.44,0,0,117.341005
+8431 - UDS(P) LTD,Tianjin Yuao Luqiao Industrial Technology And R And D Co Ltd,8431 - UDS(P) LTD,4.139,0,0,984.122735
+8431 - UDS(P) LTD,"MSSL WH System (Thailand) CO.,LTD.",8431 - UDS(P) LTD,0.3,0,0,2095.904051
+8417 - TMBP,Radiant Enterprises,8417 - TMBP,0.436,0,0,6916.812741
+8417 - TMBP,Radiant Enterprises,8417 - TMBP,0.375,0,0,287.6515775
+8417 - TMBP,Radiant Enterprises,8417 - TMBP,0.913,27,231278.6916,8144.272525
+8431 - UDS(P) LTD,Radiant Enterprises,8431 - UDS(P) LTD,0.436,0,0,6916.812741
+8417 - TMBP,Tianrun Industry Technology Co Ltd,8417 - TMBP,0.436,552,912094.8401,1569.971256
+7876 - TSA,"Thai Tazm Tech Co.,Ltd",7876 - TSA,0.052,9902,373517.887,36.15279293
+7876 - TSA,"Thai Tazm Tech Co.,Ltd",7876 - TSA,3.95,5010,7226339.12,1376.684315
+7876 - TSA,"Thai Tazm Tech Co.,Ltd",7876 - TSA,1.285,1127,726175.8919,615.9663719
+7876 - TSA,"Thai Tazm Tech Co.,Ltd",7876 - TSA,0.965,48,56699.67924,1124.31676
+7876 - TSA,"Thai Tazm Tech Co.,Ltd",7876 - TSA,1.046,51,46619.73627,868.3339264
+7876 - TSA,"Thai Tazm Tech Co.,Ltd",7876 - TSA,0.351,3261,704196.0163,206.1060195
+7876 - TSA,"Thai Tazm Tech Co.,Ltd",7876 - TSA,0.351,3273,706856.0012,206.1060195
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.18,0,0,219.5141427
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.283,0,0,329.2361142
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.277,0,0,363.2829192
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,1.252,1065,409497.6834,367.3544959
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.38,0,0,533.7275429
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.859,0,0,579.4274812
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.859,0,0,579.4274812
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.183,10462,2530205.686,230.5705793
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.285,11098,4039117.15,347.0317123
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.28,277,100659.4306,349.7694966
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.38,911,457657.411,480.2003495
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.859,4040,2113008.046,499.32974
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.859,4035,2110348.061,499.32974
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.087,1573,195998.8912,119.6201148
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.135,1572,243878.6203,147.9456526
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.29,10008,1836369.611,175.2532962
+8417 - TMBP,"Thai Tazm Tech Co.,Ltd",8417 - TMBP,0.01,22168,504417.1464,21.79697515
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.283,0,0,322.6724518
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.18,0,0,215.1266678
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.277,0,0,356.0172608
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,1.252,0,0,367.3544959
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.38,0,0,523.0572041
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.052,0,0,36.15279293
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.59,0,0,225.8672063
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.859,0,0,579.4274812
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.859,0,0,579.4274812
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.28,0,0,349.7694966
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.38,0,0,480.2003495
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.859,0,0,499.32974
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.859,0,0,499.32974
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.3,0,0,193.5753912
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,1.285,0,0,615.9663719
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.354,0,0,245.8389919
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.01,0,0,21.79697515
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,3.95,0,0,1376.684315
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.351,0,0,206.1060195
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.351,0,0,206.1060195
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.965,0,0,1124.31676
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,1.046,0,0,868.3339264
+8431 - UDS(P) LTD,"Thai Tazm Tech Co.,Ltd",8431 - UDS(P) LTD,0.29,0,0,175.2532962
+8431 - UDS(P) LTD,Qingdao Rototech Yili Auto Plastic Parts Co. Ltd.,8431 - UDS(P) LTD,6.2,0,0,3083.413269
+8431 - UDS(P) LTD,Qingdao Rototech Yili Auto Plastic Parts Co. Ltd.,8431 - UDS(P) LTD,3.7,0,0,1644.487077
+8431 - UDS(P) LTD,Qingdao Rototech Yili Auto Plastic Parts Co. Ltd.,8431 - UDS(P) LTD,2.08,0,0,822.2435384
+8431 - UDS(P) LTD,Qingdao Rototech Yili Auto Plastic Parts Co. Ltd.,8431 - UDS(P) LTD,0.82,0,0,633.8127275
+8431 - UDS(P) LTD,Qingdao Rototech Yili Auto Plastic Parts Co. Ltd.,8431 - UDS(P) LTD,5.9,0,0,2363.950173
+8417 - TMBP,"Seiko Printing (Thailand) Co., Ltd",8417 - TMBP,0.286,230,14699.91684,66.09292144
+7876 - TSA,"Ch.Radiators Co.,Ltd.",7876 - TSA,3.9,221,422377.6105,1815.958299
+7876 - TSA,"Ch.Radiators Co.,Ltd.",7876 - TSA,0.05,3141,96319.45511,29.65933012
+7876 - TSA,"Ch.Radiators Co.,Ltd.",7876 - TSA,0.816,5152,2103908.098,389.7481676
+7876 - TSA,"Ch.Radiators Co.,Ltd.",7876 - TSA,0.145,6509,467597.3547,68.65520676
+7876 - TSA,"Ch.Radiators Co.,Ltd.",7876 - TSA,0.475,2498,942754.6667,360.2643365
+7876 - TSA,"Ch.Radiators Co.,Ltd.",7876 - TSA,0.06,1162,65379.63014,53.9834908
+7876 - TSA,"Ch.Radiators Co.,Ltd.",7876 - TSA,0.715,328,141399.2001,409.8954522
+7876 - TSA,"Ch.Radiators Co.,Ltd.",7876 - TSA,0.715,323,138739.2151,409.8954522
+7876 - TSA,"Ch.Radiators Co.,Ltd.",7876 - TSA,0.03,624,10359.94139,16.8479035
+7876 - TSA,"Ch.Radiators Co.,Ltd.",7876 - TSA,3.97,1403,2767924.341,1884.051909
+7876 - TSA,"Ch.Radiators Co.,Ltd.",7876 - TSA,1.08,0,0,211.8623865
+7876 - TSA,"Ch.Radiators Co.,Ltd.",7876 - TSA,0.922,4,699.99604,191.2237047
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.64,2919,534096.9785,174.761899
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.05,74528,2314046.909,29.65933012
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.345,5002,473477.3215,90.52238151
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.635,2914,533116.9841,174.761899
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.418,53,11619.93426,208.3875064
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.6,0,0,598.2058736
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.32,0,0,745.9058276
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.22,0,0,731.9361076
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.16,0,0,776.0916547
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.23,0,0,1030.0036
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.23,0,0,1011.400707
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.21,0,0,340.5382495
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.13,3317,395637.7618,114.0392468
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.23,2452,2700024.726,1050.677382
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.23,2445,2643465.046,1031.688391
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.23,1861,1456411.761,746.6780232
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.28,258,204678.8421,760.8934418
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.221,4042,551876.878,130.4308529
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,1.36,55,18339.89625,322.6022522
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,1.08,0,0,215.8988634
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.922,96,18899.89308,191.2237047
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.381,990,176539.0013,169.6724282
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.209,0,0,130.4308529
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.587,46,6019.965944,132.2209427
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.348,4005,565176.8027,134.8534276
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.242,989,112139.3656,108.8093768
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.383,828,458777.4046,529.6559663
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.527,817,491257.2209,574.0221121
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.202,3317,628316.4455,180.869264
+8417 - TMBP,"Ch.Radiators Co.,Ltd.",8417 - TMBP,0.167,0,0,183.2911502
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.475,0,0,360.2643365
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.06,0,0,53.9834908
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.32,0,0,745.9058276
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,3.9,0,0,1815.958299
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,1.67,0,0,590.9402152
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,1.219,0,0,489.3964969
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,2.61,0,0,892.1315901
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.21,0,0,333.8692877
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.209,0,0,130.4659527
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.381,0,0,169.6724282
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.242,0,0,108.8093768
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.348,0,0,134.8534276
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.345,0,0,90.52238151
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.145,0,0,68.65520676
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.16,0,0,760.7530426
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.03,0,0,18.04129666
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.418,0,0,208.3875064
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.22,0,0,731.9361076
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.64,0,0,174.761899
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.715,0,0,409.8954522
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.715,0,0,409.8954522
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.13,0,0,114.0392468
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.03,0,0,16.8479035
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.23,0,0,1050.677382
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.635,0,0,174.761899
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.816,0,0,389.7481676
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.383,0,0,529.6559663
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.527,0,0,574.0221121
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.23,0,0,1011.400707
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.23,0,0,1030.0036
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.202,0,0,180.869264
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.167,0,0,179.7460705
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,1.08,0,0,211.8623865
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.587,0,0,132.2209427
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,1.36,0,0,322.6022522
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.922,0,0,191.2237047
+8431 - UDS(P) LTD,"Ch.Radiators Co.,Ltd.",8431 - UDS(P) LTD,0.6,0,0,580.6559741
+8417 - TMBP,CJ Automotive (Chongqing) Limited,8417 - TMBP,0.041,23,1259.992872,54.47363442
+8417 - TMBP,CJ Automotive (Chongqing) Limited,8417 - TMBP,0.04,1067,28419.83922,26.03771205
+8417 - TMBP,CJ Automotive (Chongqing) Limited,8417 - TMBP,0.295,1086,112839.3617,99.35442755
+8431 - UDS(P) LTD,CJ Automotive (Chongqing) Limited,8431 - UDS(P) LTD,0.04,0,0,26.03771205
+8431 - UDS(P) LTD,CJ Automotive (Chongqing) Limited,8431 - UDS(P) LTD,0.295,0,0,99.35442755
+8431 - UDS(P) LTD,CJ Automotive (Chongqing) Limited,8431 - UDS(P) LTD,0.041,0,0,54.47363442
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,0.118,0,0,45.01417815
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,0.45,8720,1533551.324,165.7839244
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,0.615,1911,439317.5147,218.4834501
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,3.341,0,0,1671.014126
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,0.14,541,39899.77428,70.26603419
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,0.185,96,14139.92001,142.7278819
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,3.335,54,97999.4456,1688.580634
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,0.361,627,102899.4179,154.8048566
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,0.216,2961,510857.11,163.5881108
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,0.216,2916,504837.1441,163.5881108
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,0.049,1922,83999.5248,41.7204578
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,0.046,5929,219098.7605,35.1330171
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,0.06,1288,60199.65944,45.01417815
+7876 - TSA,Belmaks Metal India Pvt Ltd Unit II,7876 - TSA,0.031,1682,57539.67449,32.93720353
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.51,0,0,496.2538665
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.105,188,13579.92318,69.16812741
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.11,12965,559016.8376,40.62255102
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.13,7147,405157.708,53.79743243
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,1.72,123,70699.60004,546.7575785
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.57,6510,2440886.192,353.5259845
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,2.639,262,204678.8421,739.9891726
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.47,3035,1229753.043,384.2673745
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.93,1372,990214.3982,685.0938334
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.57,2572,1651990.654,607.1424517
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.635,0,0,601.6529178
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.845,99,77279.56282,742.1849861
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.518,2929,1825169.675,590.6738499
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.044,8817,359517.9662,38.42673745
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.081,2011,86379.51134,40.62255102
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.081,367,15399.91288,40.62255102
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.304,3687,371277.8996,95.51789023
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.327,1019,361337.9559,334.8615692
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.298,379,111159.3712,279.96623
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.115,197,24919.85902,120.7697463
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.115,0,0,120.7697463
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.375,30,8539.951688,287.6515775
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.025,4401,153159.1336,32.93720353
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.1,2115,171499.0298,76.8534749
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.1,209,13439.92397,65.87440705
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.1,512,28839.83685,54.89533921
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,1.63,4385,2112168.051,454.5334087
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,4.907,142,326478.1531,2190.324035
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,4.605,0,0,1756.650855
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,5.392,0,0,2056.379407
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,5.09,0,0,1899.378737
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.195,14281,1909169.2,126.2592802
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.052,27110,1103473.757,38.42673745
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.062,3171,150359.1494,45.01417815
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.075,14031,683756.1319,46.11208494
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.049,8895,389617.7959,41.7204578
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.046,6068,224558.7296,35.1330171
+8417 - TMBP,Belmaks Metal India Pvt Ltd Unit II,8417 - TMBP,0.031,0,0,32.93720353
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.06,0,0,50.50371207
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.049,0,0,41.7204578
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.105,0,0,69.16812741
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.11,0,0,41.7204578
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.13,0,0,53.79743243
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,1.72,0,0,546.7575785
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.57,0,0,353.5259845
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.45,0,0,165.7839244
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,2.639,0,0,741.0870794
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.47,0,0,384.2673745
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.93,0,0,685.0938334
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.615,0,0,218.4834501
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.57,0,0,607.1424517
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.845,0,0,742.1849861
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.518,0,0,590.6738499
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.081,0,0,40.62255102
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.081,0,0,40.62255102
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,3.341,0,0,1671.014126
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.298,0,0,279.96623
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.14,0,0,70.26603419
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.185,0,0,142.7278819
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,1.63,0,0,455.6313155
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,4.605,0,0,1687.482727
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,4.907,0,0,2190.324035
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,5.392,0,0,2056.379407
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.51,0,0,496.2538665
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.216,0,0,163.5881108
+8431 - UDS(P) LTD,Belmaks Metal India Pvt Ltd Unit II,8431 - UDS(P) LTD,0.216,0,0,163.5881108
+8417 - TMBP,Facil Fasteners (changshu) CO Ltd,8417 - TMBP,0.034,0,0,39.91879277
+8417 - TMBP,Facil Fasteners (changshu) CO Ltd,8417 - TMBP,1.247,0,0,488.6794076
+8417 - TMBP,Facil Fasteners (changshu) CO Ltd,8417 - TMBP,1.354,0,0,511.1502657
+7876 - TSA,Thai Rung Union Car Public Co. Ltd,7876 - TSA,0.06,215,41859.76319,188.205122
+7876 - TSA,Thai Rung Union Car Public Co. Ltd,7876 - TSA,0.28,223,73079.58658,314.5292985
+7876 - TSA,Thai Rung Union Car Public Co. Ltd,7876 - TSA,0.579,0,0,724.0737527
+8417 - TMBP,Thai Rung Union Car Public Co. Ltd,8417 - TMBP,0.275,2003,334598.1071,159.5987859
+8417 - TMBP,Thai Rung Union Car Public Co. Ltd,8417 - TMBP,0.14,0,0,113.4425502
+8417 - TMBP,Thai Rung Union Car Public Co. Ltd,8417 - TMBP,0.174,7,1679.990496,265.4246797
+8417 - TMBP,Thai Rung Union Car Public Co. Ltd,8417 - TMBP,1.799,2615,1676070.518,613.0179888
+8417 - TMBP,Thai Rung Union Car Public Co. Ltd,8417 - TMBP,0.057,803,44659.74735,53.35169441
+8417 - TMBP,Thai Rung Union Car Public Co. Ltd,8417 - TMBP,0.556,3262,717495.941,210.0722968
+8417 - TMBP,Thai Rung Union Car Public Co. Ltd,8417 - TMBP,0.556,3251,714975.9553,210.0722968
+8417 - TMBP,Thai Rung Union Car Public Co. Ltd,8417 - TMBP,0.019,3825,156939.1122,39.24157523
+8417 - TMBP,Thai Rung Union Car Public Co. Ltd,8417 - TMBP,1.158,1898,1554131.208,782.8308161
+8417 - TMBP,Thai Rung Union Car Public Co. Ltd,8417 - TMBP,0.15,0,0,337.6249662
+8417 - TMBP,Thai Rung Union Car Public Co. Ltd,8417 - TMBP,0.299,556,99119.43927,171.7082165
+8431 - UDS(P) LTD,Thai Rung Union Car Public Co. Ltd,8431 - UDS(P) LTD,0.174,0,0,261.528602
+8431 - UDS(P) LTD,Thai Rung Union Car Public Co. Ltd,8431 - UDS(P) LTD,0.579,0,0,704.1019671
+8431 - UDS(P) LTD,Thai Rung Union Car Public Co. Ltd,8431 - UDS(P) LTD,1.799,0,0,608.5603143
+8431 - UDS(P) LTD,Thai Rung Union Car Public Co. Ltd,8431 - UDS(P) LTD,1.158,0,0,785.6037002
+8431 - UDS(P) LTD,Thai Rung Union Car Public Co. Ltd,8431 - UDS(P) LTD,0.15,0,0,337.6249662
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.47,0,0,139.4341616
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.333,0,0,95.51789023
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.228,0,0,116.3781191
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.182,0,0,105.3990513
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.35,0,0,120.7697463
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.322,0,0,106.4969581
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.538,0,0,135.0425345
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.541,0,0,133.9446277
+7876 - TSA,Badve Engineering Limited,7876 - TSA,3.613,0,0,851.9756646
+7876 - TSA,Badve Engineering Limited,7876 - TSA,3.613,0,0,995.8014533
+7876 - TSA,Badve Engineering Limited,7876 - TSA,3.613,0,0,1237.340946
+7876 - TSA,Badve Engineering Limited,7876 - TSA,2.49,0,0,569.813621
+7876 - TSA,Badve Engineering Limited,7876 - TSA,2.584,0,0,568.7157142
+7876 - TSA,Badve Engineering Limited,7876 - TSA,2.61,0,0,577.4989685
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.13,0,0,109.7906784
+7876 - TSA,Badve Engineering Limited,7876 - TSA,3.613,0,0,330.4699421
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.245,0,0,83.4409156
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.304,0,0,99.90951736
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.088,0,0,41.7204578
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.099,0,0,46.11208494
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.14,0,0,88.93044952
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.155,0,0,72.46184776
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.498,0,0,136.1404412
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.309,0,0,102.1053309
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.338,0,0,106.4969581
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.64,0,0,183.350433
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.64,0,0,183.350433
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.44,0,0,128.4550938
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.44,0,0,128.4550938
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.33,0,0,120.7697463
+7876 - TSA,Badve Engineering Limited,7876 - TSA,0.138,0,0,79.04928846
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.114,0,0,49.40580529
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.222,0,0,91.12626309
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.565,0,0,212.9939161
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.563,0,0,212.9939161
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.178,0,0,57.09115278
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.219,0,0,62.5806867
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.115,0,0,38.42673745
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.393,0,0,150.4132294
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,6.398,0,0,1767.629923
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.078,0,0,57.09115278
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.068,0,0,55.993246
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.37,0,0,243.7353061
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.114,0,0,71.36394097
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.259,0,0,133.9446277
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.155,0,0,72.46184776
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.159,0,0,85.63672917
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,1.149,0,0,338.1552895
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.368,0,0,139.4341616
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,3.98,0,0,843.1924103
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.663,0,0,421.5962051
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,1.606,0,0,1144.018869
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.109,0,0,59.28696635
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.227,0,0,116.3781191
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.448,0,0,186.6441533
+8417 - TMBP,Badve Engineering Limited,8417 - TMBP,0.138,0,0,77.95138168
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.47,0,0,139.4341616
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.114,0,0,49.40580529
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.222,0,0,91.12626309
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.228,0,0,116.3781191
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.182,0,0,105.3990513
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.565,0,0,212.9939161
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.563,0,0,212.9939161
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.35,0,0,120.7697463
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.219,0,0,62.5806867
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.322,0,0,106.4969581
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.115,0,0,38.42673745
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.538,0,0,135.0425345
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.541,0,0,133.9446277
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.393,0,0,150.4132294
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,3.613,0,0,1237.340946
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.13,0,0,109.7906784
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,3.613,0,0,330.4699421
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,6.398,0,0,1767.629923
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.245,0,0,83.4409156
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.304,0,0,99.90951736
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.078,0,0,57.09115278
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.068,0,0,55.993246
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.37,0,0,243.7353061
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.114,0,0,71.36394097
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.14,0,0,88.93044952
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.259,0,0,133.9446277
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.155,0,0,72.46184776
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.498,0,0,136.1404412
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.159,0,0,85.63672917
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,1.149,0,0,338.1552895
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.368,0,0,139.4341616
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.309,0,0,102.1053309
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.338,0,0,106.4969581
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.663,0,0,421.5962051
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,1.606,0,0,1144.018869
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.109,0,0,59.28696635
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.227,0,0,116.3781191
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.448,0,0,186.6441533
+8431 - UDS(P) LTD,Badve Engineering Limited,8431 - UDS(P) LTD,0.138,0,0,77.95138168
+8417 - TMBP,"Steelmer Co.,Ltd.",8417 - TMBP,1.5,147,179198.9862,1158.293366
+8417 - TMBP,"Steelmer Co.,Ltd.",8417 - TMBP,3.305,0,0,4843.772256
+8417 - TMBP,"Steelmer Co.,Ltd.",8417 - TMBP,0.31,0,0,403.647688
+8431 - UDS(P) LTD,"Steelmer Co.,Ltd.",8431 - UDS(P) LTD,0.189,0,0,658.7440705
+8431 - UDS(P) LTD,"Pkc Vehicle Technology(Suzhou) Co.,Ltd",8431 - UDS(P) LTD,0.1,0,0,492.9601461
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.183,0,0,142.821082
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.135,239,24219.86298,98.84103386
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.143,2885,296938.3202,98.41983627
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.167,5601,473337.3223,80.7295376
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.448,202,92119.47887,438.7123872
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.525,1916,362177.9511,179.8864697
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.138,444,283498.3962,611.1225996
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.137,1,139.999208,243.1363074
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.662,0,0,746.9939214
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.292,0,0,499.0489416
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.268,0,0,380.4467209
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.413,0,0,567.8445475
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.49,0,0,588.4130297
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.31,0,0,314.5292985
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.3,711,262918.5126,354.6834685
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.21,729,180318.9799,237.7660381
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.31,196,77139.56361,378.0248348
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.16,1439,305198.2734,203.8596323
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.28,635,163799.0734,248.1204788
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.234,0,0,302.4198678
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,8.996,136,820395.3589,5731.72697
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.389,246,79379.55094,307.4391391
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.316,715,269078.4778,361.738528
+7876 - TSA,"Ch.Watanayont Co.,Ltd.",7876 - TSA,0.495,0,0,472.6889925
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.41,664,62999.6436,92.24227166
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.425,451,41999.7624,90.7329803
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,1.372,5467,1343712.398,234.7825552
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.2,4022,381637.841,90.7329803
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.135,4947,273698.4516,52.96559663
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.525,0,0,87.22300041
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.55,0,0,725.8638424
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,3.84,0,0,1418.874273
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,2.359,0,0,975.1777144
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.222,6577,2583825.383,374.9009527
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,1.258,2491,2976103.164,1139.725572
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,1.283,827,851055.1855,983.7420654
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,1.281,823,819555.3637,951.0290527
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.2,2207,496577.1908,215.267067
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.183,131,18899.89308,142.821082
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.921,116,98279.44402,807.8569728
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,1.236,0,0,281.6407868
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.159,0,0,219.3737435
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.214,0,0,226.4639029
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,1.546,486,243878.6203,480.4811479
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.153,2978,231558.69,74.48177339
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.077,8746,459757.3991,50.2980119
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.525,1358,257178.5451,179.8864697
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.96,0,0,626.0400142
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,2,3286,3644739.381,1058.258939
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.96,0,0,626.0400142
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.652,175,79379.55094,437.4136946
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.652,175,79379.55094,437.4136946
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.595,2431,772095.6321,303.3675624
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.195,1270,372817.8909,281.605687
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.775,449,269218.477,575.6718027
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.3,451,132719.2492,282.9745792
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.561,474,256058.5514,518.2134318
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.561,1246,808635.4254,621.0558427
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.508,0,0,315.652492
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.75,528,352938.0034,639.167339
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.754,699,468437.35,639.167339
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.05,5366,332358.1198,59.35376004
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.95,238,170939.033,687.8507602
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.95,234,167999.0496,687.8507602
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.503,339,119139.326,336.1156748
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.413,2488,801495.4658,307.6497379
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.336,247,81199.54064,315.5471926
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.121,493,280418.4136,545.064778
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.19,1867,834255.2805,426.4625573
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.074,40,8399.95248,202.174842
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,1.239,560,354057.997,606.0331288
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.389,2633,847275.2068,307.4391391
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.23,0,0,1061.172222
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.23,0,0,1042.007732
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.23,0,0,754.1542804
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.28,0,0,768.5100982
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.511,716,229318.7027,307.965636
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.275,24,8679.950896,346.9264129
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.712,0,0,685.8851714
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.085,24,3639.979408,148.0860518
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.225,35,14839.91605,410.8782466
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.792,0,0,687.6050616
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.445,0,0,405.0165802
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.8,25,22959.87011,880.443357
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.169,18,6299.96436,349.8396962
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.305,1,419.997624,429.4460402
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.19,78,13859.92159,174.3758012
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.803,0,0,912.6298727
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.522,0,0,386.5891857
+8417 - TMBP,"Ch.Watanayont Co.,Ltd.",8417 - TMBP,0.275,574,266418.4928,443.45086
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.838,0,0,533.1659462
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.135,0,0,98.84103386
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.183,0,0,142.821082
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.222,0,0,407.7543645
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,1.283,0,0,983.7420654
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,1.258,0,0,1139.725572
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,1.281,0,0,951.0290527
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.2,0,0,90.7329803
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,1.372,0,0,234.7825552
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.41,0,0,92.24227166
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,2.359,0,0,1022.562443
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.921,0,0,760.9636414
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.55,0,0,740.605758
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.306,0,0,327.1301263
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.143,0,0,98.41983627
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,1.236,0,0,281.6407868
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.167,0,0,80.7295376
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,1.546,0,0,480.4811479
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.153,0,0,74.48177339
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.077,0,0,50.2980119
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.247,0,0,269.8121546
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.138,0,0,611.1225996
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,2,0,0,1058.258939
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.96,0,0,669.9147629
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.652,0,0,437.4136946
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.652,0,0,437.4136946
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.195,0,0,281.605687
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.775,0,0,575.6718027
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.3,0,0,282.9745792
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.561,0,0,518.2134318
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.561,0,0,621.0558427
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.662,0,0,746.9939214
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.292,0,0,499.0489416
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.268,0,0,380.4467209
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.413,0,0,567.8445475
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.49,0,0,588.4130297
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.31,0,0,314.5292985
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.3,0,0,354.6834685
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.508,0,0,315.652492
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.75,0,0,639.167339
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.754,0,0,639.167339
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.21,0,0,237.7660381
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.31,0,0,378.0248348
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.16,0,0,203.8596323
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.28,0,0,248.1204788
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.95,0,0,687.8507602
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.95,0,0,687.8507602
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.336,0,0,315.5471926
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.121,0,0,545.064778
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.19,0,0,426.4625573
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.074,0,0,202.174842
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.316,0,0,361.738528
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.511,0,0,307.965636
+8431 - UDS(P) LTD,"Ch.Watanayont Co.,Ltd.",8431 - UDS(P) LTD,0.2,0,0,204.2457301
+8431 - UDS(P) LTD,KUS Technology Corporation,8431 - UDS(P) LTD,5.86,0,0,3597.31548
+8431 - UDS(P) LTD,KUS Technology Corporation,8431 - UDS(P) LTD,5.1,0,0,616.6826538
+8431 - UDS(P) LTD,KUS Technology Corporation,8431 - UDS(P) LTD,3.02,0,0,1918.568256
+8431 - UDS(P) LTD,KUS Technology Corporation,8431 - UDS(P) LTD,5.1,0,0,3049.153121
+8431 - UDS(P) LTD,KUS Technology Corporation,8431 - UDS(P) LTD,5.86,0,0,3597.31548
+8431 - UDS(P) LTD,KUS Technology Corporation,8431 - UDS(P) LTD,2.973,0,0,2432.470468
+8431 - UDS(P) LTD,KUS Technology Corporation,8431 - UDS(P) LTD,2.973,0,0,2432.470468
+8431 - UDS(P) LTD,KUS Technology Corporation,8431 - UDS(P) LTD,2.913,0,0,3665.835775
+8431 - UDS(P) LTD,KUS Technology Corporation,8431 - UDS(P) LTD,2.5,0,0,3460.274891
+8431 - UDS(P) LTD,KUS Technology Corporation,8431 - UDS(P) LTD,0.702,0,0,942.1540544
+8431 - UDS(P) LTD,KUS Technology Corporation,8431 - UDS(P) LTD,0.3,0,0,873.6337595
+8431 - UDS(P) LTD,Omr S.P.A,8431 - UDS(P) LTD,0.172,0,0,360.3239189
+8431 - UDS(P) LTD,Omr S.P.A,8431 - UDS(P) LTD,0.511,0,0,575.7205051
+8431 - UDS(P) LTD,Omr S.P.A,8431 - UDS(P) LTD,0.114,0,0,489.2959489
+7876 - TSA,"Facil ( Thailand) Co.,Ltd.",7876 - TSA,0.124,653,29819.8313,44.32688851
+7876 - TSA,"Facil ( Thailand) Co.,Ltd.",7876 - TSA,0.034,6003,266698.4912,41.45256855
+7876 - TSA,"Facil ( Thailand) Co.,Ltd.",7876 - TSA,0.045,70142,4164136.443,54.93266804
+8417 - TMBP,"Facil ( Thailand) Co.,Ltd.",8417 - TMBP,0.124,388,17919.89862,44.32688851
+8417 - TMBP,"Facil ( Thailand) Co.,Ltd.",8417 - TMBP,0.034,35249,1576811.08,41.45256855
+8417 - TMBP,"Facil ( Thailand) Co.,Ltd.",8417 - TMBP,1.247,15594,9461286.476,562.3654214
+8417 - TMBP,"Facil ( Thailand) Co.,Ltd.",8417 - TMBP,1.354,15642,10041583.19,595.1412326
+8417 - TMBP,"Facil ( Thailand) Co.,Ltd.",8417 - TMBP,0.134,14305,1321032.527,86.01880073
+8417 - TMBP,"Facil ( Thailand) Co.,Ltd.",8417 - TMBP,0.1,7740,581556.7101,70.01022191
+8431 - UDS(P) LTD,"Facil ( Thailand) Co.,Ltd.",8431 - UDS(P) LTD,0.1,0,0,76.27378011
+8431 - UDS(P) LTD,"Facil ( Thailand) Co.,Ltd.",8431 - UDS(P) LTD,0.045,0,0,61.19622625
+8431 - UDS(P) LTD,"Facil ( Thailand) Co.,Ltd.",8431 - UDS(P) LTD,1.247,0,0,594.100417
+8431 - UDS(P) LTD,"Facil ( Thailand) Co.,Ltd.",8431 - UDS(P) LTD,1.354,0,0,626.8762282
+7876 - TSA,Allison Transmission Inc,7876 - TSA,0.028,377,149939.1518,374.3862134
+8417 - TMBP,Allison Transmission Inc,8417 - TMBP,0.028,0,0,363.4071456
+8431 - UDS(P) LTD,"Jiangsu King Nation Electron Model Plastic Co.,Ltd",8431 - UDS(P) LTD,0.469,0,0,658.4800336
+8431 - UDS(P) LTD,"Jiangsu King Nation Electron Model Plastic Co.,Ltd",8431 - UDS(P) LTD,0.429,0,0,656.5957255
+8431 - UDS(P) LTD,"Jiangsu King Nation Electron Model Plastic Co.,Ltd",8431 - UDS(P) LTD,0.515,0,0,723.2317123
+7876 - TSA,Mahindra CIE Automotive Ltd Composites Division,7876 - TSA,0.062,0,0,121.867653
+8417 - TMBP,Mahindra CIE Automotive Ltd Composites Division,8417 - TMBP,0.062,3965,508197.1251,121.867653
+8431 - UDS(P) LTD,Mahindra CIE Automotive Ltd Composites Division,8431 - UDS(P) LTD,0.062,0,0,77.95138168
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,0.01,0,0,70.41019671
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,0.17,0,0,80.94013639
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,3.07,0,0,1126.528048
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,3.19,0,0,2358.70649
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,20.505,0,0,38196.75952
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,0.008,0,0,17.58499928
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,2.56,0,0,1390.583835
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,0.03,0,0,63.32003732
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,0.02,0,0,49.35031733
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,0.05,0,0,80.94013639
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,7.04,0,0,8994.70958
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,0.31,0,0,932.9175565
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,3.56,0,0,2429.116687
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,0.58,0,0,1689.809621
+8431 - UDS(P) LTD,"Fast Auto Drive(Thailand) Co.,Ltd.",8431 - UDS(P) LTD,0.01,0,0,49.35031733
+7876 - TSA,"Optimas (Suzhou) Trading Co., Ltd",7876 - TSA,0.346,321,471517.3326,1391.047896
+8431 - UDS(P) LTD,"Optimas (Suzhou) Trading Co., Ltd",8431 - UDS(P) LTD,0.346,0,0,1436.062074
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.644,0,0,767.4368422
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.771,0,0,893.6961224
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,1.322,0,0,1185.739327
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.543,0,0,1202.207929
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.07,0,0,439.1627137
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.34,0,0,345.840637
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.53,0,0,447.945968
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.776,0,0,895.8919359
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.386,0,0,606.0445449
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.386,0,0,1803.860846
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.116,0,0,163.5881108
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,2.157,0,0,1070.459115
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.987,0,0,1183.543513
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.786,0,0,2376.968188
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.456,0,0,468.8061969
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.311,0,0,792.6886982
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,1.699,0,0,1484.369972
+8417 - TMBP,Adm Technologies Pvt. Ltd,8417 - TMBP,0.45,0,0,349.1343574
+8431 - UDS(P) LTD,Bapl Rototech Private Limited,8431 - UDS(P) LTD,3.019,0,0,7363.660802
+8417 - TMBP,"3mt Thailand Co.,Ltd.",8417 - TMBP,0.233,492,151059.1454,293.9608163
+8417 - TMBP,"3mt Thailand Co.,Ltd.",8417 - TMBP,0.071,455,80639.54381,169.0406318
+8417 - TMBP,Hitachi High-Tech (Thailand) Ltd,8417 - TMBP,0.34,6620,2581865.394,372.0578689
+7876 - TSA,Malmar Group BV,7876 - TSA,1.236,0,0,2056.904437
+8431 - UDS(P) LTD,Malmar Group BV,8431 - UDS(P) LTD,1.236,0,0,2056.904437

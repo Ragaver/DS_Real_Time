@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Predictive Model</title>
+    </head>
+    <body style="background-color:powderblue;">
+        <h1 style="color:blueviolet;">Welcome to the Land of AI</h1>
+        <h3 style="color:green;">Predictive Model for Bracket Price in JPY</h3>
+
+        <form action="/Predict" method="POST">
+            <!-- Corrected Labels -->
+            <label>Plant Code (Category):</label>
+            <select name="Plant_code">
+                <option value="7876 - TSA">7876 - TSA</option>
+                <option value="8417 - TMBP">8417 - TMBP</option>
+                <option value="8431 - UDS(P) LTD">8431 - UDS(P) LTD</option>
+            </select><br><br>
+
+            <label>Supplier (Category):</label>
+            <select name="Supplier">
+                <option value="AB Linde Maskiner">AB Linde Maskiner</option>
+                <option value="Gnotec AB">Gnotec AB</option>
+                <option value="Shiloh Industries AB">Shiloh Industries AB</option>
+            </select><br><br>
+
+            <label>Material User Country (Category):</label>
+            <select name="Material_user_country">
+                <option value="7876 - TSA">7876 - TSA</option>
+                <option value="8417 - TMBP">8417 - TMBP</option>
+                <option value="8431 - UDS(P) LTD">8431 - UDS(P) LTD</option>
+            </select><br><br>
+
+            <label>Item Weight (kg) (Float):</label>
+            <input type="number" name="Item_weight_kg" step="0.01" min="0.01" value="{{ Item_weight_kg }}" required><br><br>
+
+            <label>One Year Forecast Quantity (Integer):</label>
+            <input type="number" name="One_Year_forecast_qty" step="1" min="0" value="{{ One_Year_forecast_qty }}" required><br><br>
+
+            <label>12-Month Forecast Spend (Float):</label>
+            <input type="number" name="12_month_forecast_spend" step="0.01" min="0.01" value="{{ 12_month_forecast_spend }}" required><br><br>
+
+            <button type="submit">Predict</button>
+        </form>
+
+        {% if Prediction %}
+        <h2>{{ Prediction }}</h2>
+        {% endif %}
+    </body>
+</html>

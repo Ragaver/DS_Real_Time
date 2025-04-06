@@ -1,0 +1,758 @@
+,index,Supplier_Name,Recency,Frequency,Monetory,R,F,M,RFM,Spend_Level
+0,0, ALICO INDUSTRIAL EQUIPMENTS ,325,1,23500.0,3,4,2,9,Top_Spend3
+1,1, Hari Singh & Sons,151,1,4151.69,2,4,3,9,Top_Spend3
+2,2, Phillips Machine Tools India Pvt. Ltd.,158,2,1969500.0,2,3,1,6,Top_Spend1
+3,3, Quadkart,43,8,17432.47,1,1,2,4,Top_Spend1
+4,4, UAV Garage Pvt Ltd,9,42,989355.99,1,1,1,3,Top_Spend1
+5,5, Vantage Systems Inc,730,1,264963.36,4,4,1,9,Top_Spend3
+6,6,(MOTOUSHER.COM)PLUSGROW MERCHANTRY PVT LTD CIN,155,2,16399.0,2,3,2,7,Top_Spend2
+7,7,"3D PRODUCT DEVELOPMENT (P) Ltd.,",623,1,14000.0,4,4,2,10,Top_Spend3
+8,8,3DP Technologies,24,7,25111.0,1,1,2,4,Top_Spend1
+9,9,3DPrintronics,171,5,15747.0,2,1,2,5,Top_Spend1
+10,10,3Dbazar.in	,172,2,305932.0,2,3,1,6,Top_Spend1
+11,11,3S Engineering Corporation (Industrybuying)	,174,1,2359.97,2,4,3,9,Top_Spend3
+12,12,A K S Enterprises,886,1,75.0,4,4,4,12,Top_Spend4
+13,13,A M Ducting,445,1,57000.0,3,4,2,9,Top_Spend3
+14,14,AADI IT SOLUTIONS,37,43,467159.0,1,1,1,3,Top_Spend1
+15,15,AARJAY INTERNATIONAL PVT LTD,386,1,157000.0,3,4,1,8,Top_Spend2
+16,16,AB MOBILE AND TERMINALS PRIVATE LIMITED,80,3,720000.0,1,2,1,4,Top_Spend1
+17,17,ACE PRECISIONS,592,2,2311.0,3,3,3,9,Top_Spend3
+18,18,ADEL ASSESORIES PRIVATE LIMITED,164,1,48433.0,2,4,2,8,Top_Spend2
+19,19,AETHRONE AEROSPACE,695,2,1099737.5,4,3,1,8,Top_Spend2
+20,20,AMPLE TECHNOLOGIES (P) LTD,85,2,26949.120000000003,1,3,2,6,Top_Spend1
+21,21,ANS Associates,53,33,1932515.0,1,1,1,3,Top_Spend1
+22,22,ANUBIS TECH,130,5,47972.89,2,1,2,5,Top_Spend1
+23,23,AONE STATIONERS & BOOK SELLERS,1,1,3550.0,1,4,3,8,Top_Spend2
+24,24,APZEM Environmental,651,1,48300.0,4,4,2,10,Top_Spend3
+25,25,AQAD INDIA,499,2,113.78999999999999,3,3,4,10,Top_Spend3
+26,26,AQTRONICS TECHNOLOGIES PRIVATE LIMITED.,4,14,345917.81,1,1,1,3,Top_Spend1
+27,27,AQUABLUE Silica Gel	,241,1,250.0,2,4,4,10,Top_Spend3
+28,28,ARKA INSTRUMENTS LLP,73,4,11332.5,1,2,3,6,Top_Spend1
+29,29,ARYAN COMPOSITES PVT LTD,773,1,130.0,4,4,4,12,Top_Spend4
+30,30,ATLANTIS ERUDITION & TRAVEL SERVICES PRIVATE  LIMITED,135,11,371282.3,2,1,1,4,Top_Spend1
+31,31,ATRIA CONVERGENCE TECHNOLOGIES LTD,732,3,820000.0,4,2,1,7,Top_Spend2
+32,32,AURORA ENTERPRISES,510,3,1257.0,3,2,4,9,Top_Spend3
+33,33,AV mounts (India),787,1,76.0,4,4,4,12,Top_Spend4
+34,34,AVIANCO TECHNOLOGIES PVT. LTD,306,1,433425.42,3,4,1,8,Top_Spend2
+35,35,AVIRAJ INSTRUMENTS,455,1,38750.0,3,4,2,9,Top_Spend3
+36,36,AVTRONIX MARKETING LLP,129,2,1305.0,2,3,4,9,Top_Spend3
+37,37,AXIS ALLIANZ,126,1,398500.0,1,4,1,6,Top_Spend1
+38,38,Absolute Composites Pvt Ltd,891,13,1345226.0,4,1,1,6,Top_Spend1
+39,39,Accord Software & Systems Pvt Ltd,331,4,405860.0,3,2,1,6,Top_Spend1
+40,40,Adebeo Solutions Pvt Ltd,780,1,53329.0,4,4,2,10,Top_Spend3
+41,41,Adhesive Specialties,51,9,16267.47,1,1,2,4,Top_Spend1
+42,42,Aditi,727,3,5836.860000000001,4,2,3,9,Top_Spend3
+43,43,Adobe Systems Software Ireland Ltd,334,2,32472.0,3,3,2,8,Top_Spend2
+44,44,Adroitec Engineering Solutions P Ltd,113,2,96061.91,1,3,2,6,Top_Spend1
+45,45,Advaitech Studios LLP,218,1,550.0,2,4,4,10,Top_Spend3
+46,46,Advanced Power Drives,287,1,59.0,3,4,4,11,Top_Spend4
+47,47,Aeromodellingtutor,219,3,5449.969999999999,2,2,3,7,Top_Spend2
+48,48,Aeron System Pvt Ltd,456,4,496720.0,3,2,1,6,Top_Spend1
+49,49,Aggarwal Paints,593,1,829.0,3,4,4,11,Top_Spend4
+50,50,Aidin Technologies Pvt Ltd,400,4,1788039.0,3,2,1,6,Top_Spend1
+51,51,Air Pack,113,1,625.0,1,4,4,9,Top_Spend3
+52,52,Air90 Automative,723,2,33081.35,4,3,2,9,Top_Spend3
+53,53,Aircare Engineering,524,2,367000.0,3,3,1,7,Top_Spend2
+54,54,Akhilam Enterprise (DIY3D.in),288,1,675.0,3,4,4,11,Top_Spend4
+55,55,Akshar Tech (liipobattery.in),288,1,20000.0,3,4,2,9,Top_Spend3
+56,56,Alico Industrial Enterprises,679,1,1080.0,4,4,4,12,Top_Spend4
+57,57,Aloukik Agencies,476,2,1625.0,3,3,4,10,Top_Spend3
+58,58,Alpha Shope,207,3,4989.56,2,2,3,7,Top_Spend2
+59,59,Altium Software India Pvt Ltd,183,3,1181100.0,2,2,1,5,Top_Spend1
+60,60,Amar Radio Corportation,219,14,14205.02,2,1,2,5,Top_Spend1
+61,61,Amazon,4,423,1630171.71,1,1,1,3,Top_Spend1
+62,62,Ambika Software Technologies,673,1,650.5,4,4,4,12,Top_Spend4
+63,63,"AmiCell - Amit Industries Ltd., Israel",280,1,2550.0,2,4,3,9,Top_Spend3
+64,64,Amit Electrical,120,1,1300.0,1,4,4,9,Top_Spend3
+65,65,Amphenol Interconnect India Pvt. Ltd.	,186,2,12029.0,2,3,3,8,Top_Spend2
+66,66,Amuse,1,19,48385.30000000001,1,1,2,4,Top_Spend1
+67,67,Anand Electronics,1,1,380.0,1,4,4,9,Top_Spend3
+68,68,Anand Tyre Shoppe,289,2,3879.66,3,3,3,9,Top_Spend3
+69,69,Ananya  Technologies Pvt. Ltd,374,1,926250.0,3,4,1,8,Top_Spend2
+70,70,Anjan Prints ,144,3,661.86,2,2,4,8,Top_Spend2
+71,71,Ankit Components,758,1,95.0,4,4,4,12,Top_Spend4
+72,72,Ankitha Diesel systems,665,1,12300.0,4,4,3,11,Top_Spend4
+73,73,Antek Engineering Works,568,3,742.0,3,2,4,9,Top_Spend3
+74,74,Applied Aero Systems,530,2,57000.0,3,3,2,8,Top_Spend2
+75,75,Applied RealTech Systems Pvt. Ltd,342,1,1025919.76,3,4,1,8,Top_Spend2
+76,76,Arka Instruments Incorporation,283,11,635842.65,3,1,1,5,Top_Spend1
+77,77,Army sales,296,1,4500.0,3,4,3,10,Top_Spend3
+78,78,Arrow Electronics Inc,120,3,16838.64,1,2,2,5,Top_Spend1
+79,79,Asian Trading Company,246,1,440.0,2,4,4,10,Top_Spend3
+80,80,Atech Solutions Pvt Ltd,107,2,8980.0,1,3,3,7,Top_Spend2
+81,81,Atlantis Erudition & Travel Services Pvt. Ltd.,366,1,15457.88,3,4,2,9,Top_Spend3
+82,82,Atlantis Robotics Private Limited,36,2,120338.97,1,3,1,5,Top_Spend1
+83,83,Augment 3Di,263,2,1754.0,2,3,3,8,Top_Spend2
+84,84,Autoconz Consulting Group,172,12,146399.33,2,1,1,4,Top_Spend1
+85,85,Autodesk,525,1,31860.0,3,4,2,9,Top_Spend3
+86,86,Autodesk - eClickstore Trading Private Limited,113,6,184056.45,1,1,1,3,Top_Spend1
+87,87,Autogeek Car Care LLP,893,1,7436.0,4,4,3,11,Top_Spend4
+88,88,Automotive Solutions,731,1,12500.0,4,4,3,11,Top_Spend4
+89,89,Axians Systems and Networks,960,1,10950.0,4,4,3,11,Top_Spend4
+90,90,BCL ENGINEERING AND AEROSPACE,179,1,3800.0,2,4,3,9,Top_Spend3
+91,91,"BE Analytic Solutions,",23,3,9229.0,1,2,3,6,Top_Spend1
+92,92,BFMA CARGO MOVERS,451,1,213675.0,3,4,1,8,Top_Spend2
+93,93,BHARTI AIRTEL LIMITED,1024,1,800000.0,4,4,1,9,Top_Spend3
+94,94,BHAVANI HARDWARE AND ELECTRICALS,241,3,1307.72,2,2,4,8,Top_Spend2
+95,95,BHOLAS VENTURE INC,183,1,45338.98,2,4,2,8,Top_Spend2
+96,96,BIGTEKK TECHNOLOGIES,81,21,195154.9,1,1,1,3,Top_Spend1
+97,97,BLUE SKY INFOSYS(ESDtools.in),118,1,1200.0,1,4,4,9,Top_Spend3
+98,98,BLUEKEI SOLUTIONS PRIVATE LIMITED,785,1,85000.0,4,4,2,10,Top_Spend3
+99,99,BONV Technology Pvt. Ltd.,625,1,20000000.0,4,4,1,9,Top_Spend3
+100,100,Bajaj Tirpal Store,108,1,847.46,1,4,4,9,Top_Spend3
+101,101,Bangalore spring Industries,45,2,6583.33,1,3,3,7,Top_Spend2
+102,102,Bapna Enterprises,566,1,427.12,3,4,4,11,Top_Spend4
+103,103,Bharat Composites Private Limited,129,3,4777.0,2,2,3,7,Top_Spend2
+104,104,Bharath Instruments Services,617,1,650.0,4,4,4,12,Top_Spend4
+105,105,Bhogal Aero Tech,134,6,3468000.0,2,1,1,4,Top_Spend1
+106,106,Big Basket - Supermarket Grocery Supplies Pvt. Ltd.,339,1,799.0,3,4,4,11,Top_Spend4
+107,107,Binashree Manufactruing Pvt Ltd,218,15,99822.21999999999,2,1,2,5,Top_Spend1
+108,108,Blossom Solutions,245,7,18255.5,2,1,2,5,Top_Spend1
+109,109,Blue Star Engineering & Electronics Limited,294,1,741000.0,3,4,1,8,Top_Spend2
+110,110,Bombay Electronics,359,1,58.0,3,4,4,11,Top_Spend4
+111,111,Bombay Tools Supplying Agency Pvt Ltd,436,2,13430.8,3,3,2,8,Top_Spend2
+112,112,Books & Data Analytics Solution,716,1,127890.0,4,4,1,9,Top_Spend3
+113,113,Boom Gadgets Reloaded,203,1,9613.0,2,4,3,9,Top_Spend3
+114,114,CADCUZ Software Consultants,172,1,560000.0,2,4,1,7,Top_Spend2
+115,115,CANARA CRAFTS,317,1,300.0,3,4,4,11,Top_Spend4
+116,116,CENTER FOR SCIENTIFIC AND INDUSTRIAL CONSULTANCY ,570,1,400000.0,3,4,1,8,Top_Spend2
+117,117,CHANDRAHOMA ENTERPRISES PRIVATE LIMITED,101,15,19338.0,1,1,2,4,Top_Spend1
+118,118,CHEMZEST ENTERPRISES,193,2,805.0,2,3,4,9,Top_Spend3
+119,119,CONINS PUNE,273,2,1011.0,2,3,4,9,Top_Spend3
+120,120,CONNECT SYSTEM INDIA,745,1,14990.0,4,4,2,10,Top_Spend3
+121,121,CORVIDS INDIA	,163,2,8078.8099999999995,2,3,3,8,Top_Spend2
+122,122,"CQA(L) LABs DGQA, Ministry of Defence,",56,6,699227.0,1,1,1,3,Top_Spend1
+123,123,CRAFT & CREATIONS,658,1,41500.0,4,4,2,10,Top_Spend3
+124,124,CRENNOVATIONS 3D TECHNOLOGIES PRIVATE LIMITED,314,67,442042.55999999994,3,1,1,5,Top_Spend1
+125,125,CYBASE INDIA,864,1,1599.0,4,4,4,12,Top_Spend4
+126,126,Cable Crafts,67,17,4693.0,1,1,3,5,Top_Spend1
+127,127,Cadspro Technologies Pvt. Ltd.,172,9,2379053.0,2,1,1,4,Top_Spend1
+128,128,Camtec Engineering,612,3,101403.0,4,2,2,8,Top_Spend2
+129,129,Canara Forklift Services,613,2,42000.0,4,3,2,9,Top_Spend3
+130,130,Canon India Pvt Ltd,17,3,389933.83,1,2,1,4,Top_Spend1
+131,131,CarNStyle,760,1,10500.0,4,4,3,11,Top_Spend4
+132,132,Carbon Light Pvt Ltd,517,2,14560.0,3,3,2,8,Top_Spend2
+133,133,Cartel Infosystems Private Limited.,987,1,86000.0,4,4,2,10,Top_Spend3
+134,134,Ceepee Electronices,484,5,4840.0,3,1,3,7,Top_Spend2
+135,135,Central  Power  Research  Institute,220,3,453190.0,2,2,1,5,Top_Spend1
+136,136,Century Inks Pvt Ltd,569,1,180.0,3,4,4,11,Top_Spend4
+137,137,Cheeku Technologies,44,4,16463.32,1,2,2,5,Top_Spend1
+138,138,Cinescope India,109,7,1175000.0,1,1,1,3,Top_Spend1
+139,139,Cingularity TEC  India Pvt Ltd,604,1,37000.0,4,4,2,10,Top_Spend3
+140,140,Circuit Systems (India) Limited,143,23,32810.78,2,1,2,5,Top_Spend1
+141,141,Circuit Systems(India) Limited,163,17,61469.100000000006,2,1,2,5,Top_Spend1
+142,142,CircuitWala,198,3,885.2800000000001,2,2,4,8,Top_Spend2
+143,143,Classic Circuits,42,5,7075.0,1,1,3,5,Top_Spend1
+144,144,Click Technologies,420,1,5211.86,3,4,3,10,Top_Spend3
+145,145,Colorado,202,15,61825.0,2,1,2,5,Top_Spend1
+146,146,Comfort Solutions,851,2,99500.0,4,3,2,9,Top_Spend3
+147,147,Compoindia,443,3,3465.15,3,2,3,8,Top_Spend2
+148,148,Constflick Technologies Limited,144,32,23913.82,2,1,2,5,Top_Spend1
+149,149,Convergent Technologies India Pvt Ltd,335,2,511150.0,3,3,1,7,Top_Spend2
+150,150,Creative Interiors ,85,47,1259450.0,1,1,1,3,Top_Spend1
+151,151,Creative Vibration Isolators,811,1,7500.0,4,4,3,11,Top_Spend4
+152,152,Crystal Traders,172,2,14795.0,2,3,2,7,Top_Spend2
+153,153,Cyber Space Abacus Pvt Ltd,644,3,2441.36,4,2,3,9,Top_Spend3
+154,154,D S Power,30,3,187245.76,1,2,1,4,Top_Spend1
+155,155,D.P.Jagan & Sons,120,1,1127.1,1,4,4,9,Top_Spend3
+156,156,DA HOME DECOR,246,1,15169.49,2,4,2,8,Top_Spend2
+157,157,DELL INTERNATIONAL SERVICES INDIA PRIVATE LIMITED ,39,6,2179029.0,1,1,1,3,Top_Spend1
+158,158,DELL International Services India Pvt Ltd,37,22,23144218.07,1,1,1,3,Top_Spend1
+159,159,DELL International Services Pvt Ltd,770,8,1519200.0,4,1,1,6,Top_Spend1
+160,160,DELTALINE,833,2,239246.0,4,3,1,8,Top_Spend2
+161,161,DILabs Systems Pvt Ltd,891,1,17690.0,4,4,2,10,Top_Spend3
+162,162,DRKstore.in,15,15,107680.23999999999,1,1,1,3,Top_Spend1
+163,163,DS Scientific & Equipments,30,1,1025.0,1,4,4,9,Top_Spend3
+164,164,DT Techsolutions Pvt Ltd,819,1,413500.0,4,4,1,9,Top_Spend3
+165,165,Dash Enterprises,566,3,3400.0,3,2,3,8,Top_Spend2
+166,166,Dazzle Robotics Pvt. Ltd,1,76,1040716.3,1,1,1,3,Top_Spend1
+167,167,Decathlon,116,10,65304.02,1,1,2,4,Top_Spend1
+168,168,Decathlon Sports India Pvt Ltd,169,3,22929.36,2,2,2,6,Top_Spend1
+169,169,Delhi Sales Corporation,122,1,6600.0,1,4,3,8,Top_Spend2
+170,170,Dell International Services India Pvt. Ltd ,186,5,375757.0,2,1,1,4,Top_Spend1
+171,171,"Dell International Services India Pvt.,Ltd.",296,1,672000.0,3,4,1,8,Top_Spend2
+172,172,Deluxe Materials,143,2,1920.0,2,3,3,8,Top_Spend2
+173,173,Desertcart India,134,3,14397.0,2,2,2,6,Top_Spend1
+174,174,Deutsch Quality Systems India Pvt Ltd,505,1,280000.0,3,4,1,8,Top_Spend2
+175,175,Dhanuka Enterprises Pvt. Ltd.,738,4,2335.79,4,2,3,9,Top_Spend3
+176,176,Dhiman Associates,29,1,250.0,1,4,4,9,Top_Spend3
+177,177,Digi-Key Electronics,64,28,132846.95999999996,1,1,1,3,Top_Spend1
+178,178,Digital Core Technologies Pvt Ltd,149,2,235055.0,2,3,1,6,Top_Spend1
+179,179,Digital Metrology,246,7,7093.0,2,1,3,6,Top_Spend1
+180,180,Dionysus Consumer India Private Limited,190,1,160.0,2,4,4,10,Top_Spend3
+181,181,Disha Vacuum Pump & Service,448,2,160220.0,3,3,1,7,Top_Spend2
+182,182,Dream Polymers.,421,1,1525.0,3,4,4,11,Top_Spend4
+183,183,Drone Federation India,315,1,600000.0,3,4,1,8,Top_Spend2
+184,184,Dronecosmo,492,1,2600.0,3,4,3,10,Top_Spend3
+185,185,Durga Trading Company,772,1,468.0,4,4,4,12,Top_Spend4
+186,186,Dynavac India Pvt Ltd,665,1,18000.0,4,4,2,10,Top_Spend3
+187,187,EAGLE ELECTRICALS,280,2,151600.0,2,3,1,6,Top_Spend1
+188,188,EBSONS BOOK CENTRE,317,1,145.0,3,4,4,11,Top_Spend4
+189,189,ELECZO.com (Mohan Exim India Private Limited),54,1,84.75,1,4,4,9,Top_Spend3
+190,190,ELIXIR BUSINESS SERVICES,86,1,60.0,1,4,4,9,Top_Spend3
+191,191,ELLSWORTH ADHESIVES INDIA PRIVATE LIMITED,130,1,1710.0,2,4,3,9,Top_Spend3
+192,192,EMC - RF Technology Solutions,137,2,228500.0,2,3,1,6,Top_Spend1
+193,193,EMI Solutions Pvt Ltd,15,9,933725.0,1,1,1,3,Top_Spend1
+194,194,ESKAY-ESKAY HEAT TRANSFERS PVT LTD,37,1,106000.0,1,4,1,6,Top_Spend1
+195,195,ESTECO Software India Pvt Ltd,527,2,1867140.0,3,3,1,7,Top_Spend2
+196,196,Easyshoppi,745,1,743.0,4,4,4,12,Top_Spend4
+197,197,Elatech Intralogistics Solutions Private Limited,882,2,69391.0,4,3,2,9,Top_Spend3
+198,198,Elcir Industry,3,78,768656.29,1,1,1,3,Top_Spend1
+199,199,Electrobot Private Limited,939,1,5932.2,4,4,3,11,Top_Spend4
+200,200,Electronic Spices,134,1,69.0,2,4,4,10,Top_Spend3
+201,201,Electronicscomp.com,172,2,860.0,2,3,4,9,Top_Spend3
+202,202,Elegant Packing,130,2,2605.0,2,3,3,8,Top_Spend2
+203,203,Elektronik Lab India Pvt Ltd,83,1,15600.0,1,4,2,7,Top_Spend2
+204,204,Elektroniklab India Pvt Ltd,16,1,42812.0,1,4,2,7,Top_Spend2
+205,205,Element14 India Private Limited,59,29,631438.3800000001,1,1,1,3,Top_Spend1
+206,206,Elena Geo Systems Pvt. Ltd,534,1,15699.0,3,4,2,9,Top_Spend3
+207,207,Elesa and Ganter India Private Limited,302,2,4346.0,3,3,3,9,Top_Spend3
+208,208,Emaar Enterprise,431,4,1830.0,3,2,3,8,Top_Spend2
+209,209,Empee Corporation Pvt Ltd,905,1,2365.0,4,4,3,11,Top_Spend4
+210,210,Envisys Technologies Pvt Ltd,63,5,2252500.0,1,1,1,3,Top_Spend1
+211,211,Envitest Laboratories Pvt Ltd,63,12,5263126.67,1,1,1,3,Top_Spend1
+212,212,Epicenter3D,189,76,117408.0,2,1,1,4,Top_Spend1
+213,213,Eshwar Enterprises,409,1,2966.0,3,4,3,10,Top_Spend3
+214,214,Essae-Teraoka Pvt Ltd,723,2,92570.0,4,3,2,9,Top_Spend3
+215,215,Essen International,806,1,4350.0,4,4,3,11,Top_Spend4
+216,216,Eta Pro Technologies Pvt Ltd,445,9,15692.83,3,1,2,6,Top_Spend1
+217,217,Ethereal Machines Pvt Ltd,473,12,38804.0,3,1,2,6,Top_Spend1
+218,218,Evelta Electronics Private Limited,140,5,14699.0,2,1,2,5,Top_Spend1
+219,219,Exfo Industrial Printech,31,7,1000.0,1,1,4,6,Top_Spend1
+220,220,F-TECH INDUSTRIES,408,1,1500.0,3,4,4,11,Top_Spend4
+221,221,F1 INFOTECH PRIVATE LIMITED,163,1,369375.0,2,4,1,7,Top_Spend2
+222,222,FAXTEL SYSTEMS (INDIA) PVT LTD,378,2,31630.0,3,3,2,8,Top_Spend2
+223,223,FGTech Innovations LLP,447,2,8150.0,3,3,3,9,Top_Spend3
+224,224,FILIX CONSULTING PVT LTD ,28,2,2250000.0,1,3,1,5,Top_Spend1
+225,225,FPV Faster,521,1,125.0,3,4,4,11,Top_Spend4
+226,226,FPVStore.in,162,1,3750.0,2,4,3,9,Top_Spend3
+227,227,FUTURZ AND OPTIONS,711,1,850000.0,4,4,1,9,Top_Spend3
+228,228,Fab.to.Lab,140,4,13989.32,2,2,2,6,Top_Spend1
+229,229,Fastdep.in(Asenar Automation),172,1,59.32,2,4,4,10,Top_Spend3
+230,230,Festo India Private Limited,73,7,7340.7300000000005,1,1,3,5,Top_Spend1
+231,231,Fides Electronics Pvt Ltd,205,4,13988.0,2,2,2,6,Top_Spend1
+232,232,Fillet Engineering Services,39,8,16844.0,1,1,2,4,Top_Spend1
+233,233,Fineshift Software Private Limited,108,1,15300.0,1,4,2,7,Top_Spend2
+234,234,Flight mode,106,11,1132844.5,1,1,1,3,Top_Spend1
+235,235,Flipkart,172,6,4820.6,2,1,3,6,Top_Spend1
+236,236,FlyingMachines RC Aviation,304,1,169.49,3,4,4,11,Top_Spend4
+237,237,Flyrobo Technologies,58,4,6640.219999999999,1,2,3,6,Top_Spend1
+238,238,Focus Industrial Solutions,839,1,1000.0,4,4,4,12,Top_Spend4
+239,239,Foto Circle,37,7,183394.06,1,1,1,3,Top_Spend1
+240,240,Frappe Technologies Pvt. Ltd,360,1,1100000.0,3,4,1,8,Top_Spend2
+241,241,Furaat Engineering,121,11,2400.0,1,1,3,5,Top_Spend1
+242,242,G K Enterprises,102,1,58500.0,1,4,2,7,Top_Spend2
+243,243,GANAPATI ELECTRIC CO ,51,2,572.0,1,3,4,8,Top_Spend2
+244,244,GK Udyog,931,1,2500.0,4,4,3,11,Top_Spend4
+245,245,GLOBAL PRINTERS,735,1,5600.0,4,4,3,11,Top_Spend4
+246,246,GOTAWAT INDUSTRIAL CORPORATION,186,2,215000.0,2,3,1,6,Top_Spend1
+247,247,GREAT EMPLOYERS PRIVATE LIMITED,437,1,150000.0,3,4,1,8,Top_Spend2
+248,248,Gadgetsdeal,113,6,43651.15,1,1,2,4,Top_Spend1
+249,249,Ganpati Enterprises,7,1,1601.69,1,4,4,9,Top_Spend3
+250,250,Gautam Enterprise,687,1,245.0,4,4,4,12,Top_Spend4
+251,251,Gears of Future,569,2,15292.0,3,3,2,8,Top_Spend2
+252,252,General Hardware Agencies,785,2,544.0,4,3,4,11,Top_Spend4
+253,253,Genset World ,248,5,402193.65,2,1,1,4,Top_Spend1
+254,254,Goodwill Enterprises,29,134,1169579.64,1,1,1,3,Top_Spend1
+255,255,Goutham Media Prints,569,1,443.65,3,4,4,11,Top_Spend4
+256,256,Gramtarang Technical Vocational Education & Training Pvt Ltd. ,130,1,24337.0,2,4,2,8,Top_Spend2
+257,257,Gravity India Technologies Pvt. Ltd.,16,4,172000.0,1,2,1,4,Top_Spend1
+258,258,Green Tech Aviation,938,1,7650.0,4,4,3,11,Top_Spend4
+259,259,Grid Photo Services,592,1,420.0,3,4,4,11,Top_Spend4
+260,260,Gurukripa Enterprises,30,20,119435.0,1,1,1,3,Top_Spend1
+261,261,H G Infra ,183,3,353100.0,2,2,1,5,Top_Spend1
+262,262,H M Tools & Metal mart,361,5,1756.5,3,1,3,7,Top_Spend2
+263,263,HANI AUTOMATION TECHNOLOGIES,203,133,736248.0,2,1,1,4,Top_Spend1
+264,264,HICOTRONICS DEVICES PVT LTD,184,2,11378.0,2,3,3,8,Top_Spend2
+265,265,Hamsa Enterprises,3,36,13295.0,1,1,3,5,Top_Spend1
+266,266,Harshman Gauges & Engg. Co,623,1,1170.0,4,4,4,12,Top_Spend4
+267,267,Harshman International,621,2,13237.5,4,3,3,10,Top_Spend3
+268,268,Havoc Hobby Center Pvt Ltd,113,57,375344.45999999996,1,1,1,3,Top_Spend1
+269,269,Highstar Technoloogy Private Limited,92,9,23545.0,1,1,2,4,Top_Spend1
+270,270,Hindustan Electronics & Electricals,122,1,2669.49,1,4,3,8,Top_Spend2
+271,271,Hiranmayee Packing Works,155,2,20830.0,2,3,2,7,Top_Spend2
+272,272,House Mart (Aprera Realty Private Limited),203,1,161.02,2,4,4,10,Top_Spend3
+273,273,Hubtronics,189,2,3835.96,2,3,3,8,Top_Spend2
+274,274,Hybrid Metals Pvt Ltd,752,1,225.0,4,4,4,12,Top_Spend4
+275,275,IB MONOTARO PRIVATE LIMITED ( Industrial Buying),106,11,68823.0,1,1,2,4,Top_Spend1
+276,276,IBK Engineers Private Limited,185,13,109844.61,2,1,1,4,Top_Spend1
+277,277,ICONET SERVICES,744,2,19000.0,4,3,2,9,Top_Spend3
+278,278,IDIS INDIA,51,1,2115.0,1,4,3,8,Top_Spend2
+279,279,IFuture Technology,418,1,299.0,3,4,4,11,Top_Spend4
+280,280,IKEA,443,2,31167.97,3,3,2,8,Top_Spend2
+281,281,INDVAC Pumps,495,3,9600.0,3,2,3,8,Top_Spend2
+282,282,INTERFACE CONNECTRONICS PRIVATE LIMITED,130,2,1375.0,2,3,4,9,Top_Spend3
+283,283,IPC Technology Consulting Pvt Ltd,317,2,81400.0,3,3,2,8,Top_Spend2
+284,284,IT Gadgets & Services,116,3,100600.0,1,2,2,5,Top_Spend1
+285,285,ITW India Private Limited-Instron India-Billing,165,2,15000.0,2,3,2,7,Top_Spend2
+286,286,Icon Electromatic Private Limited,239,1,98850.0,2,4,2,8,Top_Spend2
+287,287,Iflight,268,1,2307.91,2,4,3,9,Top_Spend3
+288,288,Imaginarium Rapid Pvt Ltd,4,354,1152529.4000000001,1,1,1,3,Top_Spend1
+289,289,Incisee Rotomatic LLP,618,1,2000.0,4,4,3,11,Top_Spend4
+290,290,Indian Hobby Center,500,1,99.5,3,4,4,11,Top_Spend4
+291,291,Indian Robo Store,217,4,18916.56,2,2,2,6,Top_Spend1
+292,292,Indian Robotics Solution Private Limited	,155,2,33532.39,2,3,2,7,Top_Spend2
+293,293,Inertiacart Apparel Pvt Ltd,575,1,240.0,3,4,4,11,Top_Spend4
+294,294,Inotech Supplies Pvt Ltd,689,1,270.0,4,4,4,12,Top_Spend4
+295,295,Inovatek Electronics Ltd. ( Flytron),277,5,7000.02,2,1,3,6,Top_Spend1
+296,296,Insight Technologies,760,1,4500.0,4,4,3,11,Top_Spend4
+297,297,Instrukart Holdings,839,1,20271.19,4,4,2,10,Top_Spend3
+298,298,Integrated Services and Consultancy,21,3,360053.2,1,2,1,4,Top_Spend1
+299,299,Inter Ads Exhibitions Pvt. Ltd,314,2,20000.0,3,3,2,8,Top_Spend2
+300,300,Invento Sales Corporation,302,1,822.03,3,4,4,11,Top_Spend4
+301,301,J.V. Mill & Hardware,1,2,894.0699999999999,1,3,4,8,Top_Spend2
+302,302,JAHAGIRDAR  AERO  PRODUCTS ,709,1,102000.0,4,4,2,10,Top_Spend3
+303,303,JAISUN INDUSTRIAL SOLUTIONS,99,6,4032.0,1,1,3,5,Top_Spend1
+304,304,JC Gupta & Sons,8,14,80639.0,1,1,2,4,Top_Spend1
+305,305,JDM Brother Enterprises,32,16,10294.460000000001,1,1,3,5,Top_Spend1
+306,306,JOST'S ENGINEERINGCOMPANY LIMITED,163,1,245000.0,2,4,1,7,Top_Spend2
+307,307,JSM Composites,2,47,440460.0,1,1,1,3,Top_Spend1
+308,308,JUNGHEINRICH LIFT TRUCK INDIA PVT. LTD. Gebi,155,1,26500.0,2,4,2,8,Top_Spend2
+309,309,JUPITOR TOOLS,1023,1,431000.0,4,4,1,9,Top_Spend3
+310,310,JUST CLICK ELECTRONICS AND FURNITURES	,88,2,12000.0,1,3,3,7,Top_Spend2
+311,311,Jaihind Paper Agencies,569,1,131.36,3,4,4,11,Top_Spend4
+312,312,Jain Hydraluics & Pneumatics ,760,1,1620.0,4,4,4,12,Top_Spend4
+313,313,Janson Hardware,774,3,1372.0,4,2,4,10,Top_Spend3
+314,314,Jeni Enterprise,154,2,2786.0,2,3,3,8,Top_Spend2
+315,315,Jewar Jyothi Industries Pvt Ltd,491,1,75000.0,3,4,2,9,Top_Spend3
+316,316,"Jiangxi Xintuo Enterprises Co., Ltd (T-Motor) KIKI",391,1,825.65,3,4,4,11,Top_Spend4
+317,317,Jonson Tapes,567,2,506.78,3,3,4,10,Top_Spend3
+318,318,Jumpking India,259,1,166.0,2,4,4,10,Top_Spend3
+319,319,K.S. ENTERPRISES,43,1,100.0,1,4,4,9,Top_Spend3
+320,320,KASHYAP BEARING AND MILL STORES,38,4,785.0,1,2,4,7,Top_Spend2
+321,321,KEVIN ELECTROCHEM,262,1,325.0,2,4,4,10,Top_Spend3
+322,322,KOHLI ENTERPRISES,259,1,65000.0,2,4,2,8,Top_Spend2
+323,323,KR ENGINEERS,290,3,275000.0,3,2,1,6,Top_Spend1
+324,324,KUMAR ELASTICS,113,3,470.0,1,2,4,7,Top_Spend2
+325,325,Kailash Electric store,142,1,3771.19,2,4,3,9,Top_Spend3
+326,326,Kalpin Tech Private Limited,73,27,1185706.0,1,1,1,3,Top_Spend1
+327,327,Kalyx Networks Private Limited.,142,5,1180174.0,2,1,1,4,Top_Spend1
+328,328,Kanak India Sales Service,718,1,305000.0,4,4,1,9,Top_Spend3
+329,329,Kapasi Inc,197,5,3135.0,2,1,3,6,Top_Spend1
+330,330,Kapson Glass House,826,1,40500.0,4,4,2,10,Top_Spend3
+331,331,Karan Automobiles,29,1,771.19,1,4,4,9,Top_Spend3
+332,332,Karnataka Tools & Hardware Stores,690,1,762.75,4,4,4,12,Top_Spend4
+333,333,Khemka Plyland,644,3,3196.9300000000003,4,2,3,9,Top_Spend3
+334,334,Khush Enterprises,608,1,30000.0,4,4,2,10,Top_Spend3
+335,335,Kothari Electronic House,352,4,2415.0,3,2,3,8,Top_Spend2
+336,336,Kramer Electronics India Pvt Ltd,210,3,277655.0,2,2,1,5,Top_Spend1
+337,337,Krishna Hardware Stores,29,1,225.0,1,4,4,9,Top_Spend3
+338,338,Krishna Traders,409,4,9206.1,3,2,3,8,Top_Spend2
+339,339,Kwality Diamond Tools ,658,3,10630.0,4,2,3,9,Top_Spend3
+340,340,Kwatra Enterprises Private Limited - ToolWorld.in,147,6,51069.49,2,1,2,5,Top_Spend1
+341,341,L.J. TECHNOLOGIES,696,2,279260.0,4,3,1,8,Top_Spend2
+342,342,LEESHA PACKAGING SOLUTIONS,718,1,3800.0,4,4,3,11,Top_Spend4
+343,343,LINK COMPOSITES KARNATAKA LLP,71,3,13370.0,1,2,3,6,Top_Spend1
+344,344,LPS Bossard Pvt Ltd,210,4,4943.3,2,2,3,7,Top_Spend2
+345,345,LT CARTRIDGE,731,1,2124.0,4,4,3,11,Top_Spend4
+346,346,Lee Spring,141,7,9079.0,2,1,3,6,Top_Spend1
+347,347,Lee Spring Company India Pvt. Ltd.,211,3,2564.0,2,2,3,7,Top_Spend2
+348,348,Liberty Shoes Limited,598,1,1672.0,3,4,4,11,Top_Spend4
+349,349,Link Composites Pvt Ltd,422,6,25428.0,3,1,2,6,Top_Spend1
+350,350,Lotus Sales Corporation,119,19,52585.0,1,1,2,4,Top_Spend1
+351,351,Loyal Textile Mills Limited,316,4,3142.8,3,2,3,8,Top_Spend2
+352,352,M V SYSTEMS,829,1,15473.6,4,4,2,10,Top_Spend3
+353,353,M. COIL SPRING MFG.CO.,716,1,1785.0,4,4,3,11,Top_Spend4
+354,354,M.B Controls and Systems Pvt Ltd ,690,1,73775.0,4,4,2,10,Top_Spend3
+355,355,M.B. Agencies,189,1,1059.0,2,4,4,10,Top_Spend3
+356,356,M.B. TENT LLP ,198,1,4050.0,2,4,3,9,Top_Spend3
+357,357,M/S ISIT Office Space Solution Pvt Ltd,750,1,4600.0,4,4,3,11,Top_Spend4
+358,358,MANO IMPRESSIONS,927,1,6200.0,4,4,3,11,Top_Spend4
+359,359,MANUFAC,759,1,512000.0,4,4,1,9,Top_Spend3
+360,360,MARK SAFETY APPLIANCES,212,1,1450.0,2,4,4,10,Top_Spend3
+361,361,"MAUCH - TECHNOLOGY CO., LTD",837,1,287.3,4,4,4,12,Top_Spend4
+362,362,MAYANK ENTERPRISES,277,8,62945.0,2,1,2,5,Top_Spend1
+363,363,METRO HARDWARE	,213,1,1155.0,2,4,4,10,Top_Spend3
+364,364,MISUMI INDIA PVT.LTD,581,5,3228.15,3,1,3,7,Top_Spend2
+365,365,MODI TRADING CORPORATION,316,2,840.0,3,3,4,10,Top_Spend3
+366,366,MOXIE SUPPLY PVT LTD(Zbotic),268,1,87.0,2,4,4,10,Top_Spend3
+367,367,MS Trade Links,175,5,1604.0,2,1,4,7,Top_Spend2
+368,368,MSB Enterprises,596,1,850.0,3,4,4,11,Top_Spend4
+369,369,MSafe Equipments Pvt Ltd,739,1,9660.0,4,4,3,11,Top_Spend4
+370,370,Maa Vaibhav Laxmi Interiors	,214,1,3900000.0,2,4,1,7,Top_Spend2
+371,371,Macfos Limited,98,152,478359.41000000003,1,1,1,3,Top_Spend1
+372,372,Macfos Pvt Ltd,485,31,56966.73,3,1,2,6,Top_Spend1
+373,373,Mahalakshmi Electricals,247,1,75.0,2,4,4,10,Top_Spend3
+374,374,Mahalaxmi Plastics,926,1,2300.0,4,4,3,11,Top_Spend4
+375,375,Mahavir Corporation ,882,1,650.0,4,4,4,12,Top_Spend4
+376,376,Mahitha Solutions,716,1,506.86,4,4,4,12,Top_Spend4
+377,377,Makenica INC,314,38,56083.0,3,1,2,6,Top_Spend1
+378,378,Makenika INC,868,4,11930.0,4,2,3,9,Top_Spend3
+379,379,Makita,137,2,56843.4,2,3,2,7,Top_Spend2
+380,380,Mandore Laminates,693,1,280.0,4,4,4,12,Top_Spend4
+381,381,Mandovi Engineering Corporation,10,16,40107.0,1,1,2,4,Top_Spend1
+382,382,Mangaldeep Enterprises,10,8,6800.0,1,1,3,5,Top_Spend1
+383,383,Manit Consolidated Services,268,4,8143400.0,2,2,1,5,Top_Spend1
+384,384,Manya Tools and Traders ,406,1,175.0,3,4,4,11,Top_Spend4
+385,385,Marktech,630,1,4755.0,4,4,3,11,Top_Spend4
+386,386,Marktech Composites Pvt Ltd,163,13,39540.0,2,1,2,5,Top_Spend1
+387,387,Mascot Laboratory Services,242,3,4200.0,2,2,3,7,Top_Spend2
+388,388,Massif Marketing,100,7,10024455.26,1,1,1,3,Top_Spend1
+389,389,Mataji Plywood House,459,1,2520.0,3,4,3,10,Top_Spend3
+390,390,MathWorks India Private Limited,3,12,1468270.0,1,1,1,3,Top_Spend1
+391,391,Max Plus Pharma,674,1,112.0,4,4,4,12,Top_Spend4
+392,392,Maxime,42,1,9650.0,1,4,3,8,Top_Spend2
+393,393,Mechano Inspire India,676,2,890.0,4,3,4,11,Top_Spend4
+394,394,Mechstore ,217,3,25050.0,2,2,2,6,Top_Spend1
+395,395,Meco Meters Private Limited,836,1,131771.0,4,4,1,9,Top_Spend3
+396,396,Mectronics Marketing Services,252,1,1282.5,2,4,4,10,Top_Spend3
+397,397,Mehta Infotech Services India Pvt Ltd,774,1,1694.92,4,4,3,11,Top_Spend4
+398,398,Melody Electronics,353,5,45680.0,3,1,2,6,Top_Spend1
+399,399,Metal Impacts,687,1,31725.0,4,4,2,10,Top_Spend3
+400,400,Metal Nation Alloys,105,1,3500.0,1,4,3,8,Top_Spend2
+401,401,Metal Storage System Pvt Ltd,98,9,839274.17,1,1,1,3,Top_Spend1
+402,402,Meteoxperts Solutions Pvt Ltd,507,1,12500.0,3,4,3,10,Top_Spend3
+403,403,Micro Cad Services,1022,1,8000.0,4,4,3,11,Top_Spend4
+404,404,Micro Components,692,1,55.0,4,4,4,12,Top_Spend4
+405,405,Micro Devices Inc,729,1,3195.0,4,4,3,11,Top_Spend4
+406,406,Millenium Technologies,51,17,122595.0,1,1,1,3,Top_Spend1
+407,407,Minerva Technologies,31,3,7450.0,1,2,3,6,Top_Spend1
+408,408,Mini Machine Tools India Pvt Ltd,163,2,242781.0,2,3,1,6,Top_Spend1
+409,409,Moglix,113,1,705.0,1,4,4,9,Top_Spend3
+410,410,Mondego Fabian Technologies,311,12,138077.0,3,1,1,5,Top_Spend1
+411,411,"Mouser Electronics, Inc.",151,72,487281.2,2,1,1,4,Top_Spend1
+412,412,Mr. S. CHANDRAVEL,731,1,15000.0,4,4,2,10,Top_Spend3
+413,413,Mumtaz & Co,284,1,430.0,3,4,4,11,Top_Spend4
+414,414,Mypowerkart Online Solutions Pvt Ltd,724,1,65254.0,4,4,2,10,Top_Spend3
+415,415,NANO CLOUD TECHNOLGIES,932,1,56200.0,4,4,2,10,Top_Spend3
+416,416,NAVKAR INC.,701,1,850.0,4,4,4,12,Top_Spend4
+417,417,NET DISTRIBUTION SERVICES PVT. LTD,626,3,255739.93,4,2,1,7,Top_Spend2
+418,418,NEXGEN IMAGE GEARS,739,2,79686.44,4,3,2,9,Top_Spend3
+419,419,NGP SOLUTIONS (YJ GROUP),108,4,30305.48,1,2,2,5,Top_Spend1
+420,420,NICOMATIC INDIA ELECTRONICS PRIVATE LIMITED,66,12,140959.78,1,1,1,3,Top_Spend1
+421,421,NUMAKERS ASIA LLP,303,1,783.9,3,4,4,11,Top_Spend4
+422,422,NVN Tech,592,1,560.0,3,4,4,11,Top_Spend4
+423,423,NXM INDIA PVT LTD,422,4,1448050.0,3,2,1,6,Top_Spend1
+424,424,Nabroco Tools & Technologies Pvt.Ltd,144,1,1448.92,2,4,4,10,Top_Spend3
+425,425,Nagendra Tool Room,493,2,760.0,3,3,4,10,Top_Spend3
+426,426,Nebula3D Services Pvt Ltd,113,5,43000.0,1,1,2,4,Top_Spend1
+427,427,Nebula3D Services Pvt. Ltd,546,1,10000.0,3,4,3,10,Top_Spend3
+428,428,NemiParshva Trader LLP,44,1,500.0,1,4,4,9,Top_Spend3
+429,429,Neo Lables Inc,599,3,287.0,4,2,4,10,Top_Spend3
+430,430,New Chamunda Electronics,854,1,22500.0,4,4,2,10,Top_Spend3
+431,431,Ninetron Tech LLP,21,30,1670653.2999999998,1,1,1,3,Top_Spend1
+432,432,Nipun Carpet and Decor,29,1,152.54,1,4,4,9,Top_Spend3
+433,433,Noble Aerospace Pvt Ltd,676,1,560.0,4,4,4,12,Top_Spend4
+434,434,Novelty Office Solutions,420,1,1695.0,3,4,3,10,Top_Spend3
+435,435,OLYMPIC TROPHIES AND SPORTS,661,1,34000.0,4,4,2,10,Top_Spend3
+436,436,OMCARVE,569,1,500.0,3,4,4,11,Top_Spend4
+437,437,OMGVH ELECTRONICS PVT LTD,328,8,28950.0,3,1,2,6,Top_Spend1
+438,438,ONLINE BECHO SOLUTIONS INDIA PRIVATE LIMITED,137,1,458.0,2,4,4,10,Top_Spend3
+439,439,OSWAL STEEL INDUSTRIES,172,1,12000.0,2,4,3,9,Top_Spend3
+440,440,Objectify Technologies Pvt. Ltd.,710,1,7820.94,4,4,3,11,Top_Spend4
+441,441,Olympus Creative Printz,15,7,139784.0,1,1,1,3,Top_Spend1
+442,442,Om Trading Company,374,1,1248.8,3,4,4,11,Top_Spend4
+443,443,Orbilit Technology LLP,935,2,9775.0,4,3,3,10,Top_Spend3
+444,444,"Oriental Rubber Trading Co., (Mysore) Private Limited.",977,1,385.56,4,4,4,12,Top_Spend4
+445,445,Orion,115,5,176290.80000000002,1,1,1,3,Top_Spend1
+446,446,Orxa Energies Pvt. Ltd,689,4,120350.0,4,2,1,7,Top_Spend2
+447,447,P. C.PROCESS PVT LIMITED,422,2,5301.16,3,3,3,9,Top_Spend3
+448,448,PANTAGONE TECHNOLOGIES INDIA PVT. LTD,383,1,84999.0,3,4,2,9,Top_Spend3
+449,449,PANTAGONE TECHNOLOGIES INDIAPVT.LTD.,772,1,32626.27,4,4,2,10,Top_Spend3
+450,450,PAVITHRAM TECH SOLUTIONS,263,3,59804.0,2,2,2,6,Top_Spend1
+451,451,PC PROCESS PRIVATE LIMITED,134,1,3181.13,2,4,3,9,Top_Spend3
+452,452,PMC CORPORATION,548,7,5357.6,3,1,3,7,Top_Spend2
+453,453,POWER & CONTROL SYSTEMS,176,1,1327.0,2,4,4,10,Top_Spend3
+454,454,PRINI POWER SOLUTION,190,1,7400.0,2,4,3,9,Top_Spend3
+455,455,PRISAC AVIATION TECHNOLOGIES PRIVATE LIMITED,722,2,200000.0,4,3,1,8,Top_Spend2
+456,456,PROLIM Solutions India Pvt Ltd,1022,1,1400000.0,4,4,1,9,Top_Spend3
+457,457,Pankaj Electronics ,787,1,933.0,4,4,4,12,Top_Spend4
+458,458,Paras Aerospace Private Ltd,667,3,1291879.0,4,2,1,7,Top_Spend2
+459,459,Parsh Innoventures Pvt Ltd,645,2,17675.0,4,3,2,9,Top_Spend3
+460,460,Pavilions and Interiors (India) Pvt. Ltd.,697,1,185000.0,4,4,1,9,Top_Spend3
+461,461,Paxshell Private Limited,230,6,217500.0,2,1,1,4,Top_Spend1
+462,462,Perfectpassrc.com,143,1,4000.0,2,4,3,9,Top_Spend3
+463,463,Permanent Magnets Ltd.,374,2,2000.0,3,3,3,9,Top_Spend3
+464,464,PhotoIndia.com ,449,1,69000.0,3,4,2,9,Top_Spend3
+465,465,Pixel Composer Pvt. Ltd.,114,3,51400.0,1,2,2,5,Top_Spend1
+466,466,Plan Measuring Services LLP,530,2,6000.0,3,3,3,9,Top_Spend3
+467,467,Polymax Elastomers Pvt Ltd,331,7,6892.6,3,1,3,7,Top_Spend2
+468,468,Poorvi Sales & Services Pvt Ltd,679,1,30000.0,4,4,2,10,Top_Spend3
+469,469,Popular Trading Co,57,5,7111.0,1,1,3,5,Top_Spend1
+470,470,Powersafety Enterprises,227,5,30820.0,2,1,2,5,Top_Spend1
+471,471,Prabhat Paint Industries	,212,1,1100.0,2,4,4,10,Top_Spend3
+472,472,Pragathi Facility Services,606,1,8000.0,4,4,3,11,Top_Spend4
+473,473,Pragathi Tools and Dies,471,5,722850.0,3,1,1,5,Top_Spend1
+474,474,Prarthana Technologies,607,1,58.0,4,4,4,12,Top_Spend4
+475,475,Praveen marketing,896,1,8500.0,4,4,3,11,Top_Spend4
+476,476,Precision Electronics Limited,149,8,591115.0,2,1,1,4,Top_Spend1
+477,477,Preeya & Co,697,1,120.0,4,4,4,12,Top_Spend4
+478,478,Presnost Measures Pvt Ltd,229,3,26000.0,2,2,2,6,Top_Spend1
+479,479,Presnost Measures Pvt. Ltd,345,4,24800.0,3,2,2,7,Top_Spend2
+480,480,Probots Techno Solutions,212,5,1987.28,2,1,3,6,Top_Spend1
+481,481,Punarvasu Graphics Pvt. Ltd.,189,2,300.06,2,3,4,9,Top_Spend3
+482,482,Punith Electro Sales,563,1,90.0,3,4,4,11,Top_Spend4
+483,483,Purchasekart,262,1,1640.0,2,4,4,10,Top_Spend3
+484,484,Python Engineering Works,308,8,21690.41,3,1,2,6,Top_Spend1
+485,485,Q Max Composites Systems,738,6,419850.0,4,1,1,6,Top_Spend1
+486,486,QMax Composites Systems,691,1,162000.0,4,4,1,9,Top_Spend3
+487,487,QS Electronic Technology Co. Ltd. ,270,1,1656.2,2,4,4,10,Top_Spend3
+488,488,QUALITEK ENGINEERS,267,1,220.0,2,4,4,10,Top_Spend3
+489,489,Quartz Components,465,2,142.99,3,3,4,10,Top_Spend3
+490,490,Quick Parts Solutions Pvt Ltd,245,21,170359.33,2,1,1,4,Top_Spend1
+491,491,Quick Robotics LLP,710,1,212.0,4,4,4,12,Top_Spend4
+492,492,RC Hyderabad,151,2,4300.0,2,3,3,8,Top_Spend2
+493,493,RC Ventures,234,1,1115.0,2,4,4,10,Top_Spend3
+494,494,RCMumbai,57,15,149995.56,1,1,1,3,Top_Spend1
+495,495,REACT Laboratories,630,1,12000.0,4,4,3,11,Top_Spend4
+496,496,RELIANCE JIO INFOCOMM LIMITED,137,1,216000.0,2,4,1,7,Top_Spend2
+497,497,REVOLVE VALVES & BEARINGS	,193,1,21500.0,2,4,2,8,Top_Spend2
+498,498,RK Enterprises (ROBOTOOLS),199,3,810.46,2,2,4,8,Top_Spend2
+499,499,ROOTS MULTICLEAN LTD,144,1,168252.59,2,4,1,7,Top_Spend2
+500,500,RP Tech India,757,6,455782.0,4,1,1,6,Top_Spend1
+501,501,RP tech India,850,1,13500.0,4,4,2,10,Top_Spend3
+502,502,RPI Shop (Industrybuying)	,182,3,2064.42,2,2,3,7,Top_Spend2
+503,503,RS Canvas Store,4,1,2500.0,1,4,3,8,Top_Spend2
+504,504,RS Components & Controls (I) Ltd,113,13,238924.61000000004,1,1,1,3,Top_Spend1
+505,505,Rainbow Pigments,305,4,1780.0,3,2,3,8,Top_Spend2
+506,506,Rajavans Business Solution,924,1,500000.0,4,4,1,9,Top_Spend3
+507,507,Rajindra Electronics,99,2,6385.59,1,3,3,7,Top_Spend2
+508,508,Rajiv Electronics,58,1,1200.0,1,4,4,9,Top_Spend3
+509,509,Rajshree Electronics & Automation India Pvt Ltd.,121,3,42040.520000000004,1,2,2,5,Top_Spend1
+510,510,Raju Marine,197,1,7000.0,2,4,3,9,Top_Spend3
+511,511,Ramaiah University of Applied Sciences,78,2,7000.0,1,3,3,7,Top_Spend2
+512,512,Ranam Safety and Health Private Limited,142,1,230.0,2,4,4,10,Top_Spend3
+513,513,Rapid Proto Tech India Private Limited,247,4,22764.0,2,2,2,6,Top_Spend1
+514,514,Rashi Peripherals Ltd,72,6,292202.0,1,1,1,3,Top_Spend1
+515,515,Rddhi's Print Station,570,1,600.0,3,4,4,11,Top_Spend4
+516,516,Rectus India,962,1,10000.0,4,4,3,11,Top_Spend4
+517,517,Reliance Digital,774,1,16694.92,4,4,2,10,Top_Spend3
+518,518,Reliance Retail Limited,569,1,20890.62,3,4,2,9,Top_Spend3
+519,519,Rentokil Initial Hygiene India Pvt Limited,37,4,79154.3,1,2,2,5,Top_Spend1
+520,520,Revamp Power Soultions,353,4,496000.0,3,2,1,6,Top_Spend1
+521,521,Rich Corporates,8,12,3455.0,1,1,3,5,Top_Spend1
+522,522,Ripple Technologies,650,1,119256.0,4,4,1,9,Top_Spend3
+523,523,Rite Source Storage Systems,157,10,122100.0,2,1,1,4,Top_Spend1
+524,524,Robo Sonics Advanced Calibration System,29,1,10000.0,1,4,3,8,Top_Spend2
+525,525,Robotics embedded education services pvt ltd,49,1,1750.0,1,4,3,8,Top_Spend2
+526,526,RoboticsDNA,203,5,670.77,2,1,4,7,Top_Spend2
+527,527,Robu.in,113,77,312920.8400000001,1,1,1,3,Top_Spend1
+528,528,Rochy's Enterprises,592,1,180.0,3,4,4,11,Top_Spend4
+529,529,Ronak Enterprises	,241,1,80.0,2,4,4,10,Top_Spend3
+530,530,Royal Syndicate,786,1,1600.0,4,4,4,12,Top_Spend4
+531,531,Runrc,517,2,24999.0,3,3,2,8,Top_Spend2
+532,532,Ryan Technology,554,2,1949.0,3,3,3,9,Top_Spend3
+533,533,S V Acrylics,863,1,1390.0,4,4,4,12,Top_Spend4
+534,534,S.K. Group of Marketing,710,1,67500.0,4,4,2,10,Top_Spend3
+535,535,S.K.Polymers,676,1,95.0,4,4,4,12,Top_Spend4
+536,536,SAMS Industrial Products,3,84,71925.95,1,1,2,4,Top_Spend1
+537,537,"SATHYA Technosoft India Private Limited,",674,1,5591.53,4,4,3,11,Top_Spend4
+538,538,SEAL TECH,361,1,210.0,3,4,4,11,Top_Spend4
+539,539,SHA KUNDANMAL MISRIMAL,806,1,1250.0,4,4,4,12,Top_Spend4
+540,540,SHIVAAMI CLOUD SERVICES PRIVATE LIMITED,890,1,9960.0,4,4,3,11,Top_Spend4
+541,541,SHREE LAKSHMI RANGANATHA CNC WOOD CARVINGS,151,16,37740.0,2,1,2,5,Top_Spend1
+542,542,SIDH IMPEX C,317,1,650.0,3,4,4,11,Top_Spend4
+543,543,SKYPAC PLASTICA,798,1,1360.0,4,4,4,12,Top_Spend4
+544,544,SLN Patterns,682,1,100000.0,4,4,2,10,Top_Spend3
+545,545,SLV Packing Solutions,569,1,50.0,3,4,4,11,Top_Spend4
+546,546,SM Electrnic Technologies Pvt Ltd,1002,1,187790.0,4,4,1,9,Top_Spend3
+547,547,SM Electronic Technologies Pvt Ltd,121,12,197867.09,1,1,1,3,Top_Spend1
+548,548,SN ELECTRONICS,648,2,6772.0,4,3,3,10,Top_Spend3
+549,549,SOGO COMPUTERS PVT. LTD,170,11,149400.0,2,1,1,4,Top_Spend1
+550,550,SONATA INFORMATION TECHNOLOGY LIMITED,14,7,132202.09,1,1,1,3,Top_Spend1
+551,551,SPACEFLIX PRIVATE LIMITED	,190,1,4600.0,2,4,3,9,Top_Spend3
+552,552,SPark Systems,569,1,4750.0,3,4,3,10,Top_Spend3
+553,553,SR polychem ,921,1,200.0,4,4,4,12,Top_Spend4
+554,554,SRK Electronics,432,3,438.39,3,2,4,9,Top_Spend3
+555,555,SRS ENTERPRISES,396,1,7421.8,3,4,3,10,Top_Spend3
+556,556,SS FIBER OPTIC SOLUTIONS,42,2,3308.0,1,3,3,7,Top_Spend2
+557,557,SSMITH Technologie,705,1,66000.0,4,4,2,10,Top_Spend3
+558,558,STATIC PACKAGING,186,1,1475.0,2,4,4,10,Top_Spend3
+559,559,STERLING SIGN SYSTEMS,305,1,33500.0,3,4,2,9,Top_Spend3
+560,560,STI INFOTECH PRIVATE LIMITED,37,1,57020.0,1,4,2,7,Top_Spend2
+561,561,STR ENGINEERING WORKS,760,1,6000.0,4,4,3,11,Top_Spend4
+562,562,STRONIC INDIA	,84,15,98494.26999999999,1,1,2,4,Top_Spend1
+563,563,SUN ROBOTICS,877,1,3194.07,4,4,3,11,Top_Spend4
+564,564,SUPERTRONICS,42,24,193885.0,1,1,1,3,Top_Spend1
+565,565,SUVACA TECHNOLOGIES PRIVATE LIMITED,321,1,730.0,3,4,4,11,Top_Spend4
+566,566,SWEN HVAC Engineers,127,7,375497.84,2,1,1,4,Top_Spend1
+567,567,Safe Fire & Safety Services,400,1,1450.0,3,4,4,11,Top_Spend4
+568,568,Sameeksha Life Safety Equipments India Pvt Ltd,808,1,2000.0,4,4,3,11,Top_Spend4
+569,569,Saru smelting Pvt. ltd.,280,1,520.84,2,4,4,10,Top_Spend3
+570,570,Sattva Aero Accessories & Systems Pvt Ltd,387,4,127946.0,3,2,1,6,Top_Spend1
+571,571,Savex Technologies Private Limited,144,1,46955.0,2,4,2,8,Top_Spend2
+572,572,Sefar India Private Limited,596,2,5400.0,3,3,3,9,Top_Spend3
+573,573,Seismosys Technologies Pvt Ltd,815,2,7000.0,4,3,3,10,Top_Spend3
+574,574,Seizo CNC Pvt Ltd,4,245,699359.74,1,1,1,3,Top_Spend1
+575,575,Shahani ( India) Company,772,1,655.0,4,4,4,12,Top_Spend4
+576,576,Shahputra Trading Private Limited,37,144,7360223.83,1,1,1,3,Top_Spend1
+577,577,Shaikh Mudabir Ismail AKA Akbar,791,2,40000.0,4,3,2,9,Top_Spend3
+578,578,Shanthi Tele Mobiles,566,1,330.51,3,4,4,11,Top_Spend4
+579,579,Shanti Carpet Industries,1012,1,2500.0,4,4,3,11,Top_Spend4
+580,580,Sharvi Technologies Pvt Ltd,400,1,489.0,3,4,4,11,Top_Spend4
+581,581,Sheeltron Digital Systems Private Limited,8,8,287250.0,1,1,1,3,Top_Spend1
+582,582,Shekhar Optoelectronics and Polymer Pvt. Ltd,272,1,300.0,2,4,4,10,Top_Spend3
+583,583,Shiva Telecom,464,1,15000.0,3,4,2,9,Top_Spend3
+584,584,Shivaami Cloud Services Pvt Ltd,163,2,24380.0,2,3,2,7,Top_Spend2
+585,585,Shree Aditi Technologies,537,1,7199.0,3,4,3,10,Top_Spend3
+586,586,Shree Balaji Tools Centre,786,1,289.0,4,4,4,12,Top_Spend4
+587,587,Shree Krishna Hardware,7,1,330.5,1,4,4,9,Top_Spend3
+588,588,Shree Rohini Medicos,29,1,350.0,1,4,4,9,Top_Spend3
+589,589,Shree sai Power Networks ,441,2,104000.0,3,3,2,8,Top_Spend2
+590,590,Shreyans Enterprises	,91,4,56070.0,1,2,2,5,Top_Spend1
+591,591,Shri Balaji Furniture,29,1,1500.0,1,4,4,9,Top_Spend3
+592,592,Shri Durga Mineral Craft,175,7,1255.0,2,1,4,7,Top_Spend2
+593,593,Shri Shakti Tools & Hardware,204,1,231.36,2,4,4,10,Top_Spend3
+594,594,Shri venkateswara Hi-Tech Machineries Private Limited,4,2,2325500.0,1,3,1,5,Top_Spend1
+595,595,Shyam Ji Trading Company,108,1,11000.0,1,4,3,8,Top_Spend2
+596,596,Siemens Limited,4,3,397073.0,1,2,1,4,Top_Spend1
+597,597,Signellent Technologies India Pvt Ltd,828,3,16900.0,4,2,2,8,Top_Spend2
+598,598,Silverline Electronics,832,2,7230.0,4,3,3,10,Top_Spend3
+599,599,SimplyFlying Innovation And Technology Pvt.Ltd,413,26,2484300.0,3,1,1,5,Top_Spend1
+600,600,Sintrizen Technologies PVT. LTD.,17,16,299933.3,1,1,1,3,Top_Spend1
+601,601,Sirius Technologies,346,1,20000.0,3,4,2,9,Top_Spend3
+602,602,Skill Tech,3,32,43455.0,1,1,2,4,Top_Spend1
+603,603,Smart Shield Insulation LLP ,375,1,25000.0,3,4,2,9,Top_Spend3
+604,604,Smarten Power Systems Pvt. Ltd.,537,2,557500.0,3,3,1,7,Top_Spend2
+605,605,Soch3D,385,1,228.18,3,4,4,11,Top_Spend4
+606,606,Softech IT Solutions,681,1,1600.0,4,4,4,12,Top_Spend4
+607,607,Solize India Technologies Pvt Ltd,143,11,21158412.0,2,1,1,4,Top_Spend1
+608,608,Souravi Solutions Private Limited,315,3,19625.5,3,2,2,7,Top_Spend2
+609,609,Source India Shoes,577,1,312.1,3,4,4,11,Top_Spend4
+610,610,Southfield Coatings Private Limited,144,5,33370.0,2,1,2,5,Top_Spend1
+611,611,Southfield Paints Limited,624,3,12953.0,4,2,3,9,Top_Spend3
+612,612,Spike E.com (www.eassycart.com),459,1,2263.56,3,4,3,10,Top_Spend3
+613,613,Springboard Advertising,912,1,120000.0,4,4,1,9,Top_Spend3
+614,614,Sri Balaji Engineering,568,1,4830.0,3,4,3,10,Top_Spend3
+615,615,Sri Krishna Weld Tech ,386,1,450.0,3,4,4,11,Top_Spend4
+616,616,Sri Lakshmi Engineeering Works,968,1,2075.0,4,4,3,11,Top_Spend4
+617,617,Sri Lakshmi Engineering Works,947,1,2325.0,4,4,3,11,Top_Spend4
+618,618,Sri Pragathi Facility Services,9,2,27135.0,1,3,2,6,Top_Spend1
+619,619,Sri Sai Arts,774,2,210.0,4,3,4,11,Top_Spend4
+620,620,Sri Vigneshwara Enterprises,217,2,33350.0,2,3,2,7,Top_Spend2
+621,621,Sri ganesh Power Services ,661,3,87500.0,4,2,2,8,Top_Spend2
+622,622,Stamp Solutions India,566,4,1400.0,3,2,4,9,Top_Spend3
+623,623,Standard Auto industries,9,2,8200.0,1,3,3,7,Top_Spend2
+624,624,SuRCLe Technology Pvt,826,1,2868.0,4,4,3,11,Top_Spend4
+625,625,Sugatsune Kogyo India Private Limited,193,3,2816.0,2,2,3,7,Top_Spend2
+626,626,Sun Modular Systems,726,2,39700.0,4,3,2,9,Top_Spend3
+627,627,Sun Standard Scales India Regd,719,1,2243.2,4,4,3,11,Top_Spend4
+628,628,Superion Technologies LLP,331,2,90000.0,3,3,2,8,Top_Spend2
+629,629,Suprabhat Enterprises,366,1,9500.0,3,4,3,10,Top_Spend3
+630,630,Suran Tech,686,2,53752.0,4,3,2,9,Top_Spend3
+631,631,Surya Power Services,137,1,342.37,2,4,4,10,Top_Spend3
+632,632,Surya Solutions,262,1,2880.0,2,4,3,9,Top_Spend3
+633,633,Swastik Electronics,165,1,200.0,2,4,4,10,Top_Spend3
+634,634,Swifitin Agencies LLP,786,1,2283.0,4,4,3,11,Top_Spend4
+635,635,Synapse Communication Design Pvt,296,1,345000.0,3,4,1,8,Top_Spend2
+636,636,Systematic Systems,276,2,700139.79,2,3,1,6,Top_Spend1
+637,637,"T.SAIFUDDIN & CO.,",743,1,17187.0,4,4,2,10,Top_Spend3
+638,638,TATA TELESERVICES LIMITED,336,3,272130.0,3,2,1,6,Top_Spend1
+639,639,TE Tech solution,176,2,148250.0,2,3,1,6,Top_Spend1
+640,640,TEAM TECHNOLOGY,72,2,1160500.0,1,3,1,5,Top_Spend1
+641,641,TECHNOSYS EMBEDDED SYSTEMS PVT LTD	,171,1,132000.0,2,4,1,7,Top_Spend2
+642,642,THE BHOR CHEMICALS & PLASTICS PVT.LTD,135,29,75697.0,2,1,2,5,Top_Spend1
+643,643,THIRD WAVE RUGGEDTECH PRIVATE LIMITED,46,12,2502301.0,1,1,1,3,Top_Spend1
+644,644,THULASIRAMPRABHU,156,1,5000.0,2,4,3,9,Top_Spend3
+645,645,TIF LABS Pvt Ltd ( Robocraze),403,4,24369.239999999998,3,2,2,7,Top_Spend2
+646,646,TRIDENT INFOSOL PRIVATE LIMITED,696,1,33560.0,4,4,2,10,Top_Spend3
+647,647,TUJORC,359,1,7999.0,3,4,3,10,Top_Spend3
+648,648,TUV RHEINLAND (INDIA) PVT LTD,29,1,140000.0,1,4,1,6,Top_Spend1
+649,649,Taksham Enterprises Pvt Ltd,451,1,94800.0,3,4,2,9,Top_Spend3
+650,650,Taneja Aerospace & Aviation Limited,598,1,175000.0,3,4,1,8,Top_Spend2
+651,651,Tanna Tech Biz LLP,117,5,256748.0,1,1,1,3,Top_Spend1
+652,652,Tanotis Private Limited,209,4,9038.74,2,2,3,7,Top_Spend2
+653,653,Tapes world,36,23,29541.67,1,1,2,4,Top_Spend1
+654,654,Techno Aids Engineering,1011,1,810.0,4,4,4,12,Top_Spend4
+655,655,Techno Instruments,742,2,31690.0,4,3,2,9,Top_Spend3
+656,656,Techtonics,157,1,624.61,2,4,4,10,Top_Spend3
+657,657,Techvistar IT Solution Pvt Ltd,105,1,2900.0,1,4,3,8,Top_Spend2
+658,658,Telled Marketing,165,5,21182336.0,2,1,1,4,Top_Spend1
+659,659,TenX Services Private Limited.,23,7,21950.0,1,1,2,4,Top_Spend1
+660,660,TestCAL,4,46,114250.0,1,1,1,3,Top_Spend1
+661,661,Texas Instruments,4,6,24183.449999999993,1,1,2,4,Top_Spend1
+662,662,The Supreme  Industries Ltd,303,2,10000.0,3,3,3,9,Top_Spend3
+663,663,The Supreme Industried Ltd,844,2,30000.0,4,3,2,9,Top_Spend3
+664,664,The Supreme Industries Limited,764,1,2090.0,4,4,3,11,Top_Spend4
+665,665,The Tool Depot,195,1,317.0,2,4,4,10,Top_Spend3
+666,666,Think Robotics,327,3,106511.68000000001,3,2,1,6,Top_Spend1
+667,667,Third Dimension Printers LLP,711,3,80448.0,4,2,2,8,Top_Spend2
+668,668,Third Eye Technologies,989,1,89001.0,4,4,2,10,Top_Spend3
+669,669,Thirumalaivasan Technology,913,1,8500.0,4,4,3,11,Top_Spend4
+670,670,Thodukonics,416,2,109980.0,3,3,1,7,Top_Spend2
+671,671,Tijarah Tools & Hardware,566,3,321.0,3,2,4,9,Top_Spend3
+672,672,Tiltas Systems LLP,126,4,1020081.34,1,2,1,4,Top_Spend1
+673,673,Tiltas Systems LLP (Runrc),335,4,56519.69,3,2,2,7,Top_Spend2
+674,674,Tonbo Imaging India Private Limited,267,1,1065000.0,2,4,1,7,Top_Spend2
+675,675,Toolfit,120,5,114280.0,1,1,1,3,Top_Spend1
+676,676,Toolguru.in ,118,1,5946.0,1,4,3,8,Top_Spend2
+677,677,Towers Infotech Pvt Ltd,495,6,1042250.0,3,1,1,5,Top_Spend1
+678,678,Transcal,806,1,1000.0,4,4,4,12,Top_Spend4
+679,679,Triveni Print Screen,157,7,5654.33,2,1,3,6,Top_Spend1
+680,680,Turneast,443,2,19599.980000000003,3,3,2,8,Top_Spend2
+681,681,Tyto Robotics Inc.,108,1,7498.44,1,4,3,8,Top_Spend2
+682,682,UNIQUE MEASUREMENT SERVICE,129,1,20000.0,2,4,2,8,Top_Spend2
+683,683,UNITED DIESEL SERVICES		,172,2,2511.02,2,3,3,8,Top_Spend2
+684,684,USHA ARMOUR PVT LTD,28,3,83182.4,1,2,2,5,Top_Spend1
+685,685,Ubuy,108,10,48660.96,1,1,2,4,Top_Spend1
+686,686,Uma Enterprises,199,1,210000.0,2,4,1,7,Top_Spend2
+687,687,Unique Enterprises,567,2,1000.0,3,3,4,10,Top_Spend3
+688,688,Unique industrial solutions	,25,6,27346.0,1,1,2,4,Top_Spend1
+689,689,Upack,526,1,677.45,3,4,4,11,Top_Spend4
+690,690,Uttam Electric Store,108,1,70.0,1,4,4,9,Top_Spend3
+691,691,VASAN ENGINEERING WORKS,1,234,944833.47,1,1,1,3,Top_Spend1
+692,692,VASUNDARA PROSYS PVT LTD,636,3,67085.0,4,2,2,8,Top_Spend2
+693,693,VASUNDHARA AUTOMATION AND ENGG SERVICES PRIVATE LIMITED,50,1,8780.0,1,4,3,8,Top_Spend2
+694,694,VB4U,28,26,22222.75,1,1,2,4,Top_Spend1
+695,695,VGS Enterprises,605,7,38652.08,4,1,2,7,Top_Spend2
+696,696,VISWANATH ELECTRICALS PVT LTD,903,1,157.5,4,4,4,12,Top_Spend4
+697,697,VIVEK ROAD LOGISTICS,457,1,68800.0,3,4,2,9,Top_Spend3
+698,698,VLS COMPUTERS,120,19,50870.0,1,1,2,4,Top_Spend1
+699,699,VORTEX INNOVATIONS - Vortex-RC,126,5,1264.0,1,1,4,6,Top_Spend1
+700,700,VROOM,483,1,627118.9,3,4,1,8,Top_Spend2
+701,701,VVDN Technologies Private Limited,161,12,10085546.51,2,1,1,4,Top_Spend1
+702,702,VWP SOLUTIONS,126,1,70.0,1,4,4,9,Top_Spend3
+703,703,VYOM DRONES PRIVATE LIMITED . ,43,11,117975.0,1,1,1,3,Top_Spend1
+704,704,Vactech Composites Pvt Ltd,426,2,7750.0,3,3,3,9,Top_Spend3
+705,705,Vaishnavi Sri,10,10,6376.0,1,1,3,5,Top_Spend1
+706,706,Valdel Advanced Technologies Pvt Ltd,126,23,1339726.0,1,1,1,3,Top_Spend1
+707,707,Value Point Systems Pvt Ltd,574,2,277090.0,3,3,1,7,Top_Spend2
+708,708,Valuekart Ltd,347,1,1959.95,3,4,3,10,Top_Spend3
+709,709,Valve Corporation,439,1,1299.0,3,4,4,11,Top_Spend4
+710,710,Vani Private Limited,819,1,1900.0,4,4,3,11,Top_Spend4
+711,711,Vee Diamond Products,699,1,9000.0,4,4,3,11,Top_Spend4
+712,712,Vichar Technology,574,5,14500.0,3,1,2,6,Top_Spend1
+713,713,Vie Tooling System India,566,1,700.0,3,4,4,11,Top_Spend4
+714,714,Vijay Fastener,2,65,80596.65,1,1,2,4,Top_Spend1
+715,715,Vijay Trading company,93,4,1800.0,1,2,3,6,Top_Spend1
+716,716,Vinsurwaves,4,52,73348.0,1,1,2,4,Top_Spend1
+717,717,Visco Technologies	,240,1,131263.0,2,4,1,7,Top_Spend2
+718,718,Vishal Electronics,336,7,16720.0,3,1,2,6,Top_Spend1
+719,719,Vishal Enterprise,431,1,4627.2,3,4,3,10,Top_Spend3
+720,720,Vishwas Industries,651,1,60.0,4,4,4,12,Top_Spend4
+721,721,Voila Scientific Needs Pvt. Ltd.,219,41,135659.03000000003,2,1,1,4,Top_Spend1
+722,722,Vortex Innovations,130,8,14795.0,2,1,2,5,Top_Spend1
+723,723,Vortex-RC,304,2,4805.0,3,3,3,9,Top_Spend3
+724,724,Vyom Vista,172,51,796033.8200000001,2,1,1,4,Top_Spend1
+725,725,WOL 3D,248,17,186159.56,2,1,1,4,Top_Spend1
+726,726,WORLD COMPUTECH,281,1,750.0,3,4,4,11,Top_Spend4
+727,727,Warehouse international Pvt Ltd	,45,2,12600.0,1,3,3,7,Top_Spend2
+728,728,Wedge Industries Ltd,223,4,9400.0,2,2,3,7,Top_Spend2
+729,729,White Massif Creations LLP,456,1,231000.0,3,4,1,8,Top_Spend2
+730,730,Widerange group,274,1,315350.0,2,4,1,7,Top_Spend2
+731,731,Wildcraft India Private Limited,197,2,10000.0,2,3,3,8,Top_Spend2
+732,732,Wol3D,421,1,900.0,3,4,4,11,Top_Spend4
+733,733,Wuerth Elektronik India Private Limited.	,151,2,1600.0,2,3,4,9,Top_Spend3
+734,734,XBotics Bangalore,107,4,30872.0,1,2,2,5,Top_Spend1
+735,735,XyzHobby,346,1,400.0,3,4,4,11,Top_Spend4
+736,736,Z-Crossing Solutions Pvt Ltd,765,2,919010.0,4,3,1,8,Top_Spend2
+737,737,ZENITH INDUSTRIAL SUPPLIES,29,13,15347.96,1,1,2,4,Top_Spend1
+738,738,Zreyah Semiconductor Systems Pvt Ltd,65,6,118447.45999999999,1,1,1,3,Top_Spend1
+739,739,Zuru Services LLP,283,1,90000.0,3,4,2,9,Top_Spend3
+740,740,e-con Systems India Private Limited,9,1,126084.0,1,4,1,6,Top_Spend1
+741,741,electricalworld.com,156,1,1162.41,2,4,4,10,Top_Spend3
+742,742,enArka India Private Limited,1011,1,425000.0,4,4,1,9,Top_Spend3
+743,743,iPremium India,598,6,183781.0,3,1,1,5,Top_Spend1
+744,744,igus Motion Plastics,28,1,300.0,1,4,4,9,Top_Spend3
+745,745,inFeedo Tech Pvt Ltd,528,1,70000.0,3,4,2,9,Top_Spend3
+746,746,intersact Technologies,1023,1,99000.0,4,4,2,10,Top_Spend3
+747,747,kirloskar care,233,3,498.76,2,2,4,8,Top_Spend2
+748,748,makerbazar,506,1,168.64,3,4,4,11,Top_Spend4
+749,749,rcproduct,59,4,10097.0,1,2,3,6,Top_Spend1
+750,750,redwingRC.com,451,1,105.99,3,4,4,11,Top_Spend4
+751,751,robosynckits.in,113,1,26500.0,1,4,2,7,Top_Spend2
+752,752,robozar.com,190,1,8319.0,2,4,3,9,Top_Spend3
+753,753,steampowered.com,66,1,230.0,1,4,4,9,Top_Spend3
+754,754,theengineerstore.in,121,1,6237.0,1,4,3,8,Top_Spend2
+755,755,wattsinnovations.com,135,1,9900.0,2,4,3,9,Top_Spend3
+756,756,webex,113,1,12300.0,1,4,3,8,Top_Spend2

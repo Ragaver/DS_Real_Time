@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction</title>
+    <style>
+        :root {
+            --primary-color: #6a5acd; /* SlateBlue */
+            --secondary-color: #9370db; /* MediumPurple */
+            --background-color: #e6e6fa; /* Lavender */
+            --text-color: #333;
+            --light-gray: #f5f5f5;
+            --white: #ffffff;
+            --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            --border-radius: 8px;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: var(--white);
+            padding: 30px;
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow);
+        }
+        
+        h1 {
+            color: var(--primary-color);
+            text-align: center;
+            margin-bottom: 30px;
+            font-weight: 600;
+            border-bottom: 2px solid var(--secondary-color);
+            padding-bottom: 10px;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        
+        label {
+            width: 250px;
+            font-weight: 500;
+            margin-right: 15px;
+        }
+        
+        input[type="number"],
+        select {
+            flex: 1;
+            min-width: 200px;
+            padding: 10px 15px;
+            border: 1px solid #ddd;
+            border-radius: var(--border-radius);
+            font-size: 16px;
+            transition: border 0.3s;
+        }
+        
+        input[type="number"]:focus,
+        select:focus {
+            outline: none;
+            border-color: var(--secondary-color);
+            box-shadow: 0 0 0 2px rgba(147, 112, 219, 0.2);
+        }
+        
+        button[type="submit"] {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 16px;
+            border-radius: var(--border-radius);
+            cursor: pointer;
+            transition: background-color 0.3s;
+            display: block;
+            margin: 30px auto 0;
+            width: 200px;
+        }
+        
+        button[type="submit"]:hover {
+            background-color: var(--secondary-color);
+        }
+        
+        .prediction-result {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: var(--light-gray);
+            border-radius: var(--border-radius);
+            text-align: center;
+            font-size: 18px;
+            color: var(--primary-color);
+            font-weight: 500;
+        }
+        
+        @media (max-width: 768px) {
+            .form-group {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            label {
+                width: 100%;
+                margin-bottom: 8px;
+            }
+            
+            input[type="number"],
+            select {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+
+    <body style = "background-color:aquamarine;">
+        <h3 style = "color:blueviolet;">Predictive model for Price of plastic fastner</h3><body style = "background-color:blueviolet;">
+    <form action = "/predict" method = "POST">
+
+        <label>Supplier_region</label>
+        <select name = "Supplier_region">
+            <option value = EMEA>EMEA</option>
+            <option value = APAC>APAC</option>
+        </select><br><br>
+
+        <label>Material_user</label>
+        <select name = "Material_user">
+            <option value = Thailand>Thailand</option>
+            <option value = Singapore>Singapore</option>
+        </select><br><br>
+
+
+        <label>Item_weight_gm</label>
+        <input type = "number" name = "Item_weight_gm" step = "1" min = "1" max = "6000"><br><br>
+
+        <button type = 'submit'>Predict</button><br><br>
+    </form>
+    {% if prediction %}
+    <h2>{{prediction}}</h2>
+    {% endif %}
+    
+</body>
+</html>

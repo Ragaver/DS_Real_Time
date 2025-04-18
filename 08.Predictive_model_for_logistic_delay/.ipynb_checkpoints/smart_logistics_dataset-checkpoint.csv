@@ -1,0 +1,1001 @@
+Timestamp,Asset_ID,Inventory_Level,Shipment_Status,Temperature,Humidity,Traffic_Status,Waiting_Time,User_Transaction_Amount,User_Purchase_Frequency,Logistics_Delay_Reason,Asset_Utilization,Demand_Forecast,Logistics_Delay
+20-03-2024 00:11,Truck_7,390,Delayed,27,67.8,Detour,38,320,4,None,60.1,285,1
+30-10-2024 07:53,Truck_6,491,In Transit,22.5,54.3,Heavy,16,439,7,Weather,80.9,174,1
+29-07-2024 18:42,Truck_10,190,In Transit,25.2,62.2,Detour,34,355,3,None,99.2,260,0
+28-10-2024 00:50,Truck_9,330,Delivered,25.4,52.3,Heavy,37,227,5,Traffic,97.4,160,1
+27-09-2024 15:52,Truck_7,480,Delayed,20.5,57.2,Clear,56,197,6,None,71.6,270,1
+17-09-2024 06:02,Truck_7,118,In Transit,24.3,61.8,Clear,56,258,10,None,66.8,189,0
+05-02-2024 08:38,Truck_4,480,Delayed,20.7,75.4,Clear,32,263,3,None,73.3,198,1
+28-09-2024 09:08,Truck_9,222,In Transit,23.3,64.2,Detour,30,459,9,Traffic,73.8,253,0
+18-01-2024 08:27,Truck_9,245,Delivered,26.4,77.2,Clear,14,183,2,None,69.6,206,0
+09-11-2024 00:48,Truck_2,389,In Transit,21.9,57.3,Clear,52,127,7,Mechanical Failure,63.1,224,0
+09-01-2024 23:19,Truck_9,319,Delayed,22,53.5,Clear,28,360,4,None,69.8,171,1
+02-02-2024 22:28,Truck_10,234,Delivered,29.7,63.6,Detour,13,406,10,Traffic,85.5,238,0
+17-02-2024 21:14,Truck_8,154,In Transit,21.5,74.2,Detour,38,215,3,Weather,84.4,114,0
+04-03-2024 06:44,Truck_2,348,Delivered,27.3,71.6,Detour,30,211,2,None,96.4,115,0
+28-08-2024 12:19,Truck_3,163,In Transit,25.1,76.8,Heavy,54,320,5,Weather,93.2,231,1
+04-01-2024 22:52,Truck_5,130,Delayed,23.7,68.1,Clear,45,487,4,Traffic,84.1,256,1
+30-10-2024 17:52,Truck_4,391,Delayed,21.6,72.5,Clear,58,298,7,Traffic,61.5,170,1
+15-07-2024 15:42,Truck_7,344,Delayed,21.4,53.5,Detour,23,461,9,None,93.4,106,1
+19-01-2024 06:42,Truck_5,409,Delayed,27.5,66.6,Detour,29,492,3,None,72.6,204,1
+28-04-2024 21:23,Truck_10,457,In Transit,25.5,75.9,Clear,21,315,3,Traffic,83.4,248,0
+06-03-2024 20:00,Truck_5,207,Delivered,29.3,59.4,Detour,31,174,5,Mechanical Failure,65.9,195,0
+20-11-2024 16:38,Truck_8,155,Delivered,19.4,53.2,Heavy,20,152,1,Mechanical Failure,99.3,235,1
+07-01-2024 09:13,Truck_6,314,Delivered,19.9,64.8,Detour,57,396,10,Weather,78.6,135,0
+25-09-2024 15:12,Truck_10,156,In Transit,27.2,74.4,Clear,35,354,2,Weather,63.1,282,0
+11-02-2024 13:30,Truck_2,119,In Transit,28.1,72.4,Detour,41,176,2,None,60.9,238,0
+20-11-2024 11:22,Truck_3,112,In Transit,19.7,76.6,Detour,22,121,3,Traffic,80.9,262,0
+25-06-2024 02:26,Truck_3,435,Delivered,25.8,78.6,Heavy,22,220,7,Traffic,90.8,101,1
+25-06-2024 00:01,Truck_9,422,Delivered,20,62.9,Heavy,14,184,9,Traffic,64,248,1
+02-05-2024 02:33,Truck_4,353,In Transit,20.5,52,Heavy,26,392,7,Traffic,76.4,155,1
+10-08-2024 00:04,Truck_8,299,Delayed,23.9,50.1,Heavy,17,315,6,None,88.3,252,1
+13-05-2024 03:20,Truck_1,261,Delayed,22.5,78.4,Clear,41,209,6,Mechanical Failure,71.8,240,1
+02-12-2024 08:32,Truck_8,425,Delayed,19.3,51.1,Heavy,39,235,9,Mechanical Failure,88.3,242,1
+12-02-2024 06:23,Truck_7,369,Delivered,26.3,52.1,Detour,48,104,7,None,66.7,220,0
+24-04-2024 06:17,Truck_10,223,Delayed,24,60.2,Heavy,45,292,6,Weather,78.4,205,1
+06-12-2024 19:05,Truck_2,200,Delivered,28.1,72.1,Detour,28,129,9,None,74.3,134,0
+30-04-2024 11:53,Truck_9,466,In Transit,26.1,72.1,Detour,54,475,9,Mechanical Failure,83.4,222,0
+19-09-2024 22:53,Truck_8,474,In Transit,27.7,71.2,Heavy,50,311,3,Mechanical Failure,91.6,266,1
+22-12-2024 15:08,Truck_6,490,Delivered,23.1,75.2,Heavy,14,460,7,None,87.8,261,1
+15-08-2024 05:45,Truck_5,126,Delivered,29.6,67.6,Detour,19,201,9,Weather,84.1,255,0
+16-03-2024 11:17,Truck_7,164,In Transit,18.2,76.4,Clear,45,466,7,None,98.1,196,0
+28-12-2024 11:40,Truck_2,477,Delayed,19.2,79.4,Clear,12,310,5,Mechanical Failure,63.7,129,1
+04-02-2024 18:55,Truck_5,245,In Transit,24.2,56.9,Detour,39,379,2,Traffic,66.4,183,0
+09-07-2024 02:12,Truck_5,172,Delayed,25.2,67.6,Clear,40,274,7,Weather,66.3,170,1
+01-12-2024 23:54,Truck_7,206,Delayed,20.7,77.5,Clear,15,308,2,Mechanical Failure,63.9,209,1
+22-06-2024 13:26,Truck_6,310,In Transit,18.7,54.7,Clear,52,232,9,Traffic,72.6,113,0
+27-07-2024 15:50,Truck_2,225,Delivered,19,63,Heavy,17,282,6,Weather,99.6,265,1
+05-09-2024 14:12,Truck_3,303,Delayed,20.7,70.6,Clear,47,143,10,None,98.1,123,1
+11-11-2024 22:09,Truck_1,237,Delayed,20.7,78.3,Heavy,35,491,2,None,80.7,189,1
+01-05-2024 22:26,Truck_6,172,Delivered,18.2,79.9,Clear,46,258,3,Mechanical Failure,60.1,154,0
+26-07-2024 20:19,Truck_9,214,In Transit,21.7,77,Heavy,47,187,10,None,97.4,175,1
+09-08-2024 01:16,Truck_3,330,Delayed,24,52.9,Heavy,14,425,1,Mechanical Failure,89.8,289,1
+29-01-2024 21:04,Truck_5,130,Delivered,18.1,78.3,Heavy,39,424,9,Traffic,92.3,143,1
+23-03-2024 12:47,Truck_2,364,Delayed,26.9,67.8,Clear,55,467,7,Weather,95.2,128,1
+17-10-2024 13:22,Truck_8,430,Delayed,26.4,68.4,Heavy,16,277,8,None,71.9,137,1
+11-07-2024 07:07,Truck_8,187,In Transit,18.6,67.7,Clear,12,375,5,None,85.4,140,0
+11-12-2024 16:57,Truck_5,323,Delayed,28.3,61.2,Detour,52,139,4,Weather,72.4,127,1
+10-01-2024 01:05,Truck_9,386,Delivered,26.6,78.2,Detour,19,456,7,Traffic,87.6,290,0
+17-06-2024 07:59,Truck_9,422,Delayed,19.6,53.3,Heavy,40,205,5,Weather,86.1,242,1
+25-06-2024 01:52,Truck_9,433,Delayed,24,77.8,Clear,37,173,9,Weather,89.6,143,1
+17-04-2024 20:13,Truck_9,318,Delivered,26,77.4,Clear,19,314,2,None,70.2,250,0
+09-10-2024 18:26,Truck_9,176,In Transit,22.6,73.3,Heavy,37,154,4,Mechanical Failure,91.4,169,1
+27-11-2024 17:17,Truck_4,125,Delayed,23.4,57.6,Heavy,23,191,2,Traffic,72,241,1
+12-06-2024 02:49,Truck_6,336,In Transit,27.4,58.9,Detour,49,100,10,Weather,70.7,236,0
+02-11-2024 21:19,Truck_7,244,Delivered,21.3,73.8,Heavy,39,229,7,None,98.1,197,1
+29-02-2024 15:12,Truck_4,391,In Transit,20.5,71.2,Detour,12,112,7,None,78.3,267,0
+17-03-2024 23:47,Truck_6,425,Delivered,24.2,54.6,Detour,32,193,3,Weather,69.9,260,0
+25-11-2024 10:39,Truck_5,403,In Transit,26.9,60.6,Clear,50,418,1,Traffic,67.8,182,0
+04-07-2024 18:22,Truck_4,438,Delayed,26.5,69.3,Heavy,34,378,5,Weather,88.7,256,1
+19-03-2024 05:23,Truck_1,339,In Transit,26.8,64.5,Detour,24,235,6,Traffic,69.3,212,0
+20-03-2024 01:25,Truck_9,203,In Transit,18,68.9,Heavy,19,370,3,Traffic,74.4,254,1
+18-07-2024 11:16,Truck_4,313,Delivered,23.6,65.2,Clear,49,137,6,None,100,122,0
+10-08-2024 08:40,Truck_2,261,Delivered,27.1,67.3,Detour,35,496,2,Weather,71.3,264,0
+20-02-2024 08:11,Truck_8,179,In Transit,28.5,51,Detour,12,354,3,Weather,92.8,225,0
+18-12-2024 02:23,Truck_6,442,In Transit,18.3,50.3,Clear,56,469,2,None,96.3,192,0
+20-08-2024 16:18,Truck_5,291,Delivered,28.5,54.6,Heavy,14,316,7,None,77.5,288,1
+06-11-2024 07:40,Truck_5,348,Delivered,28.2,68.3,Clear,22,415,4,Traffic,67.4,204,0
+14-12-2024 15:09,Truck_6,454,In Transit,23.7,51.9,Clear,51,232,7,Weather,78.7,172,0
+15-01-2024 12:01,Truck_1,486,Delivered,29.1,78.4,Clear,21,158,7,None,62.6,243,0
+18-05-2024 10:00,Truck_10,483,In Transit,29.2,65,Heavy,57,167,8,Mechanical Failure,96.8,245,1
+17-11-2024 02:02,Truck_4,472,Delivered,23.5,72,Clear,59,485,3,Weather,67.2,248,0
+22-08-2024 20:11,Truck_5,186,In Transit,18.9,70.5,Clear,38,344,1,Traffic,95.6,252,0
+12-09-2024 08:00,Truck_6,366,In Transit,22.8,66.7,Clear,39,219,7,Traffic,91,211,0
+09-08-2024 21:54,Truck_5,359,Delivered,23,71.7,Detour,50,486,10,Traffic,64,169,0
+19-04-2024 02:50,Truck_7,422,Delayed,26.5,75,Heavy,39,100,6,None,67.2,127,1
+30-09-2024 11:18,Truck_6,209,In Transit,24.9,76.8,Clear,51,214,2,Mechanical Failure,86.5,156,0
+22-03-2024 16:43,Truck_5,324,Delayed,20.7,77.5,Heavy,39,387,1,None,69.1,138,1
+15-10-2024 04:02,Truck_7,199,In Transit,27.4,57.1,Heavy,28,383,6,None,61.9,105,1
+18-12-2024 19:01,Truck_5,213,Delayed,27.7,58.1,Clear,41,267,7,Mechanical Failure,60.9,254,1
+09-06-2024 17:12,Truck_4,257,Delayed,23.1,59.1,Clear,56,451,3,Weather,93.8,248,1
+30-10-2024 02:01,Truck_5,475,In Transit,22.2,79.4,Detour,25,268,3,Weather,60.3,151,0
+23-06-2024 03:05,Truck_7,377,In Transit,22.7,75.5,Clear,59,445,7,None,99.1,272,0
+19-08-2024 17:13,Truck_2,456,Delayed,26.4,51.4,Heavy,23,100,1,Weather,94.2,105,1
+30-04-2024 12:39,Truck_1,106,Delayed,18.3,65.9,Heavy,53,244,2,Traffic,99.5,125,1
+15-12-2024 03:53,Truck_10,234,Delayed,29.1,65.3,Clear,19,432,3,Weather,92.7,214,1
+21-03-2024 14:56,Truck_8,390,Delayed,19.5,79.2,Heavy,26,366,4,Mechanical Failure,69.4,217,1
+27-09-2024 18:08,Truck_4,203,Delivered,20.4,78.3,Detour,21,187,5,None,87.9,262,0
+17-11-2024 08:35,Truck_6,297,Delayed,23.1,59.4,Detour,29,268,10,Traffic,71.2,151,1
+03-05-2024 03:34,Truck_9,238,In Transit,25,75.8,Heavy,26,330,9,Weather,99.2,165,1
+05-03-2024 00:54,Truck_4,126,Delivered,28.2,54.5,Detour,35,320,4,Mechanical Failure,93.7,136,0
+14-01-2024 09:22,Truck_2,455,Delivered,22.9,79.6,Detour,51,410,9,Weather,84.9,233,0
+17-02-2024 21:06,Truck_4,220,Delayed,29.4,52.4,Clear,18,468,9,Mechanical Failure,63.1,137,1
+06-07-2024 11:17,Truck_5,403,In Transit,22.5,62.5,Clear,38,225,3,Weather,81.4,169,0
+10-05-2024 22:14,Truck_10,448,Delayed,23.4,59.9,Detour,41,120,10,Weather,70.8,150,1
+23-12-2024 18:56,Truck_5,168,In Transit,22.4,57.9,Heavy,43,377,4,Mechanical Failure,71.1,140,1
+06-02-2024 08:28,Truck_7,409,Delivered,18,53.5,Heavy,47,153,9,None,74.1,117,1
+16-09-2024 10:08,Truck_2,469,In Transit,20.7,70.4,Clear,31,335,7,Traffic,86.1,298,0
+26-01-2024 12:56,Truck_5,305,In Transit,20.5,71.2,Detour,44,302,10,Weather,71.9,141,0
+29-11-2024 06:34,Truck_5,219,Delayed,26.6,79.8,Heavy,46,245,1,None,70.5,202,1
+02-06-2024 19:16,Truck_8,167,Delayed,23.8,71.6,Clear,55,416,8,Traffic,60.7,263,1
+08-02-2024 10:07,Truck_4,100,Delayed,24.1,50.9,Detour,39,340,4,None,96.9,274,1
+17-08-2024 07:05,Truck_9,321,In Transit,25.4,53.8,Clear,24,340,5,Traffic,84.6,223,0
+27-01-2024 04:09,Truck_7,244,Delivered,23.6,64.9,Clear,24,145,4,Mechanical Failure,67.6,285,0
+13-12-2024 00:55,Truck_9,281,Delivered,18.4,74.6,Detour,41,419,6,None,69.1,242,0
+26-10-2024 21:55,Truck_7,301,Delivered,18.3,60,Detour,42,243,3,Mechanical Failure,99,273,0
+19-03-2024 05:42,Truck_8,437,In Transit,25.5,73.2,Clear,59,310,2,None,83.9,228,0
+23-10-2024 14:15,Truck_7,253,In Transit,22.8,78.7,Clear,49,180,3,Weather,74,296,0
+18-01-2024 08:34,Truck_2,491,Delivered,25.5,50.3,Heavy,18,111,1,Weather,97.1,100,1
+15-11-2024 11:42,Truck_3,172,Delayed,22.8,60.4,Detour,38,187,9,Weather,83.3,106,1
+01-07-2024 16:37,Truck_7,252,Delayed,24.4,72.3,Detour,54,156,6,Mechanical Failure,86.8,225,1
+11-06-2024 08:04,Truck_4,118,Delayed,21.8,52.1,Clear,19,421,8,Mechanical Failure,99.1,284,1
+03-07-2024 15:08,Truck_4,179,Delayed,25,71.1,Detour,60,325,1,Weather,66.8,226,1
+05-02-2024 00:41,Truck_6,119,Delivered,25.9,77.7,Clear,38,189,7,Weather,79.3,149,0
+12-03-2024 03:54,Truck_5,221,Delayed,22.8,76.1,Detour,35,233,4,None,61.5,281,1
+17-11-2024 06:38,Truck_7,261,Delayed,24.5,74.2,Detour,36,201,10,Mechanical Failure,67,226,1
+30-07-2024 10:23,Truck_5,226,Delivered,25.4,73.7,Detour,46,138,8,Traffic,75.5,298,0
+07-12-2024 16:11,Truck_10,226,In Transit,21.1,56.1,Heavy,50,160,5,None,77.3,174,1
+15-03-2024 17:54,Truck_7,415,In Transit,25.3,54.4,Heavy,53,345,2,Mechanical Failure,87.4,181,1
+15-10-2024 06:49,Truck_3,422,Delivered,29.7,68.3,Heavy,45,246,1,Weather,85.6,136,1
+27-08-2024 06:52,Truck_8,413,Delayed,23.4,67.1,Heavy,32,325,3,Mechanical Failure,93.3,109,1
+02-08-2024 02:01,Truck_1,269,In Transit,25.2,57.7,Detour,20,247,2,Weather,60.9,177,0
+27-11-2024 18:48,Truck_4,489,Delivered,25.7,50.1,Heavy,51,204,1,Weather,65.1,184,1
+03-12-2024 05:26,Truck_6,426,In Transit,28.8,56.2,Clear,30,145,3,Traffic,81.2,220,0
+05-02-2024 03:19,Truck_5,457,Delivered,27.9,78.6,Heavy,18,461,6,Weather,69.1,137,1
+19-12-2024 22:58,Truck_1,270,Delivered,21.7,53.6,Clear,15,499,8,Mechanical Failure,94.9,111,0
+23-11-2024 08:44,Truck_7,267,In Transit,29.8,79.8,Heavy,55,282,5,None,90.5,173,1
+30-04-2024 14:49,Truck_5,381,Delivered,24.4,50.1,Heavy,54,243,6,None,61.5,278,1
+07-06-2024 06:45,Truck_3,402,Delivered,27,74.2,Heavy,17,155,10,Traffic,73.4,281,1
+24-11-2024 04:49,Truck_4,331,Delivered,20.4,66.1,Heavy,25,261,6,Mechanical Failure,77.7,264,1
+29-07-2024 00:56,Truck_5,167,Delivered,25.6,62.5,Detour,40,246,9,Traffic,63.8,126,0
+01-06-2024 20:00,Truck_4,187,Delayed,23.3,71.7,Heavy,10,209,10,Traffic,97.2,151,1
+18-07-2024 12:19,Truck_10,298,In Transit,18.6,74.4,Detour,41,248,1,None,86.3,283,0
+16-12-2024 11:48,Truck_6,331,Delayed,21.4,62.9,Detour,46,235,8,Mechanical Failure,62.6,298,1
+15-04-2024 22:37,Truck_2,180,Delivered,27.2,52.9,Clear,29,390,8,Mechanical Failure,68.4,110,0
+05-04-2024 10:29,Truck_10,282,In Transit,19.4,71.9,Clear,43,464,10,Traffic,90,107,0
+20-12-2024 12:26,Truck_4,363,Delayed,27,70.9,Detour,52,482,6,Weather,62.9,248,1
+02-07-2024 03:07,Truck_3,212,Delivered,25.9,68,Heavy,32,312,6,Mechanical Failure,87.6,296,1
+28-01-2024 04:43,Truck_1,317,In Transit,23.9,69.5,Clear,59,447,1,Weather,97.1,294,0
+14-01-2024 20:39,Truck_2,240,Delivered,18.8,63.9,Detour,23,462,1,None,61.2,276,0
+06-08-2024 11:35,Truck_10,427,Delayed,20.3,57.3,Heavy,18,341,3,Weather,85.7,189,1
+08-12-2024 01:10,Truck_10,144,Delayed,18.2,53.1,Clear,16,106,5,Weather,69.4,214,1
+27-02-2024 01:51,Truck_8,280,In Transit,25.5,74.2,Clear,46,447,2,Traffic,65.3,236,0
+14-02-2024 21:28,Truck_2,182,Delayed,20.3,59.8,Detour,30,288,7,None,83.3,107,1
+21-03-2024 11:48,Truck_3,439,Delayed,21.5,72.8,Heavy,30,101,10,Mechanical Failure,90.4,114,1
+16-10-2024 22:56,Truck_2,174,Delayed,27.2,77.9,Heavy,39,173,5,Mechanical Failure,91.1,262,1
+21-02-2024 23:20,Truck_6,186,Delayed,24,67.3,Detour,44,352,9,None,85.7,262,1
+24-09-2024 22:17,Truck_10,109,Delivered,26.9,75.3,Detour,26,314,7,None,93.3,176,0
+30-03-2024 10:22,Truck_4,483,In Transit,21.9,71.9,Detour,59,226,10,Mechanical Failure,69.2,152,0
+15-12-2024 07:37,Truck_2,100,Delayed,27.5,68.6,Clear,49,464,3,None,61.7,149,1
+26-03-2024 22:29,Truck_1,128,Delivered,28.9,63.7,Clear,56,140,1,Weather,72.8,127,0
+09-05-2024 18:49,Truck_10,100,In Transit,21.9,72.1,Detour,22,413,1,Weather,67.5,145,0
+19-11-2024 09:57,Truck_6,468,Delayed,28.6,65.1,Heavy,45,419,8,None,76.1,119,1
+26-11-2024 17:09,Truck_8,243,In Transit,27.7,74.8,Detour,28,311,9,None,97.5,272,0
+20-04-2024 09:54,Truck_2,134,Delayed,29.2,55.5,Detour,34,189,1,Weather,87.8,270,1
+05-06-2024 19:19,Truck_3,484,Delivered,29.1,54.7,Detour,48,320,7,Weather,84.6,118,0
+08-07-2024 04:26,Truck_6,300,Delivered,22.4,54.3,Heavy,23,323,5,Weather,65.5,230,1
+01-04-2024 03:56,Truck_10,396,Delivered,21.9,67.4,Detour,24,238,3,Weather,60.4,117,0
+11-02-2024 04:52,Truck_4,135,Delivered,26.8,79.1,Detour,57,173,7,Mechanical Failure,81.3,115,0
+23-08-2024 00:05,Truck_8,236,Delivered,21.9,51.9,Detour,21,233,6,Mechanical Failure,72,115,0
+04-11-2024 00:29,Truck_1,294,Delivered,27.6,79.7,Heavy,24,181,5,Weather,88.2,191,1
+04-05-2024 19:24,Truck_4,209,Delayed,29.4,57.8,Detour,34,319,4,Mechanical Failure,85,208,1
+13-11-2024 04:19,Truck_4,378,Delayed,28.2,70.2,Clear,60,490,9,Traffic,66.8,166,1
+13-02-2024 19:17,Truck_1,355,Delayed,22.5,74,Clear,20,321,3,Weather,90.6,252,1
+28-06-2024 07:17,Truck_9,474,Delayed,29.2,66.1,Heavy,26,318,5,Weather,96.2,110,1
+15-12-2024 22:06,Truck_6,218,Delivered,19.5,67.9,Detour,27,257,10,Mechanical Failure,62.2,150,0
+30-06-2024 14:22,Truck_2,357,In Transit,29.3,73.2,Clear,22,229,7,Mechanical Failure,94.3,131,0
+05-12-2024 16:36,Truck_5,255,Delayed,27.4,59.6,Clear,20,497,3,Traffic,98.4,277,1
+13-06-2024 13:04,Truck_2,415,Delayed,22.2,65.8,Heavy,18,287,2,Traffic,61.1,256,1
+17-03-2024 08:20,Truck_9,353,Delivered,29.5,76.8,Heavy,41,421,8,None,97.7,212,1
+21-09-2024 03:09,Truck_8,260,In Transit,23.8,58.4,Clear,49,266,7,Mechanical Failure,77.8,131,0
+20-02-2024 20:52,Truck_4,447,Delivered,21.1,75.6,Heavy,51,315,1,Mechanical Failure,64.7,186,1
+19-11-2024 18:03,Truck_5,483,Delayed,26.6,50,Clear,51,466,6,Mechanical Failure,87.9,272,1
+07-11-2024 16:16,Truck_10,363,Delivered,28.6,75.2,Heavy,19,358,1,Weather,77.4,272,1
+18-02-2024 14:10,Truck_8,313,Delayed,20.5,79.3,Detour,49,229,7,None,98.5,126,1
+03-03-2024 00:53,Truck_10,289,Delivered,19.3,68.6,Clear,33,149,4,None,74.3,220,0
+02-06-2024 09:09,Truck_4,171,Delivered,21.3,66.1,Clear,57,125,8,None,98.9,249,0
+25-01-2024 12:09,Truck_6,401,In Transit,25.7,71.4,Clear,30,494,4,Weather,81.1,175,0
+04-10-2024 16:19,Truck_9,376,Delivered,25.1,54.1,Clear,55,305,5,Mechanical Failure,83.2,158,0
+02-11-2024 12:07,Truck_3,371,Delayed,26.2,58.5,Heavy,46,168,10,Traffic,69.5,162,1
+22-04-2024 01:56,Truck_4,496,In Transit,23.4,71.6,Clear,15,451,3,Weather,76.3,235,0
+15-04-2024 22:28,Truck_2,149,In Transit,20.9,68.1,Detour,39,274,9,Traffic,71.8,138,0
+19-01-2024 14:28,Truck_6,166,In Transit,29.4,59.5,Heavy,40,210,4,Traffic,82.9,246,1
+22-09-2024 12:19,Truck_9,369,Delayed,28,52.3,Detour,35,481,5,Mechanical Failure,73.4,179,1
+01-11-2024 23:47,Truck_5,409,In Transit,22,68.1,Clear,18,423,10,Weather,62.8,282,0
+13-05-2024 14:10,Truck_8,494,Delayed,19.2,58.4,Clear,52,231,10,Weather,89.5,201,1
+17-02-2024 07:36,Truck_6,238,Delayed,23.8,79.4,Detour,33,416,5,Weather,88.2,102,1
+23-11-2024 19:33,Truck_8,422,In Transit,19.2,54.5,Clear,18,437,3,None,73.5,103,0
+23-09-2024 10:32,Truck_9,132,In Transit,28.2,57.2,Clear,23,401,6,None,93.6,154,0
+25-08-2024 22:32,Truck_1,189,Delayed,25.2,70,Clear,10,360,6,Mechanical Failure,81.9,191,1
+27-09-2024 06:23,Truck_1,255,Delivered,28.5,72.2,Clear,60,419,2,Traffic,68.4,246,0
+09-05-2024 04:02,Truck_7,107,Delayed,21.9,74.1,Heavy,51,413,1,Weather,84.9,257,1
+27-05-2024 10:59,Truck_6,274,Delayed,19.3,51.4,Heavy,57,279,10,None,75.3,127,1
+23-02-2024 18:39,Truck_4,206,Delayed,21.9,68.6,Heavy,42,100,7,Traffic,63.3,116,1
+28-07-2024 22:29,Truck_5,270,In Transit,26.7,72.2,Heavy,35,107,10,Traffic,90.8,158,1
+05-03-2024 10:30,Truck_10,277,In Transit,23.7,72.1,Clear,12,195,5,Traffic,64.5,130,0
+06-01-2024 21:16,Truck_4,454,Delayed,21,77.3,Clear,15,112,10,Weather,73.2,237,1
+14-09-2024 16:45,Truck_2,197,In Transit,27.3,71.3,Detour,24,460,9,None,64.7,162,0
+03-11-2024 23:16,Truck_5,182,Delivered,19.7,72.3,Clear,50,428,3,None,63.3,280,0
+19-03-2024 21:36,Truck_6,171,Delivered,25.1,76.5,Heavy,55,309,3,Traffic,94.6,112,1
+01-02-2024 18:55,Truck_3,159,Delivered,26.9,69.5,Clear,32,272,7,None,69.7,278,0
+18-04-2024 12:04,Truck_8,378,Delayed,29.5,61.7,Detour,13,305,8,Mechanical Failure,98.5,211,1
+26-05-2024 14:30,Truck_1,469,In Transit,26.2,65,Clear,19,477,2,Mechanical Failure,96.9,206,0
+29-07-2024 16:54,Truck_8,106,In Transit,27,56.8,Detour,31,120,4,Weather,95.7,286,0
+09-12-2024 13:41,Truck_3,486,In Transit,21.7,76,Clear,42,282,9,Mechanical Failure,80.5,139,0
+14-09-2024 09:03,Truck_2,248,In Transit,26.3,53.7,Detour,40,146,10,Weather,71.7,246,0
+01-12-2024 01:52,Truck_3,157,In Transit,25.4,79.1,Detour,17,311,9,Weather,69.9,233,0
+19-08-2024 17:09,Truck_6,235,In Transit,23.2,54.6,Clear,28,467,9,Mechanical Failure,68.2,206,0
+15-04-2024 18:58,Truck_7,170,Delayed,25.4,55.8,Heavy,55,463,10,Weather,60.1,112,1
+12-04-2024 10:58,Truck_6,342,Delivered,25.1,52.4,Clear,24,103,2,Mechanical Failure,88,209,0
+23-02-2024 09:29,Truck_3,290,In Transit,20.5,51.4,Clear,22,170,4,Mechanical Failure,74.7,147,0
+27-02-2024 05:17,Truck_1,260,Delayed,22.8,71.7,Heavy,44,393,5,Mechanical Failure,94.1,154,1
+26-07-2024 19:10,Truck_5,378,Delayed,18.9,55.5,Heavy,35,367,4,Weather,74.4,229,1
+29-06-2024 05:20,Truck_2,177,Delayed,19.2,70.1,Clear,57,141,4,Weather,86.6,249,1
+15-04-2024 04:40,Truck_2,310,In Transit,22.8,64.4,Heavy,33,104,2,Mechanical Failure,98.9,110,1
+24-07-2024 04:09,Truck_3,132,Delivered,27.5,57.2,Heavy,36,481,5,Traffic,65.2,140,1
+19-07-2024 01:06,Truck_8,331,Delayed,25.6,77.8,Heavy,26,213,9,Traffic,90.7,269,1
+23-04-2024 16:50,Truck_1,294,Delivered,24.4,65.2,Detour,23,439,8,Traffic,65,213,0
+18-06-2024 12:57,Truck_6,277,Delivered,29.3,50.7,Heavy,24,242,2,Mechanical Failure,93.4,271,1
+17-12-2024 04:11,Truck_5,329,Delayed,29.7,77.9,Heavy,33,232,5,Weather,91.9,124,1
+17-11-2024 04:41,Truck_8,204,Delivered,18.7,68.5,Heavy,27,473,2,Traffic,76.9,217,1
+20-06-2024 11:18,Truck_1,410,Delivered,28.9,60.3,Clear,32,436,1,None,77.2,272,0
+29-06-2024 11:16,Truck_7,417,Delayed,26.9,70.8,Clear,44,103,7,Mechanical Failure,94.7,181,1
+05-07-2024 09:14,Truck_6,324,Delivered,20.7,72.4,Clear,12,173,7,None,95.1,243,0
+19-07-2024 20:10,Truck_8,218,Delayed,23.8,52.3,Detour,52,389,2,Traffic,79.5,231,1
+27-08-2024 22:26,Truck_5,137,Delayed,23.6,51.7,Detour,24,124,6,Traffic,70.6,279,1
+17-06-2024 02:43,Truck_4,414,Delayed,18.3,76.4,Detour,42,332,10,Traffic,66.3,249,1
+21-05-2024 02:30,Truck_1,216,In Transit,26.9,67.2,Detour,35,181,10,Weather,86.2,185,0
+08-05-2024 02:13,Truck_8,170,Delayed,26.4,51.6,Detour,47,278,3,None,96.4,105,1
+02-05-2024 09:49,Truck_2,154,Delivered,28.6,66.8,Clear,18,384,9,Weather,60.4,263,0
+25-01-2024 20:15,Truck_2,213,Delivered,25,72.7,Detour,51,353,8,None,82.6,227,0
+07-01-2024 12:49,Truck_4,276,Delivered,24.9,77,Detour,60,467,4,Weather,84.6,292,0
+08-03-2024 10:09,Truck_10,382,In Transit,22,77.8,Clear,47,448,5,Weather,81.4,246,0
+22-12-2024 15:01,Truck_8,383,In Transit,19.1,69,Detour,16,238,3,Weather,90.7,290,0
+21-01-2024 13:17,Truck_1,334,Delayed,26.6,74.1,Detour,10,317,3,Traffic,73,184,1
+25-06-2024 02:35,Truck_9,421,Delayed,26.3,68.8,Heavy,53,128,6,None,76.6,100,1
+27-05-2024 05:13,Truck_2,329,Delivered,25,51.2,Detour,53,233,5,Mechanical Failure,67.2,188,0
+27-01-2024 01:05,Truck_10,284,In Transit,22.1,77.2,Heavy,16,226,4,None,95.8,206,1
+21-01-2024 03:11,Truck_2,184,Delayed,19.2,59.8,Heavy,23,126,4,Mechanical Failure,90.4,200,1
+03-08-2024 13:26,Truck_5,403,Delivered,20.6,66.1,Clear,15,461,4,None,77.1,263,0
+05-06-2024 18:09,Truck_6,100,In Transit,22.3,72.3,Detour,43,256,5,None,92.8,101,0
+27-10-2024 12:09,Truck_3,135,Delayed,18.9,55.5,Heavy,57,162,9,None,75.3,127,1
+22-10-2024 14:28,Truck_1,220,In Transit,25,79,Heavy,51,481,2,Weather,64.3,268,1
+03-09-2024 09:41,Truck_8,318,In Transit,29.8,51.4,Clear,24,216,3,Weather,83.8,221,0
+03-01-2024 11:20,Truck_7,237,Delivered,29.2,56.2,Detour,15,251,3,Weather,76.3,198,0
+11-06-2024 23:38,Truck_2,459,In Transit,27.2,78.5,Heavy,22,323,7,None,87.3,271,1
+04-01-2024 23:32,Truck_6,332,In Transit,21.7,58.9,Heavy,33,363,6,Weather,90.1,131,1
+02-08-2024 06:58,Truck_8,133,In Transit,28.7,69.5,Detour,57,342,6,Traffic,99.9,261,0
+29-08-2024 02:07,Truck_8,499,Delayed,18.3,75.1,Clear,22,251,1,Mechanical Failure,79.2,139,1
+22-02-2024 18:02,Truck_10,350,Delivered,25.3,71.2,Detour,19,177,1,None,67,209,0
+21-06-2024 20:31,Truck_7,186,Delayed,24.1,72,Detour,26,131,4,None,68.2,189,1
+27-01-2024 15:36,Truck_8,403,Delivered,23.1,69.3,Detour,24,487,10,Mechanical Failure,69.6,104,0
+17-06-2024 12:40,Truck_6,193,Delayed,22.1,68.2,Heavy,29,231,3,Weather,69.7,198,1
+31-03-2024 14:30,Truck_2,254,Delivered,24,78.6,Heavy,24,108,3,Weather,66.6,219,1
+23-03-2024 08:10,Truck_9,368,Delivered,26.1,71,Clear,58,336,2,Mechanical Failure,86.5,259,0
+02-10-2024 15:12,Truck_6,283,Delayed,28.5,50.7,Detour,11,495,10,Weather,88.1,200,1
+28-07-2024 18:36,Truck_10,164,Delivered,25.5,67.6,Heavy,20,188,7,Mechanical Failure,60.1,268,1
+11-01-2024 15:19,Truck_5,419,Delivered,22.1,74.7,Detour,31,236,10,Traffic,95.9,182,0
+28-12-2024 18:53,Truck_9,489,Delivered,25,69.4,Clear,30,345,8,None,66.1,128,0
+07-09-2024 12:50,Truck_2,498,Delayed,20.2,55,Clear,51,147,8,Weather,97.7,247,1
+09-12-2024 11:15,Truck_10,244,Delayed,21.2,61.8,Detour,24,181,2,Traffic,70.1,238,1
+05-10-2024 18:34,Truck_4,488,Delivered,21.5,50.3,Heavy,32,120,1,Mechanical Failure,79.1,111,1
+22-04-2024 10:55,Truck_9,152,Delayed,21.2,70.3,Clear,10,467,10,None,61.5,269,1
+27-02-2024 21:45,Truck_10,168,Delayed,23.2,71.5,Clear,23,292,3,Traffic,98.8,102,1
+23-05-2024 22:03,Truck_5,268,Delivered,23.9,79.2,Clear,41,295,9,Mechanical Failure,69.5,146,0
+02-01-2024 22:19,Truck_7,341,In Transit,21.3,76.2,Heavy,58,429,3,None,78.6,178,1
+29-09-2024 06:31,Truck_7,166,Delivered,28.9,50.6,Heavy,58,197,3,Traffic,88.8,282,1
+18-12-2024 08:33,Truck_7,483,Delayed,21.4,51.2,Heavy,33,249,2,None,67.6,165,1
+11-08-2024 10:28,Truck_10,232,Delivered,22.3,73.3,Heavy,19,332,4,None,78.6,135,1
+24-03-2024 22:56,Truck_3,392,In Transit,20.7,62.8,Detour,12,417,2,Weather,69.3,109,0
+02-06-2024 00:24,Truck_8,480,In Transit,24.9,77.8,Heavy,53,318,3,Mechanical Failure,69.5,181,1
+02-02-2024 03:46,Truck_3,368,Delivered,28,53.4,Detour,42,182,5,None,77.5,205,0
+02-10-2024 12:56,Truck_6,373,In Transit,25,62.4,Clear,20,125,1,Mechanical Failure,91.2,160,0
+25-09-2024 12:20,Truck_2,154,Delivered,22,53.3,Heavy,50,208,4,None,85,231,1
+24-02-2024 08:11,Truck_3,184,Delivered,19.2,55.3,Heavy,14,450,3,None,86.7,247,1
+28-10-2024 10:00,Truck_9,204,Delivered,21.4,61.5,Clear,51,490,5,Mechanical Failure,68,288,0
+31-05-2024 23:20,Truck_2,227,Delivered,26.1,65.7,Detour,47,247,8,Traffic,77.8,135,0
+22-01-2024 00:34,Truck_5,405,In Transit,28,67.7,Clear,48,348,3,Mechanical Failure,78.3,213,0
+19-12-2024 11:06,Truck_7,392,Delivered,27.4,69,Detour,31,347,9,Weather,98,133,0
+05-01-2024 22:46,Truck_3,429,In Transit,27.7,75,Heavy,12,446,4,None,65.7,203,1
+26-06-2024 08:09,Truck_7,488,Delivered,25.2,63.9,Heavy,19,219,4,Weather,100,184,1
+31-07-2024 02:07,Truck_6,444,Delayed,29.8,67.5,Clear,41,125,5,Weather,63.3,152,1
+27-11-2024 04:21,Truck_1,420,Delayed,18.4,68.5,Heavy,50,340,10,Weather,76.8,212,1
+06-06-2024 04:02,Truck_1,391,In Transit,25.5,73.7,Detour,31,472,10,Weather,77.2,109,0
+16-05-2024 20:34,Truck_9,212,Delivered,20.6,50.5,Clear,41,498,5,Mechanical Failure,94.1,162,0
+14-07-2024 21:14,Truck_4,157,Delivered,20.9,77.1,Clear,26,499,4,Traffic,91.4,214,0
+22-11-2024 11:31,Truck_8,399,Delivered,26.3,79.4,Detour,25,476,4,Mechanical Failure,95.6,256,0
+01-11-2024 21:31,Truck_2,103,Delivered,27.9,53.1,Detour,52,386,1,None,97.7,141,0
+27-10-2024 15:39,Truck_9,333,Delayed,22.1,65,Detour,22,243,5,Mechanical Failure,83.2,176,1
+14-02-2024 12:20,Truck_6,234,Delivered,27.3,70.1,Detour,45,416,8,None,86.9,165,0
+02-05-2024 11:14,Truck_9,146,Delayed,29,55.5,Detour,52,414,10,Mechanical Failure,82.3,228,1
+02-09-2024 05:03,Truck_7,109,Delayed,20.7,60.9,Heavy,39,147,9,Traffic,75,116,1
+08-12-2024 04:35,Truck_8,357,Delayed,24.6,73.5,Clear,48,266,10,Traffic,74.4,226,1
+23-01-2024 05:35,Truck_9,356,Delivered,19.5,63.1,Clear,16,118,3,None,77.8,230,0
+25-01-2024 11:27,Truck_2,349,Delivered,19.4,62.7,Detour,19,296,3,None,72.3,177,0
+08-11-2024 13:31,Truck_1,159,Delivered,27.1,77.5,Heavy,33,429,9,None,77.9,200,1
+30-05-2024 01:04,Truck_4,148,Delivered,25,60.7,Clear,43,196,4,Mechanical Failure,64.6,240,0
+30-05-2024 11:30,Truck_3,354,Delivered,26.9,65.5,Heavy,14,245,4,None,73.4,151,1
+02-03-2024 23:49,Truck_8,214,Delivered,21.5,69.1,Heavy,49,417,10,Traffic,76.7,249,1
+29-08-2024 11:52,Truck_8,307,Delayed,21,52.8,Clear,21,475,4,None,82.8,107,1
+26-05-2024 01:53,Truck_1,385,In Transit,24.3,59.4,Clear,37,239,3,None,88.3,148,0
+24-07-2024 01:20,Truck_8,490,Delayed,24,56.1,Heavy,29,463,6,Mechanical Failure,81.1,134,1
+24-12-2024 10:20,Truck_4,133,Delayed,19.4,76,Detour,36,182,3,None,70.5,249,1
+11-02-2024 14:40,Truck_2,472,Delivered,24.9,63.2,Detour,36,485,9,None,78.9,271,0
+24-04-2024 00:54,Truck_7,338,In Transit,28.9,55.5,Detour,39,181,2,Mechanical Failure,88.6,143,0
+08-01-2024 10:20,Truck_2,172,Delivered,25.5,55.7,Detour,25,259,1,Traffic,65.2,255,0
+25-10-2024 03:01,Truck_2,187,Delayed,24.8,52,Detour,31,231,5,Weather,91.6,234,1
+12-12-2024 15:03,Truck_8,439,In Transit,23.5,55.1,Detour,47,454,3,Weather,75.5,196,0
+30-11-2024 09:16,Truck_7,159,In Transit,18.1,76,Detour,18,202,2,Weather,94.4,197,0
+13-05-2024 09:05,Truck_7,362,Delivered,18.3,57.6,Heavy,58,437,8,Mechanical Failure,66.8,123,1
+16-12-2024 06:06,Truck_4,163,Delivered,24.6,53.2,Detour,34,473,9,Traffic,72.4,263,0
+14-02-2024 07:54,Truck_7,258,Delayed,19.9,51.9,Heavy,54,237,10,None,92.7,271,1
+25-06-2024 12:15,Truck_9,319,Delayed,18,63.6,Detour,23,473,7,Weather,83,187,1
+14-08-2024 03:59,Truck_9,247,Delivered,28.9,60.7,Clear,56,115,10,Mechanical Failure,61.6,270,0
+08-04-2024 19:43,Truck_8,134,In Transit,19.9,67.5,Detour,42,421,5,Mechanical Failure,77.6,183,0
+07-11-2024 14:21,Truck_4,175,In Transit,20.9,58.7,Detour,35,274,9,Mechanical Failure,61.1,240,0
+12-01-2024 17:01,Truck_9,179,Delayed,24.2,50.2,Clear,31,485,10,None,75.8,255,1
+30-05-2024 08:29,Truck_10,105,Delayed,27.1,59.8,Clear,36,409,7,Traffic,75.7,290,1
+16-05-2024 07:34,Truck_2,277,In Transit,23.5,63.9,Heavy,11,292,8,Weather,67.5,234,1
+08-12-2024 12:26,Truck_5,427,Delayed,26.7,63.8,Detour,54,453,6,Weather,86.7,101,1
+28-03-2024 08:34,Truck_3,348,Delayed,22.7,63.3,Detour,23,134,4,Mechanical Failure,99.6,251,1
+16-04-2024 21:31,Truck_3,300,Delayed,23.1,78.1,Detour,53,146,4,Weather,73.3,280,1
+20-11-2024 14:44,Truck_1,457,Delivered,27.2,69.1,Heavy,55,319,2,Traffic,67.7,132,1
+20-06-2024 08:17,Truck_1,316,Delayed,26.8,53.5,Clear,35,402,10,Mechanical Failure,93.6,206,1
+11-08-2024 15:40,Truck_9,207,In Transit,19.2,59.7,Detour,56,484,7,Traffic,72.6,285,0
+30-10-2024 12:44,Truck_10,333,Delivered,27.5,55.8,Heavy,36,141,2,Traffic,67,264,1
+22-03-2024 11:00,Truck_10,327,Delayed,22.6,57.4,Detour,38,432,4,Traffic,68.4,171,1
+12-05-2024 13:40,Truck_3,197,In Transit,20,69.6,Detour,42,314,3,Traffic,87.2,201,0
+15-11-2024 08:08,Truck_7,356,Delayed,23.4,72.8,Detour,39,486,9,Mechanical Failure,99.2,282,1
+07-10-2024 06:11,Truck_9,359,Delayed,29.2,54.5,Detour,50,268,1,None,67.4,249,1
+09-09-2024 03:30,Truck_3,377,Delivered,18.1,55,Detour,59,476,6,Weather,70.2,268,0
+21-08-2024 20:07,Truck_6,228,Delayed,24.2,59.2,Heavy,26,321,5,Traffic,96.3,132,1
+17-01-2024 03:33,Truck_10,399,Delivered,23.4,71.7,Heavy,12,239,1,None,67.6,156,1
+02-12-2024 12:07,Truck_3,157,In Transit,29.8,54,Clear,33,151,10,Weather,81.2,192,0
+18-11-2024 07:52,Truck_10,327,In Transit,21.2,52.6,Clear,48,209,8,Mechanical Failure,98.6,104,0
+29-04-2024 11:54,Truck_2,215,Delayed,21.7,73.4,Detour,17,146,9,None,70.4,296,1
+29-05-2024 06:49,Truck_9,213,Delayed,20.2,63.7,Clear,16,248,10,None,68.8,136,1
+10-11-2024 05:49,Truck_7,226,In Transit,21.4,58,Detour,47,348,7,Mechanical Failure,85.7,136,0
+03-11-2024 20:21,Truck_1,334,Delivered,24.2,76.2,Clear,24,402,7,Traffic,71.5,105,0
+04-09-2024 10:45,Truck_2,319,In Transit,25.5,51.7,Detour,32,350,2,None,69.7,254,0
+25-09-2024 21:53,Truck_8,411,In Transit,20.5,77.4,Heavy,51,211,5,Mechanical Failure,76.9,244,1
+24-07-2024 06:30,Truck_6,208,Delayed,28.8,64.9,Clear,40,437,6,Weather,64.6,185,1
+02-04-2024 13:43,Truck_5,328,Delivered,22.8,73.6,Clear,12,349,9,Mechanical Failure,93.3,162,0
+04-03-2024 06:43,Truck_3,219,Delayed,22.9,56.6,Heavy,49,372,6,Mechanical Failure,64.4,300,1
+10-12-2024 12:39,Truck_8,438,In Transit,25.7,71.2,Detour,21,445,5,Weather,90.4,154,0
+05-01-2024 03:23,Truck_9,145,In Transit,23.3,70.3,Detour,44,421,2,None,93.9,286,0
+18-01-2024 17:13,Truck_1,299,Delivered,22.4,64.2,Clear,54,303,1,Traffic,88.1,125,0
+10-05-2024 06:01,Truck_5,356,Delivered,18.9,71.7,Clear,25,368,1,Traffic,66.1,228,0
+26-10-2024 05:59,Truck_3,137,Delivered,22.8,50.6,Detour,24,465,6,Weather,61.3,226,0
+21-04-2024 16:13,Truck_8,231,Delivered,24.3,57.8,Clear,56,368,7,Weather,87.2,203,0
+14-09-2024 01:51,Truck_2,336,Delivered,19.7,66.7,Clear,54,163,7,Mechanical Failure,71.4,122,0
+12-05-2024 17:51,Truck_9,290,In Transit,27.6,71.8,Heavy,50,460,7,Mechanical Failure,95.9,118,1
+03-09-2024 09:06,Truck_1,427,Delayed,23.2,70.1,Heavy,17,320,4,Weather,73,162,1
+06-05-2024 09:16,Truck_9,439,Delivered,26.4,71.3,Clear,41,491,7,Traffic,67.4,273,0
+09-01-2024 08:52,Truck_7,461,Delivered,18.6,74.6,Heavy,23,185,4,Traffic,77.8,215,1
+06-09-2024 03:02,Truck_9,414,Delivered,29,70.6,Heavy,25,291,4,Traffic,92.9,154,1
+05-08-2024 16:44,Truck_6,498,Delayed,23.8,55.9,Detour,16,381,7,None,67.2,131,1
+16-08-2024 10:45,Truck_4,334,Delivered,22.5,57.1,Clear,43,381,6,None,73.8,157,0
+12-07-2024 02:46,Truck_2,144,Delayed,23,70.3,Heavy,54,152,1,Mechanical Failure,84.3,242,1
+24-01-2024 08:44,Truck_3,231,Delivered,28.2,67.2,Clear,50,221,1,None,84.8,270,0
+13-01-2024 21:47,Truck_5,324,Delayed,25.5,65.2,Clear,51,233,9,Traffic,90.2,145,1
+16-04-2024 08:03,Truck_6,246,Delivered,19.4,56.3,Clear,16,406,9,Weather,65.7,140,0
+12-02-2024 03:22,Truck_2,283,Delayed,27.7,52.4,Heavy,16,280,8,Traffic,96,297,1
+08-05-2024 03:54,Truck_10,453,Delayed,21.8,66.4,Clear,48,305,2,Mechanical Failure,68.9,212,1
+07-12-2024 12:50,Truck_10,392,Delivered,30,72.1,Detour,52,329,4,Traffic,66.6,174,0
+26-11-2024 00:36,Truck_6,343,In Transit,25.2,72.6,Clear,21,400,9,Weather,87.7,300,0
+07-05-2024 08:15,Truck_4,144,Delayed,25.8,65.6,Detour,23,362,10,Traffic,88.9,199,1
+05-11-2024 21:58,Truck_9,151,Delayed,22.1,59.7,Clear,58,338,1,Traffic,81.5,248,1
+28-02-2024 11:48,Truck_7,389,In Transit,27.2,59.8,Heavy,20,129,8,Traffic,80.8,164,1
+16-04-2024 23:04,Truck_2,355,Delayed,19.2,62.2,Clear,10,137,2,Traffic,67,269,1
+28-11-2024 00:36,Truck_10,493,Delayed,20.7,70.9,Clear,52,478,1,Traffic,62.5,103,1
+09-02-2024 06:40,Truck_9,181,Delivered,22.9,70.3,Detour,49,441,7,None,94.7,168,0
+14-05-2024 13:25,Truck_6,342,In Transit,22.6,55.5,Detour,35,119,3,None,73.9,199,0
+28-08-2024 13:33,Truck_9,376,Delayed,20.5,55.5,Clear,34,315,9,None,70.7,297,1
+21-02-2024 02:51,Truck_4,464,In Transit,20.8,50.1,Heavy,16,441,7,None,91.1,240,1
+25-10-2024 05:54,Truck_3,452,In Transit,26.7,64.1,Clear,36,152,1,None,90.1,231,0
+18-07-2024 23:30,Truck_9,228,Delivered,28.7,65,Heavy,26,271,3,Traffic,66,290,1
+28-02-2024 23:27,Truck_10,288,Delivered,27.1,69.4,Heavy,37,144,2,None,63.6,126,1
+13-07-2024 15:41,Truck_10,133,Delayed,18.6,79.4,Clear,14,314,10,Mechanical Failure,98.8,109,1
+21-06-2024 04:12,Truck_6,117,In Transit,29.7,63.7,Clear,17,159,8,None,77,106,0
+29-09-2024 17:58,Truck_2,428,Delayed,28.4,74.2,Clear,54,492,1,None,86.2,286,1
+05-06-2024 07:32,Truck_8,381,Delivered,18,53,Clear,25,398,9,Weather,94.6,100,0
+19-12-2024 21:28,Truck_9,166,Delayed,22.5,53.8,Clear,57,442,6,Weather,72.1,284,1
+23-04-2024 18:51,Truck_2,225,In Transit,26.1,75.8,Heavy,41,286,3,Mechanical Failure,72.9,224,1
+17-02-2024 20:09,Truck_2,364,Delayed,18.8,68.2,Detour,41,373,1,Weather,88.7,215,1
+21-07-2024 06:13,Truck_7,318,In Transit,25.3,74.6,Clear,32,486,9,Weather,68.1,277,0
+03-04-2024 05:24,Truck_2,417,In Transit,20,61,Heavy,54,300,4,Traffic,74.5,156,1
+22-10-2024 10:43,Truck_7,180,Delayed,18.5,52.1,Clear,10,182,5,Mechanical Failure,99,279,1
+28-04-2024 12:38,Truck_8,134,Delayed,24.1,68.2,Heavy,35,187,6,Mechanical Failure,99.9,102,1
+28-09-2024 12:11,Truck_8,237,In Transit,28.1,75.5,Detour,18,349,2,Weather,90.5,189,0
+09-09-2024 11:51,Truck_5,259,Delayed,26.6,53,Clear,28,118,4,Traffic,60.2,249,1
+02-10-2024 21:49,Truck_3,463,In Transit,19.8,54.5,Heavy,12,408,8,Traffic,71.2,229,1
+05-05-2024 05:42,Truck_10,290,Delivered,23.7,53.5,Detour,44,237,5,Mechanical Failure,85.8,270,0
+21-05-2024 02:33,Truck_8,345,Delayed,21.3,53.6,Clear,35,388,4,Weather,83.5,159,1
+15-03-2024 22:19,Truck_6,165,Delayed,25.6,61.7,Detour,50,149,10,Traffic,62.6,252,1
+07-02-2024 19:45,Truck_3,259,In Transit,27,79.7,Heavy,15,167,9,Traffic,88.6,147,1
+11-05-2024 05:18,Truck_7,330,Delivered,26.9,62.9,Detour,47,382,6,Weather,90.3,115,0
+31-01-2024 05:31,Truck_5,467,Delivered,19.3,62.1,Detour,39,180,8,Mechanical Failure,63.8,145,0
+01-11-2024 01:28,Truck_3,329,In Transit,26.7,56.2,Detour,16,261,9,Traffic,90.7,104,0
+03-03-2024 04:17,Truck_9,122,Delivered,22.9,64,Heavy,24,409,5,Mechanical Failure,99.7,184,1
+09-03-2024 00:10,Truck_3,146,In Transit,24.2,69.1,Clear,58,301,2,None,82,238,0
+17-04-2024 17:28,Truck_10,419,Delivered,26.1,62,Heavy,19,484,8,None,96.4,262,1
+21-09-2024 10:33,Truck_7,143,In Transit,20.1,57,Detour,41,143,9,None,62.1,106,0
+11-02-2024 10:31,Truck_10,445,Delivered,19.8,54.1,Clear,39,375,2,Weather,88.3,247,0
+15-06-2024 11:59,Truck_5,450,Delayed,18.7,56.4,Detour,12,140,8,Mechanical Failure,61.9,160,1
+09-08-2024 03:00,Truck_2,451,Delivered,22.5,51.6,Detour,28,421,6,None,68.8,107,0
+22-07-2024 00:56,Truck_4,425,Delayed,22.4,65.9,Clear,30,452,10,Traffic,91.4,163,1
+17-08-2024 07:37,Truck_8,235,Delivered,25.8,62.6,Heavy,51,171,6,Mechanical Failure,87.5,207,1
+11-12-2024 23:47,Truck_7,181,In Transit,29.7,51.8,Clear,38,388,10,None,92.4,292,0
+12-09-2024 00:06,Truck_3,370,Delivered,23.5,74.4,Heavy,60,105,1,None,99.5,128,1
+08-07-2024 14:07,Truck_3,102,Delayed,25.6,76,Heavy,50,444,9,Traffic,88.3,105,1
+06-03-2024 13:14,Truck_3,200,Delivered,18.5,77.7,Detour,24,158,4,None,82.5,234,0
+30-10-2024 04:55,Truck_6,292,In Transit,23.2,68.1,Heavy,41,440,10,Mechanical Failure,88.9,160,1
+07-10-2024 10:54,Truck_5,401,In Transit,28.2,51,Clear,51,327,3,None,85.6,138,0
+06-06-2024 22:52,Truck_3,305,Delayed,27.4,50.8,Clear,34,474,1,Mechanical Failure,82,226,1
+20-04-2024 00:14,Truck_3,441,In Transit,25,75.4,Heavy,58,149,10,Traffic,61.3,247,1
+02-08-2024 00:10,Truck_2,130,Delayed,18.7,67.2,Clear,47,367,1,Traffic,81.7,131,1
+03-10-2024 02:54,Truck_6,265,In Transit,23.4,56.1,Detour,34,406,6,Mechanical Failure,95,133,0
+23-09-2024 22:37,Truck_1,426,Delivered,26.3,77.7,Detour,58,373,6,Traffic,93,125,0
+17-02-2024 16:11,Truck_6,432,In Transit,28,65.2,Heavy,35,499,8,Weather,97.4,110,1
+23-11-2024 04:40,Truck_2,406,Delayed,20.9,76.4,Detour,57,160,9,None,73.3,120,1
+11-01-2024 20:19,Truck_10,410,In Transit,24.5,62.4,Clear,40,172,5,None,86.2,225,0
+28-10-2024 02:17,Truck_5,155,In Transit,22.6,77.1,Detour,13,196,7,None,83.2,168,0
+26-12-2024 05:05,Truck_3,397,Delivered,23.7,73.5,Detour,31,266,1,Mechanical Failure,92.8,265,0
+28-03-2024 10:24,Truck_5,305,Delivered,28,67.8,Detour,13,455,2,Weather,80.8,147,0
+16-04-2024 02:44,Truck_2,343,Delayed,26.2,62.4,Detour,18,166,7,Weather,62.3,168,1
+08-12-2024 06:15,Truck_6,342,In Transit,27.6,71.9,Detour,24,216,2,Traffic,67.5,225,0
+05-09-2024 17:43,Truck_3,347,In Transit,29.1,80,Heavy,25,256,3,Mechanical Failure,69.6,274,1
+02-02-2024 22:24,Truck_3,403,Delivered,29.5,76.6,Heavy,36,379,2,Mechanical Failure,66.7,242,1
+30-04-2024 18:44,Truck_9,482,Delayed,18.1,76.1,Heavy,54,203,10,Traffic,74.1,112,1
+01-05-2024 03:13,Truck_3,130,Delivered,21.6,60.9,Clear,48,479,8,Traffic,83.3,173,0
+10-01-2024 20:02,Truck_1,465,Delayed,24,72.4,Heavy,48,112,8,None,97.1,212,1
+21-10-2024 11:15,Truck_2,322,Delayed,26.1,71.9,Detour,45,339,8,Weather,97.6,145,1
+25-11-2024 02:58,Truck_1,126,Delivered,20.3,51.2,Detour,53,486,7,Mechanical Failure,97.5,129,0
+20-12-2024 08:01,Truck_3,142,In Transit,22.7,66.1,Detour,59,343,6,Mechanical Failure,86.7,256,0
+29-06-2024 19:07,Truck_9,444,Delivered,21.6,53.2,Detour,16,113,2,Traffic,96.1,181,0
+13-12-2024 18:57,Truck_2,100,Delivered,22.4,71.6,Detour,22,389,4,Traffic,73.4,159,0
+20-11-2024 05:25,Truck_3,227,In Transit,22.6,58.5,Detour,24,477,10,Weather,89,139,0
+29-06-2024 09:51,Truck_3,416,Delivered,20.7,69.1,Detour,32,139,6,Mechanical Failure,91.7,221,0
+22-12-2024 23:33,Truck_3,499,Delayed,25.8,64,Detour,46,295,6,Traffic,87.6,160,1
+23-06-2024 22:08,Truck_6,328,Delivered,29.8,53.5,Clear,54,144,6,Weather,78,158,0
+29-03-2024 05:14,Truck_1,324,Delivered,28.2,56.8,Heavy,10,249,7,None,76.7,298,1
+03-04-2024 14:11,Truck_5,401,In Transit,26.3,59.4,Heavy,30,268,7,None,67.6,225,1
+15-12-2024 14:02,Truck_1,182,Delayed,22.9,54.4,Detour,50,135,3,None,98.4,268,1
+06-08-2024 13:23,Truck_6,264,Delivered,29.5,67.3,Heavy,32,314,8,Traffic,65.9,202,1
+14-03-2024 02:35,Truck_8,293,Delivered,23.8,62.8,Detour,19,135,1,Mechanical Failure,98.8,291,0
+27-08-2024 00:34,Truck_10,343,In Transit,29.5,59.8,Detour,35,294,8,None,73.7,256,0
+24-04-2024 20:50,Truck_4,103,In Transit,24.8,79.3,Heavy,22,393,9,Weather,88.6,108,1
+09-09-2024 21:41,Truck_9,295,Delivered,23.6,72.8,Detour,18,327,5,None,92.1,283,0
+20-06-2024 13:57,Truck_10,300,Delivered,27.4,52.8,Detour,35,431,10,None,81.2,120,0
+02-06-2024 10:54,Truck_7,108,Delivered,27.9,65.6,Heavy,46,138,4,Traffic,82.7,173,1
+09-07-2024 23:21,Truck_8,153,Delayed,27.5,69.9,Detour,24,118,7,Weather,62.5,237,1
+03-07-2024 09:52,Truck_8,336,In Transit,22.5,51.6,Detour,11,446,6,None,70.2,275,0
+09-12-2024 20:35,Truck_9,211,Delayed,21.7,52.3,Detour,11,401,9,None,66.2,241,1
+14-03-2024 00:55,Truck_4,144,Delivered,21.1,58.8,Clear,35,443,10,Mechanical Failure,89,141,0
+28-05-2024 06:29,Truck_10,224,Delayed,21.7,78.5,Clear,20,428,7,None,72.4,287,1
+22-11-2024 23:49,Truck_9,185,In Transit,19.9,66.3,Detour,59,264,4,None,65.2,177,0
+21-04-2024 03:47,Truck_4,220,In Transit,28.2,55.4,Clear,10,203,8,Weather,81.1,281,0
+15-03-2024 07:02,Truck_5,236,In Transit,18.3,69,Clear,34,303,2,Mechanical Failure,62.6,270,0
+22-03-2024 14:12,Truck_10,159,Delayed,29.7,69.6,Clear,49,227,1,None,62,232,1
+18-09-2024 16:35,Truck_6,433,Delayed,26.4,69.3,Detour,25,127,8,None,84.5,125,1
+20-11-2024 19:12,Truck_7,109,In Transit,25.1,76.5,Heavy,16,356,5,None,64.9,127,1
+08-04-2024 18:13,Truck_6,453,In Transit,25.8,78.6,Detour,21,142,10,Mechanical Failure,85.7,180,0
+13-01-2024 16:35,Truck_9,169,In Transit,28.6,78.8,Heavy,27,482,4,Traffic,80.5,122,1
+11-11-2024 04:35,Truck_7,105,Delayed,23.6,54.4,Detour,18,364,10,Traffic,76,158,1
+04-10-2024 16:05,Truck_9,256,Delivered,29.6,73.7,Heavy,20,309,8,Weather,83.4,142,1
+12-05-2024 21:29,Truck_8,309,Delivered,22.8,52.8,Clear,19,101,2,Mechanical Failure,85.5,242,0
+23-12-2024 04:59,Truck_9,346,Delivered,26.9,70.6,Detour,44,192,9,Traffic,76.2,239,0
+15-06-2024 00:46,Truck_4,302,Delayed,24.6,60.6,Heavy,30,431,3,None,76,127,1
+18-07-2024 17:29,Truck_4,181,In Transit,24.7,63.4,Heavy,25,107,8,None,71.3,265,1
+10-02-2024 08:40,Truck_9,282,Delayed,21.8,63.6,Clear,43,370,7,Traffic,69.4,251,1
+09-09-2024 10:46,Truck_10,398,Delivered,26.5,64.8,Heavy,44,387,1,None,90.6,122,1
+19-04-2024 08:18,Truck_1,210,In Transit,24.7,65,Heavy,50,185,10,Mechanical Failure,84.1,140,1
+05-08-2024 18:45,Truck_9,188,Delayed,22.4,78,Heavy,40,372,6,Weather,98,237,1
+14-06-2024 18:40,Truck_3,298,Delayed,19.6,76.1,Heavy,22,396,7,None,65,230,1
+18-10-2024 23:50,Truck_10,298,Delayed,24,63.5,Detour,25,456,2,None,78.9,147,1
+28-04-2024 01:31,Truck_3,326,Delayed,20,56.6,Detour,17,260,6,Weather,67.5,162,1
+11-11-2024 08:44,Truck_6,354,Delayed,18.4,77.5,Heavy,40,262,7,Traffic,68.5,282,1
+13-09-2024 10:52,Truck_4,269,In Transit,22.4,63.6,Detour,54,481,7,Traffic,82.5,183,0
+14-06-2024 17:14,Truck_4,475,Delivered,29.3,62.8,Clear,29,359,9,Mechanical Failure,95.1,122,0
+02-01-2024 15:30,Truck_4,372,Delayed,20.4,57.2,Clear,29,153,1,Weather,78.2,221,1
+06-10-2024 04:58,Truck_5,201,In Transit,26,51.5,Clear,40,429,4,Weather,87,107,0
+04-06-2024 16:47,Truck_7,441,In Transit,25.3,72.9,Clear,47,152,4,Weather,67.4,256,0
+02-02-2024 12:17,Truck_6,246,Delayed,25.3,57.4,Clear,33,298,8,Traffic,70.4,110,1
+22-06-2024 07:42,Truck_10,180,Delayed,25.4,50.4,Heavy,32,246,2,Mechanical Failure,65.4,203,1
+01-03-2024 14:48,Truck_9,127,Delayed,21,54.6,Detour,13,452,9,Mechanical Failure,79,299,1
+19-08-2024 01:36,Truck_3,246,Delayed,20.8,79.2,Heavy,55,325,2,None,80.5,271,1
+17-11-2024 02:22,Truck_2,470,Delivered,21.5,51,Heavy,59,293,7,Mechanical Failure,86.6,113,1
+29-07-2024 00:17,Truck_8,386,Delayed,25.9,71.6,Clear,36,193,10,Weather,72,299,1
+17-05-2024 21:00,Truck_8,325,In Transit,26.2,64.3,Clear,31,491,7,Mechanical Failure,60.7,290,0
+11-03-2024 20:09,Truck_1,432,In Transit,25.9,65.8,Clear,42,265,8,None,86.8,140,0
+18-07-2024 05:42,Truck_7,273,Delayed,20.2,72.2,Clear,19,115,5,None,68.8,238,1
+13-11-2024 11:31,Truck_4,492,Delivered,21.6,78.3,Clear,58,122,9,None,61.2,202,0
+01-01-2024 11:37,Truck_4,303,In Transit,24.6,68.6,Detour,50,213,6,Mechanical Failure,97.1,297,0
+07-10-2024 18:21,Truck_6,270,In Transit,28.1,73.6,Clear,57,283,2,Mechanical Failure,92.3,122,0
+16-07-2024 16:39,Truck_4,382,Delivered,21.6,50.5,Detour,31,160,8,Weather,94.8,261,0
+13-04-2024 17:33,Truck_4,197,Delivered,23.3,53.5,Heavy,41,259,9,Weather,91.3,211,1
+11-08-2024 02:18,Truck_9,368,In Transit,25,60.7,Clear,37,382,5,Weather,82.8,225,0
+19-01-2024 00:15,Truck_7,223,In Transit,19.5,55.6,Clear,23,154,4,Weather,62.9,217,0
+26-12-2024 03:50,Truck_7,340,Delayed,25.9,75.3,Detour,18,424,7,Weather,67.3,287,1
+10-01-2024 12:44,Truck_10,355,Delivered,20.2,51.3,Clear,49,323,4,Mechanical Failure,72.6,100,0
+23-10-2024 13:13,Truck_2,158,In Transit,26.6,63.8,Heavy,51,199,4,None,84.8,114,1
+31-07-2024 19:53,Truck_10,126,Delayed,25.1,58,Detour,47,291,7,Traffic,92.3,123,1
+05-08-2024 22:26,Truck_8,309,In Transit,20.6,77.3,Clear,60,177,5,Weather,69.2,271,0
+14-02-2024 00:45,Truck_10,171,Delayed,22.6,69.9,Detour,26,104,2,Weather,88.1,132,1
+14-12-2024 00:45,Truck_6,403,In Transit,29.6,63,Clear,12,197,4,None,83.8,228,0
+16-07-2024 08:12,Truck_6,181,Delivered,25.9,69.1,Heavy,44,264,9,Mechanical Failure,69.9,223,1
+08-12-2024 09:52,Truck_7,472,Delayed,23,68,Heavy,34,365,3,Traffic,87.8,294,1
+08-05-2024 01:51,Truck_8,171,Delivered,25.5,51.1,Detour,43,114,1,Weather,92.5,149,0
+20-07-2024 13:33,Truck_6,204,Delayed,19.2,58,Heavy,50,465,8,Weather,85.2,133,1
+24-10-2024 14:59,Truck_4,254,In Transit,26.7,51.3,Detour,11,378,8,None,90.6,208,0
+23-11-2024 10:56,Truck_4,100,Delayed,21,71.2,Clear,19,315,9,Weather,82.2,100,1
+18-04-2024 08:51,Truck_1,211,Delivered,23.7,66.7,Heavy,36,149,1,Mechanical Failure,60.7,256,1
+11-08-2024 04:43,Truck_9,145,Delayed,18.2,62.2,Heavy,56,430,5,Traffic,86.7,260,1
+09-10-2024 13:29,Truck_6,244,Delivered,21.3,79.4,Heavy,22,312,9,None,63.5,171,1
+21-12-2024 15:26,Truck_1,104,Delivered,29.4,59.1,Detour,58,229,3,Weather,82.9,283,0
+21-01-2024 23:13,Truck_5,356,In Transit,18.4,75.2,Clear,32,291,6,None,90.7,206,0
+28-03-2024 07:50,Truck_4,114,In Transit,26.8,62.1,Heavy,55,334,6,None,85.2,202,1
+02-12-2024 10:52,Truck_6,404,Delivered,19,76.2,Heavy,54,230,4,None,83.7,171,1
+30-12-2024 20:21,Truck_5,500,Delivered,21.7,56.2,Detour,20,381,10,Mechanical Failure,90.7,222,0
+12-09-2024 11:42,Truck_5,375,Delayed,23,76.3,Detour,49,131,4,None,87.8,137,1
+24-10-2024 23:03,Truck_8,361,In Transit,22.3,66.8,Heavy,60,157,4,Traffic,79.8,247,1
+07-03-2024 21:52,Truck_3,239,Delayed,26.6,51.6,Detour,33,333,2,Traffic,95.1,277,1
+03-01-2024 13:08,Truck_10,191,In Transit,24,59.7,Clear,51,268,8,None,97,111,0
+08-12-2024 00:24,Truck_2,171,Delayed,21.3,58.7,Detour,10,292,4,Traffic,65,184,1
+13-09-2024 08:58,Truck_5,113,Delayed,28.9,56.3,Heavy,22,417,6,Weather,60.8,142,1
+31-07-2024 22:16,Truck_4,298,In Transit,18.8,79.5,Detour,51,393,4,Traffic,74.6,110,0
+25-11-2024 22:59,Truck_8,184,Delivered,26,59.6,Heavy,34,235,6,Mechanical Failure,66.7,299,1
+30-05-2024 15:40,Truck_4,298,Delivered,18.9,65.9,Detour,41,269,2,None,64.8,234,0
+05-03-2024 20:59,Truck_3,439,Delayed,25.1,66.1,Clear,46,151,4,None,79.2,209,1
+20-08-2024 15:30,Truck_3,142,Delayed,28,67.2,Heavy,49,458,8,Traffic,92.5,224,1
+19-09-2024 12:19,Truck_6,202,Delivered,18.5,69.5,Heavy,54,261,3,None,62.5,213,1
+02-03-2024 15:37,Truck_3,418,Delayed,29.6,67.4,Heavy,54,199,9,Traffic,99.9,215,1
+24-02-2024 23:02,Truck_4,458,Delayed,23.3,58.6,Heavy,43,372,10,Mechanical Failure,92.9,262,1
+05-03-2024 11:20,Truck_8,313,In Transit,18.7,74.7,Heavy,16,284,3,Mechanical Failure,69,105,1
+04-03-2024 23:34,Truck_9,457,Delayed,18.2,62.6,Detour,18,217,9,None,97.8,199,1
+30-06-2024 04:33,Truck_2,298,Delivered,27.8,76.9,Heavy,18,414,5,None,72.2,164,1
+02-12-2024 10:19,Truck_4,106,Delayed,23.7,74.7,Heavy,14,442,4,Mechanical Failure,83.6,276,1
+14-08-2024 11:03,Truck_6,293,Delivered,28.5,59.3,Clear,50,168,4,Weather,67.2,199,0
+13-09-2024 03:11,Truck_9,301,Delayed,19.2,57.6,Heavy,16,256,6,None,65.4,148,1
+29-12-2024 18:21,Truck_1,287,In Transit,25.2,51.8,Detour,34,399,2,Mechanical Failure,85,124,0
+19-11-2024 13:53,Truck_5,237,In Transit,23.4,53.3,Detour,38,109,2,Mechanical Failure,87.9,157,0
+27-05-2024 07:26,Truck_1,258,In Transit,25.2,67.6,Clear,32,484,7,Traffic,98.8,191,0
+19-11-2024 20:03,Truck_3,480,In Transit,27.1,76.3,Heavy,22,497,9,Traffic,74.9,183,1
+18-09-2024 23:04,Truck_8,441,In Transit,22.6,53.3,Clear,29,343,3,Mechanical Failure,86.5,172,0
+16-12-2024 02:17,Truck_6,346,In Transit,21.6,65.2,Clear,43,402,8,Traffic,96.4,157,0
+29-09-2024 19:01,Truck_2,205,In Transit,23.6,76.2,Heavy,41,324,2,None,73.8,153,1
+29-03-2024 01:23,Truck_2,477,Delayed,25.1,50.3,Detour,32,297,7,Traffic,96.4,212,1
+26-07-2024 10:09,Truck_9,355,Delayed,19.8,60.9,Clear,24,226,9,Weather,62.8,243,1
+19-12-2024 10:36,Truck_4,148,Delivered,23.3,59.1,Detour,53,161,10,Weather,65.7,189,0
+14-06-2024 10:30,Truck_6,190,Delayed,27.8,62.2,Detour,41,238,2,None,90.2,122,1
+06-01-2024 05:22,Truck_10,356,Delayed,24.8,70,Detour,37,345,3,Traffic,84,245,1
+17-09-2024 17:56,Truck_2,228,Delivered,18.3,52.3,Clear,57,350,3,Traffic,76.5,285,0
+29-12-2024 17:13,Truck_6,437,In Transit,20.9,55.2,Clear,44,336,7,Weather,88.6,118,0
+30-11-2024 16:53,Truck_10,295,Delayed,20.3,68.6,Detour,29,249,6,None,63.2,295,1
+20-10-2024 11:54,Truck_3,365,In Transit,30,60,Clear,18,215,5,Traffic,95.8,201,0
+08-06-2024 16:49,Truck_10,117,Delayed,23.9,64.3,Clear,16,175,8,Mechanical Failure,73.9,270,1
+11-09-2024 09:02,Truck_6,202,Delayed,25.9,62.3,Heavy,11,249,4,None,98,131,1
+08-11-2024 14:19,Truck_10,408,Delayed,29.9,58.9,Heavy,25,390,8,None,61.5,117,1
+15-06-2024 14:24,Truck_2,277,In Transit,18.2,75.1,Clear,60,122,10,None,65,147,0
+16-05-2024 01:51,Truck_10,430,Delayed,25,53.4,Detour,30,251,4,Mechanical Failure,77.6,119,1
+26-03-2024 14:40,Truck_7,451,Delayed,21.3,67.2,Detour,24,187,8,None,69.3,221,1
+05-04-2024 15:36,Truck_8,421,Delivered,26,78.1,Heavy,29,379,5,Traffic,81,118,1
+13-11-2024 03:59,Truck_9,175,In Transit,29.6,66,Clear,34,467,9,Weather,98.3,220,0
+13-06-2024 01:08,Truck_2,357,In Transit,27.4,55.5,Detour,43,207,2,Weather,60.5,111,0
+21-01-2024 09:04,Truck_9,419,Delivered,26.5,56.2,Detour,15,277,2,Weather,68.3,280,0
+05-10-2024 14:23,Truck_7,455,Delivered,19.8,67.6,Clear,22,301,3,Traffic,68.2,254,0
+21-04-2024 07:25,Truck_2,438,Delayed,24.3,78.8,Detour,33,322,7,Weather,79,206,1
+24-04-2024 22:27,Truck_6,497,In Transit,28.2,68.2,Detour,47,184,6,Traffic,63.8,251,0
+10-02-2024 07:01,Truck_8,410,In Transit,29.8,76.2,Detour,52,152,2,Mechanical Failure,76.6,149,0
+26-09-2024 16:59,Truck_7,306,Delivered,21.5,78.5,Clear,48,317,7,Weather,92.8,231,0
+09-08-2024 14:23,Truck_3,209,Delayed,18.6,69.6,Heavy,50,357,10,Traffic,92.9,125,1
+05-01-2024 21:06,Truck_4,155,Delayed,30,64.5,Detour,33,342,6,Weather,88.2,179,1
+30-11-2024 06:40,Truck_3,318,Delayed,25.8,79.5,Detour,11,161,10,None,90,191,1
+11-09-2024 08:19,Truck_9,422,Delivered,23.8,62.4,Clear,10,158,4,Traffic,84.7,294,0
+05-10-2024 23:57,Truck_2,450,In Transit,22.8,58.7,Detour,45,421,9,None,90,240,0
+15-10-2024 14:03,Truck_4,221,Delivered,21.6,67.7,Heavy,39,430,6,Traffic,71.9,286,1
+04-07-2024 09:22,Truck_7,271,Delivered,18.7,75.4,Clear,37,210,10,Traffic,72,120,0
+21-08-2024 17:20,Truck_4,402,Delayed,18.7,59.6,Detour,16,454,1,Traffic,62.9,274,1
+03-07-2024 06:32,Truck_1,119,In Transit,24.4,68.2,Heavy,60,125,3,None,81.6,106,1
+20-02-2024 17:37,Truck_6,385,Delivered,26.1,68.3,Clear,38,114,6,Weather,64.6,190,0
+25-05-2024 03:48,Truck_4,443,Delivered,23.6,66.6,Detour,42,333,9,Traffic,93.1,143,0
+28-05-2024 16:24,Truck_4,271,In Transit,23.6,74.2,Clear,30,214,5,Traffic,72.1,132,0
+07-09-2024 10:37,Truck_3,133,Delayed,29.4,51.6,Clear,31,485,3,Weather,90.1,172,1
+20-08-2024 15:07,Truck_4,388,Delayed,23.1,64.8,Detour,23,329,1,Mechanical Failure,89.2,296,1
+11-11-2024 19:15,Truck_1,429,In Transit,20.9,68,Heavy,50,196,10,Mechanical Failure,72.9,123,1
+27-05-2024 08:38,Truck_6,145,Delivered,18.8,62.6,Detour,14,408,9,Weather,81.3,138,0
+05-04-2024 18:56,Truck_1,135,Delivered,20.1,53.8,Detour,21,108,10,Traffic,92,243,0
+23-07-2024 15:08,Truck_5,442,Delayed,22.2,65.4,Detour,33,492,5,Weather,86.4,145,1
+04-03-2024 09:24,Truck_10,342,Delivered,27.2,55.1,Heavy,22,326,2,None,64.4,300,1
+03-01-2024 12:49,Truck_10,308,Delayed,25.2,52.5,Heavy,19,475,8,Mechanical Failure,95,206,1
+05-04-2024 20:20,Truck_7,358,Delayed,21.6,61.7,Clear,23,127,6,None,85.7,199,1
+08-05-2024 10:09,Truck_6,128,Delayed,23,69.7,Clear,30,462,8,None,76.7,105,1
+07-07-2024 19:49,Truck_2,426,Delayed,24.2,75.7,Clear,51,303,10,Mechanical Failure,94.1,160,1
+26-11-2024 22:45,Truck_6,349,Delivered,21.1,54.1,Detour,47,290,5,None,70.4,233,0
+04-01-2024 03:12,Truck_4,173,In Transit,23.1,56,Heavy,50,440,3,Mechanical Failure,73.4,289,1
+31-07-2024 14:59,Truck_10,184,Delayed,24.5,54.9,Detour,23,159,7,Traffic,60.2,120,1
+23-05-2024 23:23,Truck_5,318,Delayed,25.5,64.3,Heavy,15,215,8,Traffic,69.1,158,1
+04-07-2024 00:05,Truck_3,288,Delivered,24.7,67.4,Detour,37,230,7,Mechanical Failure,65,259,0
+18-08-2024 23:25,Truck_6,317,Delivered,18.5,66,Heavy,36,465,1,Mechanical Failure,68,180,1
+23-10-2024 15:20,Truck_7,122,In Transit,26.7,73.2,Clear,37,128,9,None,81.4,174,0
+02-07-2024 16:40,Truck_4,291,Delivered,24.2,67,Heavy,29,431,9,Traffic,90.1,172,1
+10-01-2024 16:52,Truck_1,199,Delivered,23.4,64.4,Heavy,59,476,10,Traffic,81.3,123,1
+25-10-2024 16:02,Truck_8,488,Delivered,21.9,75.8,Detour,30,147,3,Mechanical Failure,81.6,252,0
+27-02-2024 21:46,Truck_1,445,Delayed,20.6,68.2,Clear,41,418,9,None,93.6,184,1
+06-08-2024 04:29,Truck_2,247,Delayed,19.3,62.9,Clear,55,466,2,Weather,78,183,1
+09-09-2024 18:54,Truck_4,351,In Transit,29.7,52.1,Clear,41,330,8,Weather,94.5,108,0
+21-01-2024 12:56,Truck_1,311,Delayed,28.9,77.8,Heavy,43,415,1,Mechanical Failure,76.4,210,1
+23-10-2024 21:11,Truck_5,495,Delivered,29.5,50.6,Detour,58,179,3,Mechanical Failure,72.3,245,0
+22-03-2024 03:06,Truck_3,237,In Transit,23.6,62.7,Detour,35,323,9,Weather,66.8,267,0
+07-09-2024 01:58,Truck_2,290,Delivered,28.7,72.6,Clear,45,151,8,Traffic,81.7,280,0
+13-02-2024 05:24,Truck_2,111,Delayed,22.7,75.6,Clear,47,207,4,None,60.4,131,1
+30-01-2024 15:36,Truck_2,373,Delayed,27.6,65.8,Heavy,23,396,1,Traffic,79.3,126,1
+06-03-2024 06:10,Truck_10,458,In Transit,25.5,52.1,Detour,32,183,6,Weather,93.5,154,0
+31-10-2024 07:46,Truck_4,354,In Transit,24.7,64.1,Detour,15,298,4,Mechanical Failure,71.9,162,0
+21-06-2024 10:02,Truck_3,165,Delayed,28.8,51.6,Heavy,49,410,8,Mechanical Failure,88.4,291,1
+25-07-2024 17:59,Truck_8,471,Delayed,19.8,55.2,Clear,36,369,6,Mechanical Failure,94.7,183,1
+21-02-2024 22:00,Truck_8,410,Delivered,27.5,58.5,Detour,21,439,9,Mechanical Failure,72.4,182,0
+22-06-2024 06:59,Truck_8,407,In Transit,19.9,50.7,Heavy,55,421,1,Mechanical Failure,87.2,237,1
+09-02-2024 21:00,Truck_10,134,Delivered,19.5,75.3,Clear,45,424,6,Weather,80.9,175,0
+16-12-2024 00:30,Truck_10,394,Delayed,26.9,62.1,Detour,29,419,10,None,90.7,139,1
+22-03-2024 23:53,Truck_10,480,Delayed,23.9,57.9,Heavy,57,204,6,None,62.3,146,1
+26-07-2024 08:02,Truck_7,159,In Transit,25.6,76.6,Clear,25,213,5,Weather,82.2,144,0
+11-04-2024 04:50,Truck_8,131,Delayed,19.1,73.3,Heavy,10,353,3,Weather,89.4,149,1
+31-05-2024 15:07,Truck_1,224,Delayed,20.2,58.9,Heavy,34,166,6,Mechanical Failure,84.6,105,1
+12-04-2024 15:44,Truck_10,120,Delivered,22.6,56.4,Clear,60,151,9,Weather,69.9,194,0
+14-03-2024 18:05,Truck_4,321,Delayed,30,75.4,Heavy,14,391,1,None,67.3,138,1
+09-08-2024 21:10,Truck_1,238,Delivered,26.6,50.9,Heavy,59,160,1,Mechanical Failure,76.8,233,1
+18-09-2024 10:59,Truck_1,297,In Transit,18.1,77.3,Clear,22,376,10,None,80.2,168,0
+13-03-2024 21:43,Truck_2,219,Delivered,22.3,56.9,Heavy,44,144,8,None,62.2,188,1
+17-08-2024 04:39,Truck_3,204,In Transit,29.8,58.9,Heavy,10,484,3,Weather,93,238,1
+31-01-2024 00:01,Truck_1,469,In Transit,21.5,52.2,Heavy,56,405,10,Weather,95.5,135,1
+27-02-2024 17:30,Truck_9,146,Delayed,24.2,72.4,Clear,22,321,9,Mechanical Failure,88.2,190,1
+22-09-2024 00:34,Truck_3,215,Delivered,18.9,63.4,Heavy,57,382,4,Weather,71.2,274,1
+03-10-2024 07:58,Truck_3,454,In Transit,22.8,73.3,Heavy,45,276,5,Weather,87.4,261,1
+14-08-2024 19:26,Truck_4,145,Delivered,29.2,67.3,Clear,36,230,4,Traffic,85.3,269,0
+24-12-2024 21:30,Truck_10,410,Delivered,18.8,78,Heavy,35,228,2,Mechanical Failure,92.1,111,1
+16-07-2024 21:14,Truck_4,350,Delayed,21.8,60.4,Clear,15,238,3,Weather,81.1,300,1
+01-12-2024 17:38,Truck_1,474,Delayed,29.5,51.1,Detour,34,136,8,None,67.8,268,1
+08-10-2024 12:36,Truck_1,357,Delivered,20.9,50.9,Detour,30,495,1,Weather,65.6,288,0
+27-05-2024 19:21,Truck_1,171,In Transit,28.8,59.3,Clear,56,437,10,None,99.6,235,0
+21-03-2024 22:22,Truck_3,137,Delivered,24,78,Heavy,29,425,7,Weather,69.4,270,1
+04-05-2024 10:52,Truck_3,147,Delivered,24.9,67.6,Heavy,57,157,4,Traffic,62.1,261,1
+11-05-2024 12:13,Truck_5,194,In Transit,22.9,69.7,Clear,11,140,4,Weather,84.7,293,0
+28-12-2024 20:25,Truck_5,291,Delayed,24.1,70.8,Heavy,25,414,8,None,99.4,225,1
+06-04-2024 01:48,Truck_3,176,Delivered,29.5,61.9,Clear,31,306,6,Weather,73.5,217,0
+12-08-2024 10:11,Truck_4,240,In Transit,27.4,72.9,Detour,29,272,8,Mechanical Failure,72.3,106,0
+08-02-2024 10:12,Truck_1,412,Delayed,23.8,71.6,Heavy,54,301,6,Weather,76.8,183,1
+02-10-2024 18:31,Truck_2,359,Delivered,22.6,72.9,Clear,60,142,4,Traffic,78.5,255,0
+25-11-2024 18:46,Truck_8,491,In Transit,20.6,74.7,Detour,16,183,7,Weather,60.3,273,0
+28-03-2024 14:33,Truck_3,130,Delayed,29.9,65,Detour,50,385,10,Traffic,72.6,106,1
+14-12-2024 12:42,Truck_8,336,In Transit,22.1,75.2,Detour,33,443,5,Mechanical Failure,73.2,186,0
+13-03-2024 18:47,Truck_9,330,In Transit,29.5,68.5,Clear,14,358,1,Mechanical Failure,70,283,0
+28-02-2024 00:53,Truck_6,118,In Transit,25.1,59.5,Clear,36,200,1,None,80.6,239,0
+18-10-2024 21:26,Truck_2,147,In Transit,21.6,52,Clear,24,187,7,Traffic,71,173,0
+11-01-2024 03:09,Truck_3,258,Delivered,23.3,71.8,Heavy,20,466,7,Traffic,80.6,277,1
+25-09-2024 09:44,Truck_7,315,Delayed,21.7,54.9,Heavy,51,479,7,Traffic,83.7,293,1
+26-06-2024 20:47,Truck_8,233,Delayed,25.3,52.8,Detour,19,123,7,Weather,92.3,192,1
+24-02-2024 07:23,Truck_4,282,Delivered,18.4,68.8,Heavy,16,281,4,Mechanical Failure,78.8,285,1
+04-02-2024 20:41,Truck_2,117,Delayed,28,73.9,Heavy,55,156,10,Weather,63.7,277,1
+28-02-2024 18:13,Truck_1,242,In Transit,23.7,56,Detour,41,190,5,Traffic,61.8,265,0
+27-04-2024 15:33,Truck_8,497,Delivered,24.1,77.5,Clear,39,319,10,Traffic,60,224,0
+27-10-2024 00:36,Truck_10,384,Delayed,25.6,78.8,Detour,52,161,10,Mechanical Failure,83.6,161,1
+08-01-2024 09:23,Truck_9,258,Delivered,26.8,60.5,Clear,12,413,8,Weather,86.9,207,0
+01-04-2024 18:35,Truck_4,258,Delivered,29.4,66.1,Heavy,54,395,2,Mechanical Failure,71.4,256,1
+05-03-2024 12:35,Truck_7,291,In Transit,26.9,52.3,Heavy,34,253,2,Traffic,94.9,228,1
+22-08-2024 06:38,Truck_9,135,Delayed,29,62.2,Heavy,24,155,3,Mechanical Failure,69.4,196,1
+20-01-2024 14:38,Truck_10,437,Delayed,23.3,61.6,Heavy,45,177,5,Mechanical Failure,93.3,106,1
+06-07-2024 18:05,Truck_9,441,Delayed,23.1,57.1,Clear,55,490,10,Weather,65.1,289,1
+12-05-2024 20:36,Truck_6,268,Delayed,20.3,78.1,Detour,30,102,6,Weather,91.7,132,1
+20-11-2024 15:27,Truck_2,142,Delayed,24,51.6,Clear,40,160,7,None,70,276,1
+14-08-2024 18:56,Truck_9,264,In Transit,25.3,55.2,Clear,51,213,10,Mechanical Failure,85.5,173,0
+02-10-2024 10:12,Truck_3,426,Delayed,25.3,56.8,Clear,15,241,5,Traffic,83.5,224,1
+04-04-2024 17:32,Truck_8,214,Delayed,24.3,56.9,Clear,35,497,6,Weather,70.2,111,1
+08-01-2024 21:16,Truck_5,123,Delivered,19.3,63.4,Detour,35,303,3,None,64.9,240,0
+02-04-2024 22:44,Truck_7,295,In Transit,22.2,64.9,Heavy,19,385,9,Weather,77.1,235,1
+09-04-2024 22:12,Truck_5,378,In Transit,23.3,78.7,Clear,17,364,8,Mechanical Failure,96.1,230,0
+08-07-2024 11:01,Truck_4,209,Delayed,19.3,51,Detour,18,443,2,Mechanical Failure,91.5,213,1
+21-03-2024 10:50,Truck_6,325,Delayed,28.8,55,Clear,56,316,4,Weather,77.8,300,1
+22-11-2024 22:18,Truck_6,362,Delayed,21.7,54.6,Heavy,22,441,3,None,74.6,194,1
+24-04-2024 00:08,Truck_4,451,Delivered,27.5,56.7,Clear,23,446,6,Traffic,62.1,203,0
+05-06-2024 08:51,Truck_9,201,In Transit,27.5,53.1,Clear,10,169,3,None,65.1,242,0
+01-03-2024 10:10,Truck_3,442,Delayed,23.6,58.1,Clear,47,165,1,Traffic,93.3,191,1
+06-07-2024 21:09,Truck_1,274,In Transit,19.3,70.3,Detour,26,404,7,Weather,81,141,0
+28-11-2024 16:05,Truck_5,180,In Transit,24.9,68.9,Clear,14,189,3,Traffic,89.4,275,0
+23-03-2024 21:22,Truck_1,213,Delayed,22.8,65,Detour,51,361,6,None,74.5,274,1
+24-04-2024 05:44,Truck_10,353,In Transit,22,66.8,Heavy,27,327,9,Traffic,71.2,146,1
+11-06-2024 04:47,Truck_8,495,Delivered,20.6,71.5,Heavy,32,166,2,Weather,62.5,282,1
+12-08-2024 00:54,Truck_1,162,Delayed,21.3,76.8,Detour,53,164,3,None,61.6,104,1
+31-05-2024 03:05,Truck_3,252,Delayed,28,66.5,Detour,44,298,6,Traffic,72.8,150,1
+05-04-2024 10:26,Truck_2,361,Delivered,19.5,78.6,Clear,21,358,9,Weather,93,235,0
+12-12-2024 16:21,Truck_6,115,Delivered,29.3,65.1,Heavy,32,445,1,Weather,79.4,123,1
+11-02-2024 08:18,Truck_3,172,Delivered,22.5,69.7,Heavy,55,216,9,Weather,72.1,106,1
+11-10-2024 15:23,Truck_8,403,In Transit,28.2,76.1,Heavy,51,457,7,Traffic,73.9,229,1
+27-06-2024 16:27,Truck_2,426,In Transit,22,73.1,Clear,29,392,5,None,94.6,236,0
+10-09-2024 19:47,Truck_7,368,Delayed,26.6,74.9,Detour,28,341,6,None,97.1,217,1
+02-07-2024 13:06,Truck_9,173,Delayed,24.9,58.1,Clear,34,287,9,Mechanical Failure,96.8,131,1
+31-08-2024 20:18,Truck_9,371,In Transit,22.9,67.2,Heavy,35,121,8,Weather,90.9,213,1
+13-07-2024 00:23,Truck_4,199,Delayed,28.5,68.8,Heavy,18,201,2,Mechanical Failure,71.2,181,1
+09-07-2024 10:12,Truck_4,319,In Transit,22.3,50.8,Clear,52,188,8,Traffic,66.4,153,0
+06-05-2024 23:58,Truck_4,437,In Transit,29.1,76.5,Clear,46,122,10,None,73.6,111,0
+07-01-2024 15:00,Truck_9,203,Delayed,19.2,63.6,Heavy,31,123,9,Mechanical Failure,84.1,270,1
+08-03-2024 18:02,Truck_8,466,In Transit,26.3,70.4,Heavy,53,291,8,Weather,62.1,287,1
+04-03-2024 09:26,Truck_8,418,In Transit,22.9,62,Detour,26,405,1,None,62.3,124,0
+12-10-2024 07:07,Truck_7,124,Delayed,26.7,50.1,Clear,10,460,5,Mechanical Failure,69.4,130,1
+07-08-2024 05:17,Truck_1,322,Delayed,25,57.7,Clear,15,190,4,Traffic,86.8,159,1
+27-03-2024 21:00,Truck_8,351,Delivered,25.1,74.2,Heavy,54,223,9,Traffic,62.2,267,1
+03-10-2024 07:39,Truck_4,350,In Transit,27,66.7,Detour,56,207,2,Mechanical Failure,64,248,0
+24-06-2024 01:25,Truck_7,179,Delivered,20.6,53.6,Heavy,36,480,7,Mechanical Failure,72.1,246,1
+30-01-2024 08:32,Truck_6,338,Delivered,27.3,70.1,Heavy,29,129,1,None,82.4,281,1
+15-01-2024 07:48,Truck_10,334,Delivered,28.9,62.8,Clear,15,106,5,Weather,97.2,127,0
+30-12-2024 08:15,Truck_10,411,In Transit,19,55.4,Clear,14,409,7,None,94.5,192,0
+01-08-2024 21:42,Truck_7,481,Delayed,22.8,74.7,Detour,42,157,1,Weather,65.2,259,1
+17-05-2024 19:53,Truck_2,224,Delayed,26.4,75.4,Detour,23,234,4,Mechanical Failure,86.6,131,1
+04-02-2024 05:26,Truck_8,377,Delayed,19.5,51,Detour,11,226,8,Weather,64.1,266,1
+18-07-2024 13:12,Truck_7,283,Delayed,19.6,75.5,Heavy,49,496,6,Weather,78.9,130,1
+01-01-2024 17:34,Truck_10,174,Delayed,20.2,74.2,Detour,49,403,5,None,83.5,227,1
+08-09-2024 14:29,Truck_4,440,Delivered,20.4,62.4,Clear,35,199,10,None,80.3,269,0
+26-02-2024 03:25,Truck_2,497,Delayed,21.8,71.3,Heavy,22,424,2,Weather,79.8,168,1
+16-04-2024 04:37,Truck_7,337,Delivered,21.1,64.4,Detour,49,226,2,Traffic,89.6,298,0
+11-12-2024 17:39,Truck_10,315,Delivered,21.4,62.6,Heavy,27,482,9,Traffic,77.2,153,1
+16-09-2024 12:46,Truck_7,219,Delivered,18.1,64.6,Clear,24,179,8,Weather,83.3,202,0
+23-01-2024 18:52,Truck_8,247,Delayed,28.3,76.2,Clear,53,190,10,Mechanical Failure,93.6,111,1
+28-03-2024 07:21,Truck_9,148,Delayed,19,50.3,Detour,50,481,2,Mechanical Failure,87.3,243,1
+28-04-2024 03:36,Truck_6,205,In Transit,23.4,61.4,Clear,31,279,2,Traffic,79.1,118,0
+12-04-2024 19:45,Truck_2,243,In Transit,28.9,57.8,Clear,33,277,10,Traffic,84.4,151,0
+30-12-2024 02:31,Truck_8,226,Delayed,21,69.4,Detour,27,406,5,None,99.9,285,1
+31-07-2024 17:11,Truck_2,350,Delivered,23.7,59.8,Detour,42,188,10,None,98.6,248,0
+04-01-2024 19:58,Truck_4,272,Delayed,23.4,57.2,Clear,51,419,6,Mechanical Failure,63.1,159,1
+05-02-2024 00:48,Truck_2,378,In Transit,21,60.8,Heavy,30,318,3,Weather,84.8,181,1
+27-09-2024 17:22,Truck_10,127,Delayed,23.7,51.2,Heavy,38,463,1,Traffic,78.9,272,1
+07-10-2024 14:26,Truck_4,275,In Transit,23,55.7,Clear,39,264,1,Mechanical Failure,64.4,281,0
+09-01-2024 23:18,Truck_7,483,Delayed,28.6,72.4,Clear,51,243,1,Traffic,73.7,167,1
+01-01-2024 18:29,Truck_3,179,Delayed,25.5,70.9,Detour,12,427,9,None,60.3,157,1
+18-12-2024 08:24,Truck_3,325,Delivered,26.4,53.7,Detour,49,495,3,Weather,79.5,145,0
+16-01-2024 09:47,Truck_10,256,Delivered,22.3,66.3,Heavy,10,462,1,Weather,95.5,276,1
+12-09-2024 03:14,Truck_4,405,In Transit,20.5,55.6,Heavy,25,442,4,Traffic,70.5,269,1
+16-11-2024 01:47,Truck_5,428,Delayed,23.5,67.3,Heavy,33,152,8,None,71.3,300,1
+22-05-2024 04:50,Truck_1,247,Delayed,18.3,56.7,Heavy,60,194,6,None,66.8,192,1
+03-06-2024 20:17,Truck_8,276,Delivered,19.6,53.4,Heavy,38,408,2,Traffic,89.2,118,1
+17-03-2024 00:18,Truck_8,410,Delivered,25,72.9,Clear,21,306,2,Traffic,71.2,132,0
+21-07-2024 09:43,Truck_1,449,Delivered,28.8,76.2,Clear,31,234,8,Traffic,91.7,129,0
+05-04-2024 06:44,Truck_6,403,Delivered,19.4,70.3,Clear,43,238,5,Mechanical Failure,79.7,202,0
+16-01-2024 17:28,Truck_7,380,Delayed,27.1,71.5,Clear,23,373,3,Mechanical Failure,97.1,286,1
+18-12-2024 01:23,Truck_5,417,In Transit,27,62.8,Heavy,33,373,1,Weather,74.1,122,1
+18-12-2024 14:40,Truck_1,169,Delayed,28.4,74.4,Heavy,53,342,6,Traffic,98.1,179,1
+04-03-2024 09:04,Truck_7,382,Delayed,22.2,63.2,Clear,12,467,6,None,80.6,210,1
+08-11-2024 02:08,Truck_6,404,Delayed,18.8,69.3,Detour,59,307,10,Weather,67.7,223,1
+22-05-2024 03:32,Truck_8,399,Delayed,20.1,74.2,Detour,54,317,8,Mechanical Failure,88.2,143,1
+16-07-2024 02:28,Truck_1,271,Delivered,24.6,73,Detour,53,382,3,None,94.1,166,0
+20-01-2024 21:06,Truck_1,332,Delayed,18.8,74.7,Heavy,16,279,2,None,61.8,289,1
+16-04-2024 03:03,Truck_5,445,Delivered,25.7,50.8,Heavy,28,414,2,Weather,75.5,140,1
+07-02-2024 04:52,Truck_6,426,In Transit,23.6,58,Heavy,47,263,1,Traffic,92.9,136,1
+16-01-2024 04:10,Truck_6,419,In Transit,27,56.7,Detour,25,378,2,None,74.3,212,0
+12-01-2024 02:20,Truck_4,128,Delayed,29,71,Detour,12,404,8,Traffic,81.3,272,1
+16-10-2024 20:45,Truck_9,200,In Transit,19.2,67.7,Heavy,11,349,6,None,73.6,299,1
+01-08-2024 09:16,Truck_8,434,Delivered,29.4,76.3,Heavy,30,166,1,None,94.6,220,1
+13-01-2024 21:07,Truck_1,339,Delayed,26.4,73.8,Clear,58,488,3,None,89.3,299,1
+27-03-2024 04:33,Truck_10,224,Delivered,19,79.9,Heavy,17,139,4,Weather,96.1,279,1
+15-03-2024 14:48,Truck_10,387,Delayed,18.4,79.5,Clear,17,456,2,Weather,65.9,155,1
+25-04-2024 10:07,Truck_8,146,Delayed,26,57.2,Clear,47,188,4,Mechanical Failure,76,131,1
+20-08-2024 01:28,Truck_4,177,In Transit,18.6,74.5,Heavy,16,429,1,Traffic,72.4,132,1
+02-07-2024 13:50,Truck_1,316,Delayed,26.4,60,Detour,36,274,1,Weather,68.2,218,1
+06-07-2024 13:05,Truck_9,458,In Transit,25,79.6,Heavy,56,303,1,None,73.8,206,1
+16-06-2024 11:37,Truck_4,481,Delivered,24,72.5,Detour,34,152,4,Mechanical Failure,79.8,299,0
+12-06-2024 09:44,Truck_5,231,Delivered,19.4,66.6,Heavy,32,289,8,Mechanical Failure,77.6,240,1
+20-07-2024 20:03,Truck_5,129,Delivered,19.2,77.9,Detour,11,448,4,None,68.9,132,0
+16-10-2024 14:41,Truck_1,398,Delivered,29.1,75.3,Detour,58,172,1,Traffic,99.3,194,0
+02-09-2024 03:17,Truck_5,149,Delayed,19.8,51.3,Heavy,24,386,6,Mechanical Failure,87.2,208,1
+20-07-2024 16:26,Truck_5,338,In Transit,20.6,65,Detour,56,421,2,Mechanical Failure,86.9,142,0
+19-08-2024 00:05,Truck_7,252,In Transit,27.1,59.8,Detour,53,457,8,Traffic,95.4,273,0
+04-03-2024 10:19,Truck_5,330,Delivered,26.5,59.2,Clear,51,274,3,Traffic,69.1,139,0
+01-10-2024 07:42,Truck_5,464,Delayed,28.2,61.4,Heavy,20,177,3,Weather,60.3,279,1
+02-02-2024 12:51,Truck_8,141,Delayed,27.7,55,Clear,12,432,10,Mechanical Failure,87.5,278,1
+31-10-2024 06:24,Truck_5,463,In Transit,19.5,64.4,Detour,32,244,1,Traffic,69.8,294,0
+01-12-2024 04:41,Truck_8,223,In Transit,25.2,54.1,Detour,45,121,1,Mechanical Failure,85.9,153,0
+15-03-2024 02:17,Truck_10,301,In Transit,18.5,75.3,Clear,39,140,6,Weather,78.5,208,0
+05-03-2024 22:52,Truck_10,195,Delivered,26.9,79.8,Clear,57,190,2,Traffic,60.6,235,0
+26-10-2024 23:46,Truck_7,310,Delivered,23.8,72.4,Clear,53,277,4,Mechanical Failure,91.3,122,0
+17-03-2024 17:11,Truck_2,100,In Transit,23.6,64.3,Detour,29,276,5,Mechanical Failure,89.1,198,0
+13-01-2024 15:51,Truck_1,147,In Transit,18.7,68.5,Heavy,25,439,9,None,75.2,266,1
+30-05-2024 23:00,Truck_9,251,Delayed,22.8,62.9,Heavy,52,173,3,Mechanical Failure,72.9,268,1
+31-07-2024 22:57,Truck_7,108,Delivered,26.6,61.7,Detour,47,122,7,Weather,64.6,116,0
+13-06-2024 04:47,Truck_6,340,In Transit,27.9,69.1,Clear,32,162,2,Weather,90.9,300,0
+06-07-2024 15:59,Truck_3,167,Delayed,21.6,54.6,Clear,46,240,10,Weather,60.5,278,1
+28-02-2024 12:30,Truck_3,488,Delivered,24.9,79.2,Heavy,52,290,10,Traffic,82.5,248,1
+22-03-2024 06:45,Truck_8,330,Delivered,24.4,79.5,Clear,19,110,7,None,66.3,109,0
+29-01-2024 19:22,Truck_9,177,Delivered,25.6,71.9,Detour,20,193,6,Mechanical Failure,95.5,182,0
+09-07-2024 02:11,Truck_4,132,Delivered,22.9,66.5,Clear,35,209,6,Mechanical Failure,94.3,122,0
+20-06-2024 13:30,Truck_6,208,Delayed,22.5,65.9,Heavy,38,462,7,Weather,83.1,193,1
+01-06-2024 00:41,Truck_6,348,Delayed,25.8,62.9,Detour,24,352,6,Weather,96.5,164,1
+23-03-2024 20:27,Truck_4,156,In Transit,19.4,75.2,Heavy,44,135,1,Weather,66.6,108,1
+18-04-2024 04:50,Truck_5,468,Delivered,26.6,59,Heavy,16,144,4,Weather,86.8,276,1
+26-06-2024 09:25,Truck_7,142,Delayed,28.4,67.3,Detour,30,181,6,Weather,84.3,104,1
+04-02-2024 01:08,Truck_10,349,In Transit,21.1,55.1,Heavy,13,453,10,Weather,65.1,111,1
+01-04-2024 16:27,Truck_4,226,Delivered,23.9,61.2,Heavy,13,211,2,Mechanical Failure,67.5,232,1
+14-08-2024 21:28,Truck_2,481,In Transit,22.4,77.9,Detour,25,143,8,Traffic,71.4,124,0
+03-10-2024 18:21,Truck_5,448,Delivered,20.1,65.7,Clear,20,180,7,Mechanical Failure,61.7,253,0
+25-03-2024 12:22,Truck_5,441,Delayed,18.9,67,Detour,48,359,8,Mechanical Failure,76,300,1
+12-09-2024 22:46,Truck_10,470,Delivered,25.1,70.3,Heavy,11,417,3,Mechanical Failure,76.5,126,1
+03-05-2024 22:24,Truck_10,459,In Transit,26.4,50.6,Heavy,17,222,9,Traffic,94.9,265,1
+27-05-2024 09:56,Truck_6,324,In Transit,27.7,54.8,Clear,46,344,10,Traffic,70.7,105,0
+25-05-2024 08:35,Truck_8,194,Delayed,24.9,57.9,Detour,10,220,3,None,77.3,172,1
+20-03-2024 08:55,Truck_9,334,Delivered,22.8,61.1,Clear,52,389,2,Traffic,88,123,0
+23-05-2024 15:33,Truck_2,179,Delivered,25.5,75.8,Clear,19,139,9,Traffic,83.5,282,0
+19-10-2024 23:58,Truck_8,401,Delayed,27.1,67.2,Detour,51,487,3,Weather,86.3,238,1
+11-04-2024 04:39,Truck_10,384,In Transit,24.2,72.5,Heavy,50,131,3,Weather,80.1,141,1
+10-03-2024 06:12,Truck_9,434,Delivered,22,69.2,Heavy,17,233,10,None,63.4,138,1
+28-12-2024 10:46,Truck_10,366,Delayed,18.7,59.1,Detour,39,466,6,Traffic,82.7,109,1
+06-05-2024 07:22,Truck_3,269,In Transit,27.7,57.5,Detour,54,288,6,None,89.8,116,0
+17-01-2024 04:29,Truck_1,292,Delivered,22.7,61,Clear,42,358,9,Mechanical Failure,77.7,256,0
+28-09-2024 01:41,Truck_6,288,Delivered,25.4,62,Clear,54,154,2,Traffic,71.9,211,0
+06-03-2024 02:39,Truck_8,286,Delivered,20.7,59,Heavy,43,387,4,Traffic,60.7,134,1
+16-08-2024 05:55,Truck_7,155,Delayed,24,72.4,Detour,28,398,6,Traffic,63.8,278,1
+07-08-2024 09:39,Truck_8,488,Delivered,26.5,66.6,Heavy,41,104,1,Mechanical Failure,67.1,151,1
+30-04-2024 20:36,Truck_8,386,In Transit,21.8,79.7,Detour,15,463,1,Traffic,75,224,0
+03-07-2024 12:38,Truck_3,153,Delivered,20.7,55.3,Detour,55,304,8,None,79.5,147,0
+27-04-2024 09:13,Truck_5,317,Delayed,26.5,52.7,Heavy,37,427,2,Traffic,69.9,233,1
+11-12-2024 16:22,Truck_5,281,In Transit,28,73.5,Detour,43,390,5,Mechanical Failure,86.4,153,0
+30-04-2024 19:31,Truck_8,473,Delayed,24.8,61.7,Heavy,19,360,10,Weather,97.3,186,1
+26-03-2024 15:40,Truck_7,221,Delivered,25.2,68.5,Detour,41,101,9,None,99.3,287,0
+19-02-2024 23:24,Truck_2,276,In Transit,29.2,77.1,Clear,39,483,7,None,71.5,157,0
+15-09-2024 01:08,Truck_5,331,Delivered,21.6,61.2,Heavy,24,450,8,Traffic,64.4,123,1
+07-05-2024 12:49,Truck_2,249,Delivered,24.3,78.8,Heavy,13,125,2,Mechanical Failure,78.7,165,1
+30-06-2024 04:50,Truck_1,379,Delayed,23.8,78.8,Detour,22,361,5,Weather,89.3,112,1
+08-11-2024 03:31,Truck_10,489,In Transit,18.4,59.9,Detour,28,136,9,Traffic,74.3,272,0
+27-09-2024 15:16,Truck_8,211,In Transit,19.8,52.8,Heavy,23,423,1,Traffic,80.6,185,1
+26-10-2024 22:42,Truck_8,454,In Transit,18.9,50.9,Detour,45,230,7,Weather,70.2,116,0
+23-09-2024 14:50,Truck_10,427,In Transit,23.9,56.2,Heavy,31,443,3,None,89,148,1
+19-08-2024 08:18,Truck_7,332,In Transit,24.4,69.5,Heavy,27,343,5,Traffic,87.6,235,1
+20-10-2024 12:32,Truck_1,195,In Transit,19.3,70.6,Heavy,34,134,2,Traffic,98.2,220,1
+27-07-2024 09:16,Truck_9,249,Delivered,23.6,74.3,Detour,45,482,7,Mechanical Failure,66.8,246,0
+26-11-2024 11:25,Truck_4,274,Delayed,22,51.1,Heavy,38,175,4,Traffic,64,271,1
+23-05-2024 20:20,Truck_6,272,In Transit,19,72.1,Detour,32,113,6,None,94.9,119,0
+26-08-2024 13:29,Truck_1,214,Delayed,27,55,Clear,18,319,3,Mechanical Failure,67,127,1
+15-01-2024 08:13,Truck_6,487,Delayed,18.7,62,Detour,35,432,9,None,72.3,247,1
+11-10-2024 10:29,Truck_10,420,Delayed,29.9,64.6,Heavy,34,282,10,Mechanical Failure,79.4,134,1
+17-05-2024 11:54,Truck_5,135,Delayed,24.7,67.1,Heavy,26,380,7,Traffic,64.6,109,1
+16-08-2024 22:23,Truck_1,269,In Transit,25.2,63.5,Detour,19,262,7,Weather,71.6,295,0
+22-08-2024 09:00,Truck_2,419,Delivered,21,74.2,Clear,29,386,9,Traffic,95.1,186,0
+02-09-2024 16:36,Truck_6,407,Delivered,23.5,77.7,Detour,55,351,6,None,68.4,168,0
+16-12-2024 12:03,Truck_9,331,In Transit,24.2,74,Detour,60,225,8,None,61,142,0
+27-02-2024 15:58,Truck_1,444,In Transit,20.8,63.9,Heavy,38,203,1,Weather,73.7,201,1
+16-10-2024 12:27,Truck_1,319,In Transit,29.1,61.3,Detour,24,392,7,None,72.8,123,0
+27-04-2024 12:02,Truck_10,402,Delivered,21,66.3,Clear,52,306,10,Weather,70.1,251,0
+07-08-2024 08:25,Truck_10,269,Delayed,19,73.6,Clear,50,307,3,Mechanical Failure,68.1,102,1
+23-07-2024 23:11,Truck_10,318,In Transit,22.5,59.3,Heavy,18,331,9,None,97.3,273,1
+23-09-2024 02:31,Truck_3,388,Delivered,24.6,74.3,Detour,29,461,1,Mechanical Failure,68.1,159,0
+18-10-2024 06:34,Truck_6,166,Delayed,26.9,58.3,Clear,29,283,3,Weather,64.1,113,1
+23-04-2024 08:06,Truck_10,338,Delivered,28.7,65.6,Heavy,45,348,8,Traffic,96.1,230,1
+15-02-2024 19:39,Truck_4,457,In Transit,18.7,52.7,Clear,52,366,4,None,93.1,275,0
+17-06-2024 14:27,Truck_6,274,Delivered,21.5,74,Heavy,23,448,5,Mechanical Failure,74.7,200,1
+19-07-2024 13:04,Truck_7,332,Delayed,19.2,56.9,Detour,27,357,2,None,87.8,217,1
+30-09-2024 14:31,Truck_4,388,In Transit,27.4,50.6,Detour,58,401,5,Mechanical Failure,81.4,196,0
+06-08-2024 22:02,Truck_10,377,Delivered,18.2,51.7,Detour,34,306,8,Traffic,87.9,139,0
+04-03-2024 23:39,Truck_2,265,Delivered,23.5,78.4,Clear,60,107,3,Weather,62.4,237,0
+09-06-2024 06:11,Truck_8,316,Delayed,19.8,70.6,Detour,18,194,4,Mechanical Failure,95.8,240,1
+03-08-2024 20:36,Truck_6,239,In Transit,28.7,64,Clear,35,469,3,Weather,63.9,293,0
+14-04-2024 08:17,Truck_3,241,Delayed,21.4,70.9,Clear,48,121,4,Weather,75.3,195,1
+28-07-2024 07:33,Truck_10,326,Delayed,27.2,69.3,Detour,24,492,9,Weather,72.5,223,1
+13-09-2024 12:35,Truck_2,357,Delivered,24,76.1,Detour,39,339,9,Traffic,97.8,146,0
+05-09-2024 05:28,Truck_6,279,Delivered,19.6,55.9,Heavy,30,187,9,Traffic,90.5,126,1
+02-01-2024 07:22,Truck_2,106,Delivered,26.7,53.3,Detour,39,128,5,Weather,88,117,0
+08-11-2024 05:03,Truck_7,381,In Transit,20,52.9,Clear,13,216,5,Weather,87.3,160,0
+15-11-2024 06:42,Truck_7,416,Delivered,20.5,61.9,Detour,51,172,1,Weather,75.5,112,0
+16-12-2024 21:09,Truck_9,147,Delayed,19,73.2,Detour,60,260,5,Mechanical Failure,77.2,216,1
+27-03-2024 02:27,Truck_3,277,In Transit,28.1,55.1,Clear,44,111,3,Weather,91.8,282,0
+29-09-2024 14:00,Truck_1,116,Delivered,23,79.6,Detour,55,362,1,None,96.6,222,0
+08-10-2024 14:00,Truck_7,324,Delivered,22.2,62.9,Heavy,50,365,7,Weather,95.8,210,1
+23-12-2024 22:24,Truck_1,325,In Transit,26,56,Clear,34,359,4,None,72.2,248,0
+03-06-2024 09:40,Truck_10,245,Delivered,22,61.2,Detour,22,480,6,Weather,89.3,284,0
+26-06-2024 11:19,Truck_5,424,Delivered,23.2,50.2,Clear,55,385,9,Weather,83.2,228,0
+13-12-2024 17:26,Truck_5,467,Delayed,26.5,62.1,Heavy,54,222,2,Traffic,97.3,259,1
+24-03-2024 12:07,Truck_4,262,In Transit,23.4,62,Heavy,36,272,7,None,82.9,146,1
+17-09-2024 03:48,Truck_7,356,Delivered,21.6,60.4,Clear,45,292,1,Mechanical Failure,94.3,196,0
+23-09-2024 17:43,Truck_6,166,Delayed,20.4,70.2,Clear,19,391,5,None,74,238,1
+19-11-2024 04:06,Truck_4,349,In Transit,25.6,53.9,Heavy,26,189,9,Weather,77.1,285,1
+13-08-2024 01:42,Truck_7,338,Delivered,26.8,68.3,Detour,45,458,9,Mechanical Failure,76.7,191,0
+08-08-2024 13:11,Truck_5,273,Delivered,19.9,63.6,Clear,27,265,8,Weather,77,243,0
+09-09-2024 10:53,Truck_7,239,In Transit,25.8,56,Detour,50,274,7,Weather,88.3,261,0
+27-11-2024 09:05,Truck_9,278,Delivered,22.8,52.9,Heavy,18,104,4,Traffic,71.2,190,1
+29-04-2024 15:32,Truck_1,412,Delayed,20.2,65,Clear,14,230,2,Mechanical Failure,72.9,249,1
+30-12-2024 19:22,Truck_6,125,In Transit,25.4,61.5,Detour,50,408,6,None,83.4,221,0
+19-12-2024 21:18,Truck_8,404,Delivered,24.7,74.2,Heavy,23,459,1,Traffic,71.7,127,1
+06-09-2024 12:53,Truck_9,392,Delivered,29.1,51.3,Clear,35,434,7,None,70.8,249,0
+30-12-2024 07:08,Truck_7,145,Delivered,29.8,75.7,Detour,60,287,9,Traffic,87.6,216,0
+16-11-2024 16:38,Truck_4,485,Delayed,24.6,50.3,Heavy,11,155,1,Mechanical Failure,84.9,161,1
+08-06-2024 09:09,Truck_4,312,Delayed,19.1,52,Detour,50,263,2,None,87.6,123,1
+24-04-2024 17:57,Truck_6,286,In Transit,25.1,56.2,Detour,50,408,10,Traffic,99.3,148,0
+01-03-2024 20:32,Truck_3,396,In Transit,23,61.1,Clear,14,439,8,None,91.9,119,0
+23-02-2024 18:40,Truck_1,352,Delivered,26.6,70.3,Detour,12,260,7,Traffic,77.4,267,0
+25-09-2024 05:14,Truck_7,410,Delivered,28.4,52.7,Detour,48,352,8,Weather,95.5,213,0
+09-03-2024 19:11,Truck_10,484,Delayed,22.8,53.7,Clear,18,176,4,Weather,73.7,131,1
+29-01-2024 14:54,Truck_1,152,In Transit,18.7,68.6,Clear,51,483,2,Weather,87.8,163,0
+07-10-2024 17:53,Truck_5,329,Delivered,27.3,68.4,Detour,57,418,1,Traffic,90,101,0
+17-10-2024 15:23,Truck_3,314,Delayed,23.8,63.7,Detour,41,117,8,None,69.5,147,1
+30-01-2024 00:58,Truck_3,121,In Transit,27.2,71.1,Detour,44,340,8,None,74.6,286,0
+15-08-2024 08:04,Truck_1,428,Delivered,24.1,58.4,Detour,11,111,6,Weather,81.1,111,0
+06-02-2024 09:01,Truck_10,113,In Transit,23,73.4,Detour,50,309,8,Traffic,71.7,293,0
+08-01-2024 14:39,Truck_7,201,Delayed,27.9,64.4,Clear,30,198,7,Weather,93.9,276,1
+11-04-2024 06:00,Truck_8,227,Delayed,28.3,62.8,Detour,30,400,4,Traffic,68.2,194,1
+20-03-2024 21:32,Truck_2,445,Delivered,25.3,57.9,Detour,38,364,1,Traffic,93.6,275,0
+29-04-2024 10:31,Truck_2,407,In Transit,29.6,64.3,Heavy,10,102,6,None,98.5,133,1
+20-12-2024 11:12,Truck_8,135,In Transit,22.9,60.9,Heavy,42,379,8,Traffic,93.2,159,1
+05-07-2024 18:54,Truck_1,160,Delivered,22.3,69.7,Detour,37,255,7,Traffic,66.8,170,0
+27-02-2024 01:39,Truck_5,472,In Transit,22.7,53,Heavy,30,389,6,Weather,86.8,232,1
+11-10-2024 19:36,Truck_10,408,In Transit,19.5,65.2,Detour,25,230,3,Traffic,61.9,245,0
+28-12-2024 10:23,Truck_4,306,Delayed,26.1,74.8,Heavy,37,232,7,None,77.1,289,1
+28-01-2024 02:18,Truck_3,107,In Transit,28.6,54.6,Detour,52,180,1,Traffic,89.8,194,0
+11-10-2024 05:31,Truck_2,155,Delivered,26.9,75,Detour,25,446,5,Mechanical Failure,96.8,176,0
+07-10-2024 13:44,Truck_10,414,Delivered,26.8,73.9,Heavy,14,130,1,Mechanical Failure,86.9,267,1
+07-06-2024 10:37,Truck_5,177,Delayed,19.9,58.4,Clear,57,335,5,Weather,98.6,283,1
+20-12-2024 04:15,Truck_9,118,Delivered,26.8,65.4,Detour,21,475,1,Mechanical Failure,96.9,165,0
+11-02-2024 21:05,Truck_1,438,In Transit,25,65.2,Detour,49,421,3,None,82.4,273,0
+22-02-2024 20:07,Truck_1,154,Delayed,26.8,56,Clear,13,413,8,Traffic,73.8,220,1
+25-05-2024 08:22,Truck_8,320,In Transit,24.3,77,Clear,56,410,3,Traffic,73.4,141,0
+03-07-2024 12:21,Truck_1,402,Delayed,20.3,56.6,Detour,52,149,4,Weather,82.6,158,1
+28-01-2024 23:24,Truck_7,443,Delivered,18.9,68.8,Clear,36,159,2,Weather,86.3,171,0
+10-06-2024 09:00,Truck_7,246,In Transit,22,58.1,Heavy,54,128,7,Traffic,61,265,1
+08-03-2024 23:13,Truck_9,146,In Transit,20.7,50.6,Clear,28,201,10,Weather,75.9,178,0
+27-07-2024 10:13,Truck_1,108,Delivered,23,73.4,Clear,13,324,2,Mechanical Failure,77.9,233,0
+10-09-2024 19:41,Truck_1,152,Delivered,22.8,65.2,Heavy,33,386,4,Weather,63.3,227,1
+27-04-2024 03:04,Truck_10,361,Delayed,29.7,62.2,Detour,35,131,9,None,61.8,253,1
+22-04-2024 22:47,Truck_2,495,In Transit,23.8,69.8,Heavy,22,487,9,Weather,86.1,108,1
+09-01-2024 03:30,Truck_5,187,In Transit,24.5,73.1,Clear,23,382,7,Weather,67.4,149,0
+09-12-2024 09:35,Truck_3,202,Delayed,26.5,77.8,Clear,31,298,8,None,60.6,102,1
+07-03-2024 03:32,Truck_4,384,Delivered,24.5,62.2,Clear,45,418,7,None,75.8,298,0
+04-08-2024 03:11,Truck_8,486,In Transit,25.8,64.9,Clear,31,136,9,Traffic,85.4,178,0
+10-12-2024 18:38,Truck_8,488,In Transit,25.4,64.3,Clear,14,254,1,Weather,84,250,0
+17-11-2024 12:35,Truck_8,244,Delayed,29.1,67.2,Heavy,18,118,5,Traffic,70.5,290,1
+03-11-2024 00:16,Truck_2,193,In Transit,25.7,64,Heavy,33,335,8,Mechanical Failure,90,240,1
+20-10-2024 02:07,Truck_7,268,Delivered,18.7,69.5,Heavy,39,101,9,Mechanical Failure,77.1,205,1
+09-01-2024 21:49,Truck_2,375,Delayed,19.2,72.9,Detour,58,119,7,None,96.9,213,1
+22-07-2024 11:45,Truck_9,465,In Transit,28,59.6,Clear,51,305,10,Mechanical Failure,96.9,153,0
+30-08-2024 12:04,Truck_10,258,Delayed,19.3,74.2,Detour,52,407,8,Weather,84.7,245,1
+20-11-2024 18:45,Truck_1,254,Delivered,27.3,71.7,Detour,38,279,10,Traffic,91.5,111,0
+24-11-2024 01:13,Truck_10,456,In Transit,20.9,71.2,Clear,46,414,10,Mechanical Failure,90.6,280,0
+26-01-2024 17:18,Truck_7,158,In Transit,29.7,78.2,Heavy,43,334,5,Weather,72.7,181,1
+23-07-2024 23:58,Truck_5,158,Delayed,25.9,51.3,Detour,46,308,7,None,64.6,115,1
+21-04-2024 07:23,Truck_10,260,Delivered,23.2,56.3,Clear,57,329,7,Mechanical Failure,77.9,258,0
+29-05-2024 19:41,Truck_2,249,In Transit,21.4,56.6,Detour,49,398,10,Mechanical Failure,67.3,279,0
+15-02-2024 12:50,Truck_6,224,Delayed,28.3,69,Clear,20,445,6,None,60.1,259,1
+21-04-2024 22:20,Truck_8,162,Delivered,29.4,65.9,Detour,40,262,2,Traffic,61.5,298,0
+07-09-2024 01:59,Truck_4,160,Delivered,20.7,63.1,Clear,52,488,3,Mechanical Failure,79.6,246,0
+26-04-2024 07:24,Truck_8,260,Delivered,18.8,55,Detour,13,428,2,Weather,73.9,198,0
+23-03-2024 13:50,Truck_7,245,In Transit,23.3,59.8,Clear,28,142,5,None,80.7,160,0
+05-04-2024 13:50,Truck_7,495,Delivered,25.1,75.5,Detour,39,234,1,None,74.8,203,0
+24-08-2024 01:36,Truck_8,236,Delayed,18.2,50.5,Clear,20,260,2,Weather,61.1,278,1
+07-11-2024 04:03,Truck_9,259,Delivered,21.3,79.3,Detour,49,276,2,None,99.1,259,0
+20-09-2024 16:44,Truck_7,227,Delivered,27.6,68.1,Detour,60,399,1,Traffic,64.1,126,0
+06-11-2024 21:58,Truck_7,204,In Transit,20.5,60.2,Clear,26,460,5,None,66.9,231,0
+30-03-2024 12:05,Truck_10,384,Delayed,18.5,79,Detour,21,185,8,Weather,68.1,143,1
+24-05-2024 00:02,Truck_6,187,Delayed,18.9,60.3,Clear,34,223,1,Weather,85.3,197,1
+26-01-2024 08:28,Truck_3,302,Delivered,19.5,64.5,Detour,38,149,10,None,69,213,0
+18-05-2024 14:34,Truck_3,177,In Transit,24.7,70.6,Heavy,58,301,1,Mechanical Failure,82.7,254,1
+19-05-2024 11:10,Truck_2,448,In Transit,21.5,55.7,Heavy,55,500,2,Mechanical Failure,86.7,173,1
+19-10-2024 16:07,Truck_5,197,In Transit,22.9,71.9,Clear,18,387,9,None,71,140,0
+12-04-2024 19:29,Truck_10,428,In Transit,28.6,77.7,Heavy,14,175,9,Traffic,96.2,115,1
+29-02-2024 23:31,Truck_8,435,Delayed,24.7,75.3,Heavy,41,245,2,Weather,87.1,232,1
+03-10-2024 16:09,Truck_6,309,In Transit,20.2,65.8,Detour,26,105,9,Mechanical Failure,60.7,244,0
+12-07-2024 10:13,Truck_9,346,Delivered,21.5,60.1,Clear,17,370,9,None,70.8,259,0
+24-10-2024 02:04,Truck_2,428,Delivered,29.1,55.9,Clear,34,176,2,None,89.5,123,0
+21-03-2024 11:55,Truck_5,106,Delivered,21.6,79.3,Clear,51,120,9,Weather,96.2,228,0
+14-07-2024 20:00,Truck_3,154,Delayed,25.8,69,Clear,60,357,10,Mechanical Failure,87.9,269,1
+23-11-2024 19:15,Truck_10,417,In Transit,23.8,50.7,Heavy,47,278,2,None,88.7,226,1
+26-09-2024 10:33,Truck_5,438,Delayed,20.6,79.3,Heavy,37,431,5,Mechanical Failure,71.7,246,1
+09-08-2024 16:48,Truck_5,106,Delayed,29.6,62,Heavy,54,410,9,Weather,62.3,111,1
+23-11-2024 08:35,Truck_4,147,Delayed,27.5,51.6,Clear,15,496,4,Traffic,68.4,238,1
+16-10-2024 22:49,Truck_7,248,Delivered,23,72.3,Heavy,35,256,3,Traffic,99.2,296,1
+15-02-2024 22:41,Truck_7,299,In Transit,20.5,75.2,Clear,21,148,6,Mechanical Failure,67.5,150,0
+15-06-2024 02:50,Truck_7,382,Delivered,20.6,72.8,Heavy,10,128,1,Weather,79.2,157,1
+26-06-2024 19:58,Truck_2,236,Delivered,19.4,57.2,Heavy,13,368,2,Weather,83.7,276,1
+01-12-2024 12:38,Truck_4,122,Delayed,28.3,80,Detour,43,444,10,Mechanical Failure,91.6,141,1
+31-07-2024 03:43,Truck_10,201,In Transit,24.4,50.8,Heavy,13,367,2,None,88.3,174,1
+16-03-2024 13:20,Truck_9,226,In Transit,18.6,77.9,Heavy,30,252,10,None,67.3,145,1
+17-06-2024 14:43,Truck_9,266,Delivered,23.5,60.2,Heavy,57,108,2,Traffic,65.5,202,1
+26-01-2024 05:00,Truck_8,277,Delivered,29.2,56.9,Detour,24,100,2,Mechanical Failure,84.2,164,0
+09-03-2024 09:56,Truck_4,475,In Transit,24.3,52.6,Heavy,55,283,6,Weather,95.9,173,1
+28-08-2024 07:23,Truck_8,387,Delivered,28.1,64.7,Clear,51,340,10,Weather,61.1,243,0
+13-01-2024 18:59,Truck_6,286,In Transit,25,68.4,Heavy,50,382,5,Weather,71.9,283,1
+21-12-2024 10:48,Truck_7,367,Delayed,27,55.1,Heavy,47,449,9,Mechanical Failure,99.7,109,1
+28-12-2024 17:40,Truck_4,371,Delayed,27.4,50.9,Clear,40,463,8,Weather,90.7,144,1
+18-08-2024 05:51,Truck_7,315,Delivered,23.5,68.6,Heavy,20,372,1,None,63.8,221,1
+09-09-2024 05:33,Truck_6,262,In Transit,24.5,50.1,Heavy,20,387,2,Weather,95,145,1
+01-10-2024 09:21,Truck_7,201,Delayed,23.9,57.8,Heavy,24,170,1,Mechanical Failure,90.8,104,1
+14-10-2024 10:21,Truck_4,420,Delayed,21.6,62.8,Clear,31,242,10,Weather,95.6,221,1
+13-06-2024 00:29,Truck_1,143,Delivered,21.6,64.1,Detour,32,307,10,Traffic,64,168,0
+22-07-2024 16:30,Truck_6,264,Delivered,26.9,70,Heavy,32,188,1,Weather,79.2,213,1
+30-04-2024 04:58,Truck_5,479,Delivered,23.7,77.9,Detour,56,276,7,Weather,83.7,272,0
+27-10-2024 22:09,Truck_2,347,In Transit,21,63.1,Detour,35,382,5,None,74.8,275,0
+18-04-2024 23:06,Truck_2,276,Delivered,18,64.3,Heavy,10,361,5,None,88.6,242,1
+18-09-2024 19:39,Truck_8,157,Delayed,18.7,73.6,Clear,55,323,9,Mechanical Failure,81.3,141,1

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Predictive model</title>
+    <style>
+        :root {
+            --primary-color: #6a5acd; /* SlateBlue */
+            --secondary-color: #9370db; /* MediumPurple */
+            --background-color: #e6e6fa; /* Lavender */
+            --text-color: #333;
+            --light-gray: #f5f5f5;
+            --white: #ffffff;
+            --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            --border-radius: 8px;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: var(--white);
+            padding: 30px;
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow);
+        }
+        
+        h1 {
+            color: var(--primary-color);
+            text-align: center;
+            margin-bottom: 30px;
+            font-weight: 600;
+            border-bottom: 2px solid var(--secondary-color);
+            padding-bottom: 10px;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        
+        label {
+            width: 250px;
+            font-weight: 500;
+            margin-right: 15px;
+        }
+        
+        input[type="number"],
+        select {
+            flex: 1;
+            min-width: 200px;
+            padding: 10px 15px;
+            border: 1px solid #ddd;
+            border-radius: var(--border-radius);
+            font-size: 16px;
+            transition: border 0.3s;
+        }
+        
+        input[type="number"]:focus,
+        select:focus {
+            outline: none;
+            border-color: var(--secondary-color);
+            box-shadow: 0 0 0 2px rgba(147, 112, 219, 0.2);
+        }
+        
+        button[type="submit"] {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 16px;
+            border-radius: var(--border-radius);
+            cursor: pointer;
+            transition: background-color 0.3s;
+            display: block;
+            margin: 30px auto 0;
+            width: 200px;
+        }
+        
+        button[type="submit"]:hover {
+            background-color: var(--secondary-color);
+        }
+        
+        .prediction-result {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: var(--light-gray);
+            border-radius: var(--border-radius);
+            text-align: center;
+            font-size: 18px;
+            color: var(--primary-color);
+            font-weight: 500;
+        }
+        
+        @media (max-width: 768px) {
+            .form-group {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            label {
+                width: 100%;
+                margin-bottom: 8px;
+            }
+            
+            input[type="number"],
+            select {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+
+<body style = "background-color:aquamarine;">
+    <h1 style = "color:blueviolet;">Predictive model for Logistic Delay</h1>
+    <form action = "/predict" method = "POST">
+        <label>Asset_ID: category</label>
+        <select name = "Asset_ID">
+            <option value = "Truck_1">Truck_1</option>
+            <option value = "Truck_2">Truck_2</option>
+            <option value = "Truck_3">Truck_3</option>
+            <option value = "Truck_4">Truck_4</option>
+            <option value = "Truck_5">Truck_5</option>
+            <option value = "Truck_6">Truck_6</option>
+            <option value = "Truck_7">Truck_7</option>
+            <option value = "Truck_8">Truck_8</option>
+            <option value = "Truck_9">Truck_9</option>
+            <option value = "Truck_10">Truck_10</option>
+        </select><br><br>
+        
+        <label>Inventory_Level (int): </label>
+        <input type = "number" name = "Inventory_Level" step = "1" min="100" max = "500" required><br><br>
+
+        <label>Shipment_Status: category: </label>
+        <select name = "Shipment_Status">
+            <option value = "Delayed">Delayed</option>
+            <option value = "In Transit">In Transit</option>
+            <option value = "Delivered">Delivered</option>
+        </select><br><br>
+
+        <label>Temperature: (Float): </label>
+        <input type = "number" name = "Temperature" step = "0.5" min =  "18" max = "30" required><br><br>
+
+        <label>Humidity: (Float): </label>
+        <input type = "number" name = "Humidity" step = "0.5" min =  "50" max = "80" required><br><br>
+
+        
+        <label>Traffic_Status: category: </label>
+        <select name = "Traffic_Status">
+            <option value = "Heavy">Heavy</option>
+            <option value = "Clear">Clear</option>
+            <option value = "Detour">Detour</option>
+        </select><br><br>
+
+        <label>Waiting_Time: (int): </label>
+        <input type = "number" name = "Waiting_Time" step = "1" min =  "10" max = "60" required><br><br>
+
+        <label>User_Transaction_Amount: (int): </label>
+        <input type = "number" name = "User_Transaction_Amount" step = "1" min =  "100" max = "500" required><br><br>
+
+        <label>User_Purchase_Frequency: (int): </label>
+        <input type = "number" name = "User_Purchase_Frequency" step = "1" min =  "1" max = "10" required><br><br>
+
+        <label>Logistics_Delay_Reason: category: </label>
+        <select name = "Logistics_Delay_Reason">
+            <option value = "no_reason">no_reason</option>
+            <option value = "Weather">Weather</option>
+            <option value = "Traffic">Traffic</option>
+            <option value = "Mechanical Failure">Mechanical Failure</option>
+        </select><br><br>
+
+        <label>Asset_Utilization: (Float): </label>
+        <input type = "number" name = "Asset_Utilization" step = "0.5" min =  "60" max = "100" required><br><br>
+
+        <label>Demand_Forecast: (int): </label>
+        <input type = "number" name = "Demand_Forecast" step = "1" min =  "100" max = "300" required><br><br>
+
+        <button type = "submit">Predict</button>
+     </form>
+     {% if prediction%}
+     <h3>{{prediction}}</h3p>
+     {% endif %}
+
+</body>
+</html>
